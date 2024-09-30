@@ -744,7 +744,8 @@ ff02::3 ip6-hosts
 0.0.0.0 toupai.cmcm.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 track.adform.net
-0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
+0.0.0.0 tracking.opencandy.com
+0.0.0.0 s3.amazonaws.com
 0.0.0.0 trafficjunky.com
 0.0.0.0 trafficstars.com
 0.0.0.0 translator.cmcm.com
