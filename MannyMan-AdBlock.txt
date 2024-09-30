@@ -8,7 +8,7 @@
 # |  •  UPDATED: 09/30/24  •  |
 # |  •  TIME: 03:40PM CST, UTC -5 || 15:40PM  •  |
 # |  •  SIZE: 23.2KB  •  |
-# |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyManAdBlock.txt  •  |
+# |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt  •  |
 # |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE  •  |
 #
 #      ............♠︎...................♠︎...........
