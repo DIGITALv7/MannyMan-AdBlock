@@ -3,7 +3,7 @@
 # |  •  TITLE: MannyMan-AdBlock
 # |  •  LIST TYPE: Supplementary Ads & Trackers Filter List
 # |  •  EXPIRATION: Never
-# |  •  NUMBER OF DOMAINS: 697
+# |  •  NUMBER OF DOMAINS: 775
 # |  •  AUTHOR: DIGITALv7  •  |
 # |  •  UPDATED: 10/01/24  •  |
 # |  •  TIME: 03:40PM CST, UTC -5 || 15:40PM  •  |
