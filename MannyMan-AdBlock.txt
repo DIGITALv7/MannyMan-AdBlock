@@ -81,6 +81,7 @@ ff02::3 ip6-hosts
 # ______________________________________
 # •••◆••• [  BLOCK LIST START ] •••◆•••
 # ______________________________________
+#
 # ◑ ------ Twitch TV Ads / (may not always block) ------ ◐
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 api.sprig.com
@@ -858,6 +859,7 @@ ff02::3 ip6-hosts
 # ______________________________
 # •••◆••• [ WHITELIST ] •••◆•••
 # ______________________________
+#
 # ---- Twitch TV / Prevents streamer channel extensions & CheerBits animations from causing loading errors. Updated as needed. ----
 @@||api.viewerattack.com
 @@||coordinator.ext-twitch.tv
