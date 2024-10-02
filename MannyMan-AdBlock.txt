@@ -140,7 +140,8 @@ ff02::3 ip6-hosts
 0.0.0.0 aaxads.com
 0.0.0.0 ab.cmcm.com
 0.0.0.0 abccmproxy.cmcm.com
-0.0.0.0 aboutads.info
+0.0.0.0 aboutads.com
+0.0.0.0 about.ads.microsoft.com
 0.0.0.0 acuityads.com
 0.0.0.0 ad-g.doubleclick.net
 0.0.0.0 ad-spire.net
@@ -158,10 +159,12 @@ ff02::3 ip6-hosts
 0.0.0.0 ad.ru.doubleclick.net
 0.0.0.0 ad.trafficshop.com
 0.0.0.0 ad.us.doubleclick.net
+0.0.0.0 ad4game.com
 0.0.0.0 adamnet.works
 0.0.0.0 adapac.cmcm.com
 0.0.0.0 adbrain.com
 0.0.0.0 adbrite.com
+0.0.0.0 adbutler.com
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adcash.com
 0.0.0.0 adclick.com
@@ -382,6 +385,7 @@ ff02::3 ip6-hosts
 0.0.0.0 cdn.jsdelivr.netsdk.postscript.io
 0.0.0.0 cdn.justuno.com
 0.0.0.0 cdn.jwplayer.com
+0.0.0.0 cdn.larapush.com
 0.0.0.0 cdn.luckyorange.com
 0.0.0.0 cdn.mouseflow.com
 0.0.0.0 cdn.msdwnld.com
@@ -650,6 +654,7 @@ ff02::3 ip6-hosts
 0.0.0.0 myntagency.com
 0.0.0.0 nativo.com
 0.0.0.0 networkadvertising.org
+0.0.0.0 network-n.com
 0.0.0.0 news.cmcm.com
 0.0.0.0 nextroll.com
 0.0.0.0 nielsen.com
@@ -708,6 +713,7 @@ ff02::3 ip6-hosts
 0.0.0.0 pushad.net
 0.0.0.0 pvhnorthamerica.demdex.net
 0.0.0.0 pvhnorthamerica.tt.omtrdc.net
+0.0.0.0 pwngames.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 qa.cmcm.com
 0.0.0.0 qa.ter.ocshlive.ksmobile.net
@@ -725,6 +731,7 @@ ff02::3 ip6-hosts
 0.0.0.0 responder.wt-safetag.com
 0.0.0.0 responsys.com
 0.0.0.0 revenuehits.com
+0.0.0.0 revive-adserver.com
 0.0.0.0 richads.com
 0.0.0.0 rt.cmcm.com
 0.0.0.0 rtb.cmcm.com
