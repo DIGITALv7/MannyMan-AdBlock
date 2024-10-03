@@ -3,9 +3,9 @@
 # |  •  TITLE: MannyMan-AdBlock
 # |  •  LIST TYPE: Supplementary Ads & Trackers Filter List
 # |  •  EXPIRATION: Never
-# |  •  NUMBER OF DOMAINS: 820
+# |  •  NUMBER OF DOMAINS: 823
 # |  •  AUTHOR: DIGITALv7  •  |
-# |  •  UPDATED: 10/02/24  •  |
+# |  •  UPDATED: 10/03/24  •  |
 # |  •  TIME: 05:48PM CST, UTC -5 || 17:48PM  •  |
 # |  •  SIZE: 24.9KB  •  |
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt  •  |
@@ -135,6 +135,7 @@ ff02::3 ip6-hosts
 0.0.0.0 6dad.com
 0.0.0.0 77tracking.com
 0.0.0.0 7adpower.com
+0.0.0.0 a.adtng.com
 0.0.0.0 a.nel.cloudflare.com
 0.0.0.0 a.ns.edm.cmcm.com
 0.0.0.0 aaxads.com
@@ -243,6 +244,7 @@ ff02::3 ip6-hosts
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 adservetx.media.net
 0.0.0.0 adservice.google.com
+0.0.0.0 adsession.exacdn.com
 0.0.0.0 adsmanager.net
 0.0.0.0 adsmart.net
 0.0.0.0 adsmartracker.com
@@ -735,6 +737,7 @@ ff02::3 ip6-hosts
 0.0.0.0 richads.com
 0.0.0.0 rt.cmcm.com
 0.0.0.0 rtb.cmcm.com
+0.0.0.0 s.ma3ion.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s1-ftzn-szgame.cmcm.com
 0.0.0.0 s3-ftzn-szgame.cmcm.com
