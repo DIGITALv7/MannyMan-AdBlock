@@ -1,7 +1,7 @@
 # ----»» [ 🛡 MannyMan's Ad Block 🛡 | Optimized ] ««----
 #
 # |  •  TITLE: MannyMan-AdBlock
-# |  •  LIST TYPE: Supplementary Ads & Trackers Filter List
+# |  •  LIST TYPE: Supplementary Anti-Ads & Anti-Trackers Filter List
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 823
 # |  •  AUTHOR: DIGITALv7  •  |
