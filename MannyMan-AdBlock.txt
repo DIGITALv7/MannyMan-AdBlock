@@ -5,7 +5,7 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 824
 # |  •  AUTHOR: DIGITALv7  •  |
-# |  •  UPDATED: 10/05/24  •  |
+# |  •  UPDATED: 10/07/24  •  |
 # |  •  TIME: 02:48PM CST, UTC -5 || 14:48PM  •  |
 # |  •  SIZE: 25KB  •  |
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt  •  |
@@ -908,6 +908,101 @@ ff02::3 ip6-hosts
 0.0.0.0 ziffdavis.com
 0.0.0.0 zj.dcys.ksmobile.com
 0.0.0.0 zj.ios.ksmobile.com
+
+
+0.0.0.0 ojrq.net
+0.0.0.0 ads.the-sun.com
+0.0.0.0 go.adimpact.com
+0.0.0.0 fluency.inc
+0.0.0.0 go.adimpact.com
+0.0.0.0 adimpact.com
+0.0.0.0 site.adform.com
+0.0.0.0 adform.com
+0.0.0.0 podcastchoices.com
+0.0.0.0 taboola.com
+0.0.0.0 teads.tv
+0.0.0.0 thetradedesk.com
+0.0.0.0 triplelift.com
+0.0.0.0 visualdna.com
+0.0.0.0 weborama.com
+0.0.0.0 yahooinc.com
+0.0.0.0 yieldlab.de
+0.0.0.0 zemanta.com
+0.0.0.0 zetaglobal.com
+0.0.0.0 ziffdavis.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 ads.yahooinc.com
+0.0.0.0 ads.aol.com
+0.0.0.0 ads.google.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 ads.snaptube.com
+0.0.0.0 ads.tubemate.com
+0.0.0.0 ads.msn.com
+0.0.0.0 ads.excite.com
+0.0.0.0 ads.microsoft.com
+0.0.0.0 info.evidon.com
+0.0.0.0 ads.kick.com
+0.0.0.0 privacy-policy.teads.com
+0.0.0.0 myntagency.com
+0.0.0.0 imaginecommunications.com
+0.0.0.0 tvscientific.com
+0.0.0.0 fluency.inc
+0.0.0.0 site.adform.com
+0.0.0.0 podcastchoices.com
+0.0.0.01 plusx.com
+0.0.0.0 theadex.com
+0.0.0.0 site.adform.com
+0.0.0.0 adgear.com
+0.0.0.0 adition.com
+0.0.0.0 adobe.com/advertising-cloud.html
+0.0.0.0 advertising.amazon.com/adtech-solutions/amazon-ad-server
+0.0.0.0 bttrads.com
+0.0.0.0 beeswax.com
+0.0.0.0 en.blendee.com
+0.0.0.0 captify.co.uk
+0.0.0.0 criteo.com
+0.0.0.0 deltaprojects.com
+0.0.0.0 disqus.com
+0.0.0.0 epsilon.com/emea
+0.0.0.0 ermes.ai
+0.0.0.0 disqus.com
+0.0.0.0 deltaprojects.com
+0.0.0.0 captify.co.uk
+0.0.0.0 xpo.knorex.com
+0.0.0.0 ipromote.com
+0.0.0.0 ignitionone.com
+0.0.0.0 hybridtheory.com
+0.0.0.0 gumgum.com
+0.0.0.0 groupm.com
+0.0.0.0 giftaddigital.com
+0.0.0.0 gamned.com/fr
+0.0.0.0 flashtalking.com
+0.0.0.0 loopme.com
+0.0.0.0 lotame.com
+0.0.0.0 magnite.com
+0.0.0.0 mediamath.com
+0.0.0.0 mobile.de
+0.0.0.0 neory.com
+0.0.0.0 home.neustar
+0.0.0.0 ncaudienceexchange.com
+0.0.0.0 nextroll.com
+0.0.0.0 nexxen.com
+0.0.0.0 nielsen.com
+0.0.0.0 openweb.com
+0.0.0.0 openx.com
+0.0.0.0 outbrain.com
+0.0.0.0 publicismedia.de
+0.0.0.0 quantcast.com
+0.0.0.0 advertising.roku.com
+0.0.0.0 advertising.roku.com/dataxu
+0.0.0.0 semasio.com
+0.0.0.0 sharethis.com
+0.0.0.0 skimlinks.com
+0.0.0.0 smartclip.com
+0.0.0.0 sojern.com
+0.0.0.0 sportradar.com
+0.0.0.0 springserve.com
+0.0.0.0 stackadapt.com
 #
 # ______________________________
 # •••◆••• [ WHITELIST ] •••◆•••
