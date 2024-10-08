@@ -48,6 +48,15 @@
 # https://www.canyoublockit.com/
 # https://ads-blocker.com/testing/
 #
+#
+# _____________________________________________
+# •••🚫•••  [ AD CHOICES OPT-OUT ] •••🚫•••
+# _____________________________________________
+#
+# https://optout.aboutads.info/?c=2&lang=EN
+# https://www.youronlinechoices.com
+#
+#
 # ___________________________________________
 # •••📈••• [ DNS REQUEST LOGS INFO ] •••📉•••
 # ___________________________________________
@@ -85,11 +94,15 @@ ff02::3 ip6-hosts
 # ◑ ------ Twitch TV Ads / (may not always block) ------ ◐
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 ads.twitch.tv
+0.0.0.0 ads-api.twitch.tv
+0.0.0.0 ad-api.twitch.tv
 0.0.0.0 ad.twitch.tv
 0.0.0.0 advertising.twitch.tv
 0.0.0.0 advertise.twitch.tv
 0.0.0.0 amazon-adsystem.twitch.tv
+0.0.0.0 analytics.twitch.tb
 0.0.0.0 advertisement.twitch.tv
+0.0.0.0 advertisements.twitch.tv
 0.0.0.0 advrt.twitch.tv
 0.0.0.0 advrts.twitch.tv
 0.0.0.0 adverts.twitch.tv
@@ -121,6 +134,10 @@ ff02::3 ip6-hosts
 0.0.0.0 spade.twitch.tv
 0.0.0.0 sq-tungsten-ts.amazon-adsystem.com
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 track.twitch.tv
+0.0.0.0 tracker.twitch.tv
+0.0.0.0 tracks.twitch.tv
+0.0.0.0 tracking.twitch.tv
 0.0.0.0 tungsten-service.prod.na.adsqtungsten.a9.amazon.dev
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 ul.api.c0nnectthed0ts.com
@@ -917,8 +934,6 @@ ff02::3 ip6-hosts
 0.0.0.0 ziffdavis.com
 0.0.0.0 zj.dcys.ksmobile.com
 0.0.0.0 zj.ios.ksmobile.com
-
-
 0.0.0.0 ojrq.net
 0.0.0.0 ads.the-sun.com
 0.0.0.0 go.adimpact.com
@@ -963,7 +978,6 @@ ff02::3 ip6-hosts
 0.0.0.0 site.adform.com
 0.0.0.0 adgear.com
 0.0.0.0 adition.com
-0.0.0.0 adobe.com/advertising-cloud.html
 0.0.0.0 advertising.amazon.com/adtech-solutions/amazon-ad-server
 0.0.0.0 bttrads.com
 0.0.0.0 beeswax.com
@@ -1012,6 +1026,9 @@ ff02::3 ip6-hosts
 0.0.0.0 sportradar.com
 0.0.0.0 springserve.com
 0.0.0.0 stackadapt.com
+0.0.0.0 ads-api.google.com
+0.0.0.0 ads-api.yahoo.com
+0.0.0.0 ads-api.youtube.com
 #
 # ______________________________
 # •••◆••• [ WHITELIST ] •••◆•••
