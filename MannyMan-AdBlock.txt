@@ -84,6 +84,15 @@ ff02::3 ip6-hosts
 #
 # ◑ ------ Twitch TV Ads / (may not always block) ------ ◐
 0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 ads.twitch.tv
+0.0.0.0 ad.twitch.tv
+0.0.0.0 advertising.twitch.tv
+0.0.0.0 advertise.twitch.tv
+0.0.0.0 amazon-adsystem.twitch.tv
+0.0.0.0 advertisement.twitch.tv
+0.0.0.0 advrt.twitch.tv
+0.0.0.0 advrts.twitch.tv
+0.0.0.0 adverts.twitch.tv
 0.0.0.0 aes.us-east.ono.axp.amazon-adsystem.com
 0.0.0.0 api.sprig.com
 0.0.0.0 api.twitch.us-east-1.prod.paets.advertising.amazon.dev
