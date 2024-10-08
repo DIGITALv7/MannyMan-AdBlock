@@ -100,7 +100,8 @@ ff02::3 ip6-hosts
 0.0.0.0 advertising.twitch.tv
 0.0.0.0 advertise.twitch.tv
 0.0.0.0 amazon-adsystem.twitch.tv
-0.0.0.0 analytics.twitch.tb
+0.0.0.0 analytics.twitch.tv
+0.0.0.0 analytic.twitch.tv
 0.0.0.0 advertisement.twitch.tv
 0.0.0.0 advertisements.twitch.tv
 0.0.0.0 advrt.twitch.tv
