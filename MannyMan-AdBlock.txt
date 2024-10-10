@@ -1030,6 +1030,24 @@ ff02::3 ip6-hosts
 0.0.0.0 ads-api.google.com
 0.0.0.0 ads-api.yahoo.com
 0.0.0.0 ads-api.youtube.com
+0.0.0.0 doubleclick.net
+0.0.0.0 liveadvert.com
+0.0.0.0 liveadverts.com
+0.0.0.0 hyperbanner.net
+0.0.0.0 adserv.com
+0.0.0.0 adserv.net
+0.0.0.0 adserve.com
+0.0.0.0 adserve.net
+0.0.0.0 adserver.com
+0.0.0.0 adserver.net
+0.0.0.0 adservice.net
+0.0.0.0 adservice.com
+0.0.0.0 adtrack.com
+0.0.0.0 adtrack.net
+0.0.0.0 adtracker.com
+0.0.0.0 adtracker.net
+0.0.0.0 adtracking.com
+0.0.0.0 adtracking.net
 #
 # ______________________________
 # •••◆••• [ WHITELIST ] •••◆•••
