@@ -1055,7 +1055,7 @@ ff02::3 ip6-hosts
 0.0.0.0 cookieinfoscript.com
 0.0.0.0 cookieyes.com
 0.0.0.0 cookie-script.com
-0.0.0.0 codesstatic.cloudflareinsights.com
+0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 ads.pro-market.net
 0.0.0.0 secure.quantserve.com
 0.0.0.0 cdn.jsdelivr.net
@@ -1064,6 +1064,9 @@ ff02::3 ip6-hosts
 0.0.0.0 s7.addthis.com
 0.0.0.0 s10.histats.com
 0.0.0.0 chs03.cookie-script.com
+0.0.0.0 paa-reporting-advertising.amazon
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 pagead-googlehosted.l.google.com
 #
 # ______________________________
 # •••◆••• [ WHITELIST ] •••◆•••
