@@ -5,7 +5,7 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 824
 # |  •  AUTHOR: DIGITALv7  •  |
-# |  •  UPDATED: 10/07/24  •  |
+# |  •  UPDATED: 10/09/24  •  |
 # |  •  TIME: 02:48PM CST, UTC -5 || 14:48PM  •  |
 # |  •  SIZE: 27.1KB  •  |
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt  •  |
