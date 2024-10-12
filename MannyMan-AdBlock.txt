@@ -1067,6 +1067,8 @@ ff02::3 ip6-hosts
 0.0.0.0 paa-reporting-advertising.amazon
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 pagead-googlehosted.l.google.com
+0.0.0.0 s-img.adskeeper.co.uk
+0.0.0.0 native-track.com
 #
 # ______________________________
 # •••◆••• [ WHITELIST ] •••◆•••
