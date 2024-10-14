@@ -3,7 +3,7 @@
 # |  •  TITLE: MannyMan-AdBlock
 # |  •  LIST TYPE: Supplementary Anti-Ads & Anti-Trackers Filter List
 # |  •  EXPIRATION: Never
-# |  •  NUMBER OF DOMAINS: 935
+# |  •  NUMBER OF DOMAINS: 959
 # |  •  AUTHOR: DIGITALv7  •  |
 # |  •  UPDATED: 10/14/24  •  |
 # |  •  TIME: 5:48PM CST, UTC -5 || 17:48PM  •  |
@@ -92,21 +92,39 @@ ff02::3 ip6-hosts
 #
 # ◑ ------ Twitch TV Ads / (may not always block) ------ ◐
 0.0.0.0 aax-us-east.amazon-adsystem.com
-0.0.0.0 ads.twitch.tv
-0.0.0.0 ads-api.twitch.tv
 0.0.0.0 ad-api.twitch.tv
+0.0.0.0 ad.ttvnw.net
 0.0.0.0 ad.twitch.tv
-0.0.0.0 advertising.twitch.tv
+0.0.0.0 admanager.ttvnw.net
+0.0.0.0 admanager.twitch.tv
+0.0.0.0 ads-api.twitch.tv
+0.0.0.0 ads.ttvnw.net
+0.0.0.0 ads.twitch.tv
+0.0.0.0 adsystem.ttvnw.net
+0.0.0.0 adsystem.twitch.tv
+0.0.0.0 advert.ttvnw.net
+0.0.0.0 advert.twitch.tv
+0.0.0.0 advertise.ttvnw.net
 0.0.0.0 advertise.twitch.tv
-0.0.0.0 amazon-adsystem.twitch.tv
-0.0.0.0 analytics.twitch.tv
-0.0.0.0 analytic.twitch.tv
+0.0.0.0 advertisement.ttvnw.net
 0.0.0.0 advertisement.twitch.tv
+0.0.0.0 advertisements.ttvnw.net
 0.0.0.0 advertisements.twitch.tv
-0.0.0.0 advrt.twitch.tv
-0.0.0.0 advrts.twitch.tv
+0.0.0.0 advertising.ttvnw.net
+0.0.0.0 advertising.twitch.tv
+0.0.0.0 adverts.ttvnw.net
 0.0.0.0 adverts.twitch.tv
+0.0.0.0 advrt.ttvnw.net
+0.0.0.0 advrt.twitch.tv
+0.0.0.0 advrts.ttvnw.net
+0.0.0.0 advrts.twitch.tv
 0.0.0.0 aes.us-east.ono.axp.amazon-adsystem.com
+0.0.0.0 amazon-adsystem.ttvnw.net
+0.0.0.0 amazon-adsystem.twitch.tv
+0.0.0.0 analytic.ttvnw.net
+0.0.0.0 analytic.twitch.tv
+0.0.0.0 analytics.ttvnw.net
+0.0.0.0 analytics.twitch.tv
 0.0.0.0 api.sprig.com
 0.0.0.0 api.twitch.us-east-1.prod.paets.advertising.amazon.dev
 0.0.0.0 api2.branch.io
@@ -134,10 +152,16 @@ ff02::3 ip6-hosts
 0.0.0.0 spade.twitch.tv
 0.0.0.0 sq-tungsten-ts.amazon-adsystem.com
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 track.ttvnw.net
 0.0.0.0 track.twitch.tv
+0.0.0.0 tracker.ttvnw.net
 0.0.0.0 tracker.twitch.tv
-0.0.0.0 tracks.twitch.tv
+0.0.0.0 trackers.ttvnw.net
+0.0.0.0 trackers.twitch.tv
+0.0.0.0 tracking.ttvnw.net
 0.0.0.0 tracking.twitch.tv
+0.0.0.0 tracks.ttvnw.net
+0.0.0.0 tracks.twitch.tv
 0.0.0.0 tungsten-service.prod.na.adsqtungsten.a9.amazon.dev
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 ul.api.c0nnectthed0ts.com
