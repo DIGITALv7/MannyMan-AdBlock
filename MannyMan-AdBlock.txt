@@ -48,14 +48,12 @@
 # https://www.canyoublockit.com/
 # https://ads-blocker.com/testing/
 #
-#
 # _____________________________________________
 # •••🚫•••  [ AD CHOICES OPT-OUT ] •••🚫•••
 # _____________________________________________
 #
 # https://optout.aboutads.info/?c=2&lang=EN
 # https://www.youronlinechoices.com
-#
 #
 # ___________________________________________
 # •••📈••• [ DNS REQUEST LOGS INFO ] •••📉•••
