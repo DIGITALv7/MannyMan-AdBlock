@@ -5,8 +5,8 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 961
 # |  •  AUTHOR: DIGITALv7  •  |
-# |  •  UPDATED: 10/30/24  •  |
-# |  •  TIME: 5:48PM CST, UTC -5 || 17:48PM  •  |
+# |  •  UPDATED: 10/31/24  •  |
+# |  •  TIME: 9:14PM CST, UTC -5 || 21:14PM  •  |
 # |  •  SIZE: 28.6KB  •  |
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt  •  |
 # |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE  •  |
@@ -186,6 +186,7 @@ ff02::3 ip6-hosts
 0.0.0.0 77tracking.com
 0.0.0.0 7adpower.com
 0.0.0.0 a.adtng.com
+0.0.0.0 a.exoclick.com
 0.0.0.0 a.nel.cloudflare.com
 0.0.0.0 a.ns.edm.cmcm.com
 0.0.0.0 aaxads.com
@@ -210,6 +211,7 @@ ff02::3 ip6-hosts
 0.0.0.0 ad.nz.doubleclick.net
 0.0.0.0 ad.ru.doubleclick.net
 0.0.0.0 ad.trafficshop.com
+0.0.0.0 ad.twinrdengine.com
 0.0.0.0 ad.us.doubleclick.net
 0.0.0.0 ad4game.com
 0.0.0.0 adamnet.works
@@ -606,6 +608,7 @@ ff02::3 ip6-hosts
 0.0.0.0 eyeota.com
 0.0.0.0 ezmob.com
 0.0.0.0 f.ns.edm.cmcm.com
+0.0.0.0 fabuloustrack.com
 0.0.0.0 favicon.yandex.net
 0.0.0.0 feedback.ksmobile.com
 0.0.0.0 files.adform.net
@@ -715,6 +718,7 @@ ff02::3 ip6-hosts
 0.0.0.0 jumpfly.com
 0.0.0.0 kargo.com
 0.0.0.0 kevel.com
+0.0.0.0 kingtrck1.com
 0.0.0.0 knorex.com
 0.0.0.0 ksmobile.com
 0.0.0.0 ksmobile.net
@@ -867,6 +871,11 @@ ff02::3 ip6-hosts
 0.0.0.0 rtb.cmcm.com
 0.0.0.0 s-img.adskeeper.co.uk
 0.0.0.0 s.ma3ion.com
+0.0.0.0 s.magsrv.com
+0.0.0.0 s.opoxv.com
+0.0.0.0 s.orbsrv.com
+0.0.0.0 s.pemsrv.com
+0.0.0.0 s.zlinkp.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s1-ftzn-szgame.cmcm.com
 0.0.0.0 s10.histats.com
@@ -966,6 +975,7 @@ ff02::3 ip6-hosts
 0.0.0.0 toupai.cmcm.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 track.adform.net
+0.0.0.0 track.fabuloustrack.com
 0.0.0.0 tracking.opencandy.com
 0.0.0.0 trafficjunky.com
 0.0.0.0 trafficstars.com
@@ -1053,6 +1063,7 @@ ff02::3 ip6-hosts
 0.0.0.0 ziffdavis.com
 0.0.0.0 zj.dcys.ksmobile.com
 0.0.0.0 zj.ios.ksmobile.com
+0.0.0.0 zodertracker.com
 #
 # ______________________________
 # •••◆••• [ WHITELIST ] •••◆•••
