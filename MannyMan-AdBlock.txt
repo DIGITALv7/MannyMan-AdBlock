@@ -3,9 +3,9 @@
 # |  •  TITLE: MannyMan-AdBlock
 # |  •  LIST TYPE: Supplementary Anti-Ads & Anti-Trackers Filter List
 # |  •  EXPIRATION: Never
-# |  •  NUMBER OF DOMAINS: 961
+# |  •  NUMBER OF DOMAINS: 970
 # |  •  AUTHOR: DIGITALv7  •  |
-# |  •  UPDATED: 10/31/24  •  |
+# |  •  UPDATED: 11/01/24  •  |
 # |  •  TIME: 9:14PM CST, UTC -5 || 21:14PM  •  |
 # |  •  SIZE: 28.9KB  •  |
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt  •  |
@@ -18,10 +18,10 @@
 #    \                                                /
 #     \............♠︎...................♠︎.........../
 #
-# ★ SHOUT0UTz: ★ •• T3ch, Tasha_Washa, MiCro, Data_007, iLLegal_DaTa,
-# J33per_Cr33per, DarkWeb-Devin, majiK, cAcTuS, h3x, QuiJa, cRack3r_j4ck,
-# r00t-X, Modded-Matt, maliciouS, Andrea-Doom, SinClair, SoH, TEF,
-# AoD, TCF, CFE, LULz, n0-SEC, Data Tones, & Sector Spy.                      
+# ★ SHOUT0UTz: ★ •• To everyone who contributes to ad-blocking
+# & anti-tracking host/script lists. Multiple lists contain the 
+# same hosts/scripts, so for credits and/or if there are any questions,
+# feel free to contact me.
 #
 # _____________________________________________
 # •••🌐••• [ RECOMMENDED DNS SERVERS ] •••🌐•••
@@ -36,7 +36,7 @@
 # ____________________________________________________________________
 #
 # AdAway, Blokada, Wize Adblock, uOrigin, Pi-Hole, Ad Block/Ad Block Plus/TamperMonkey browser extensions,
-# AdAware, AdGuard
+# supplementary ad-blocking browser extensions, AdAware, AdGuard
 #
 # _____________________________________________
 # •••📊•••  [ AD BLOCK TESTING SITES ] •••📊•••
@@ -169,6 +169,14 @@ ff02::3 ip6-hosts
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 vfw.amazon-adsystem.com
 0.0.0.0 webapi.sdk.crowd-umlaut.com
+www.twitch.tv * 3p block
+www.twitch.tv * 3p-frame block
+www.twitch.tv * 3p-script block
+www.twitch.tv cloudfront.net * noop
+www.twitch.tv jtvnw.net * noop
+www.twitch.tv ttvnw.net * noop
+www.twitch.tv twitch.map.fastly.net * noop
+www.twitch.tv twitchcdn.net * noop
 # ◑ --------------------------- ◐
 0.0.0.0 1-1ads.com
 0.0.0.0 100028779.collect.igodigital.com
