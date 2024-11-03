@@ -94,25 +94,35 @@ ff02::3 ip6-hosts
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 ad-api.twitch.tv
 0.0.0.0 ad.ttvnw.net
+0.0.0.0 ad.twitchcdn.net
 0.0.0.0 ad.twitch.tv
 0.0.0.0 admanager.ttvnw.net
+0.0.0.0 admanager.twitchcdn.net
 0.0.0.0 admanager.twitch.tv
 0.0.0.0 ads-api.twitch.tv
 0.0.0.0 ads.ttvnw.net
+0.0.0.0 ads.twitchcdn.net
 0.0.0.0 ads.twitch.tv
 0.0.0.0 adsystem.ttvnw.net
+adsystem.twitchcdn.net
 0.0.0.0 adsystem.twitch.tv
 0.0.0.0 advert.ttvnw.net
+advert.twitchcdn.net
 0.0.0.0 advert.twitch.tv
 0.0.0.0 advertise.ttvnw.net
+advertise.twitchcdn.net
 0.0.0.0 advertise.twitch.tv
 0.0.0.0 advertisement.ttvnw.net
+advertisement.twitchcdn.net
 0.0.0.0 advertisement.twitch.tv
 0.0.0.0 advertisements.ttvnw.net
+advertisements.twitchcdn.net
 0.0.0.0 advertisements.twitch.tv
 0.0.0.0 advertising.ttvnw.net
+advertising.twitchcdn.net
 0.0.0.0 advertising.twitch.tv
 0.0.0.0 adverts.ttvnw.net
+adverts.twitchcdn.net
 0.0.0.0 adverts.twitch.tv
 0.0.0.0 advrt.ttvnw.net
 0.0.0.0 advrt.twitch.tv
