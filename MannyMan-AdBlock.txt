@@ -71,6 +71,7 @@
 # •••◆••• [ LOCAL HOST START ] •••◆•••
 # ____________________________________
 #
+# ---- Credit to: Jerryn70 for the local hosts ----
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -189,7 +190,7 @@ ff02::3 ip6-hosts
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 vfw.amazon-adsystem.com
 0.0.0.0 webapi.sdk.crowd-umlaut.com
-# ---- Credit to AlexRabbit (7) ----
+# ---- Credit to AlexRabbit for the TwitchTV scripts ----
 www.twitch.tv * 3p block
 www.twitch.tv * 3p-frame block
 www.twitch.tv * 3p-script block
