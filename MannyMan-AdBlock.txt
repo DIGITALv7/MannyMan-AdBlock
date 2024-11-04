@@ -93,41 +93,59 @@ ff02::3 ip6-hosts
 #
 # ◑ ------ Twitch TV Ads / (may not always block) ------ ◐
 0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 ad.api.cloudfront.net
+0.0.0.0 ad-api.ttvnw.net
+0.0.0.0 ad-api.twitchcdn.net
 0.0.0.0 ad-api.twitch.tv
+0.0.0.0 ad.cloudfront.net
 0.0.0.0 ad.ttvnw.net
 0.0.0.0 ad.twitchcdn.net
 0.0.0.0 ad.twitch.tv
+0.0.0.0 admanager.cloudfront.net
 0.0.0.0 admanager.ttvnw.net
 0.0.0.0 admanager.twitchcdn.net
 0.0.0.0 admanager.twitch.tv
+0.0.0.0 ads.api.cloudfront.net
+0.0.0.0 ads-api.ttvnw.net
+0.0.0.0 ads-api.twitchcdn.net
 0.0.0.0 ads-api.twitch.tv
+0.0.0.0 ads.cloudfront.net
 0.0.0.0 ads.ttvnw.net
 0.0.0.0 ads.twitchcdn.net
 0.0.0.0 ads.twitch.tv
+0.0.0.0 adsystem.cloudfront.net
 0.0.0.0 adsystem.ttvnw.net
 0.0.0.0 adsystem.twitchcdn.net
 0.0.0.0 adsystem.twitch.tv
+0.0.0.0 advert.cloudfront.net
 0.0.0.0 advert.ttvnw.net
 0.0.0.0 advert.twitchcdn.net
 0.0.0.0 advert.twitch.tv
+0.0.0.0 advertise.cloudfront.net
 0.0.0.0 advertise.ttvnw.net
 0.0.0.0 advertise.twitchcdn.net
 0.0.0.0 advertise.twitch.tv
+0.0.0.0 advertisement.cloudfront.net
 0.0.0.0 advertisement.ttvnw.net
 0.0.0.0 advertisement.twitchcdn.net
 0.0.0.0 advertisement.twitch.tv
+0.0.0.0 advertisements.cloudfront.net
 0.0.0.0 advertisements.ttvnw.net
 0.0.0.0 advertisements.twitchcdn.net
 0.0.0.0 advertisements.twitch.tv
+0.0.0.0 advertising.cloudfront.net
 0.0.0.0 advertising.ttvnw.net
 0.0.0.0 advertising.twitchcdn.net
 0.0.0.0 advertising.twitch.tv
+0.0.0.0 adverts.cloudfront.net
 0.0.0.0 adverts.ttvnw.net
 0.0.0.0 adverts.twitchcdn.net
 0.0.0.0 adverts.twitch.tv
+0.0.0.0 advrt.cloudfront.net
 0.0.0.0 advrt.twitchcdn.net
 0.0.0.0 advrt.ttvnw.net
 0.0.0.0 advrt.twitch.tv
+0.0.0.0 advrts.cloudfront.net
 0.0.0.0 advrts.ttvnw.net
 0.0.0.0 advrts.twitchcdn.net
 0.0.0.0 advrts.twitch.tv
@@ -135,9 +153,11 @@ ff02::3 ip6-hosts
 0.0.0.0 amazon-adsystem.ttvnw.net
 0.0.0.0 amazon-adsystem.twitchcdn.net
 0.0.0.0 amazon-adsystem.twitch.tv
+0.0.0.0 analytic.cloudfront.net
 0.0.0.0 analytic.ttvnw.net
 0.0.0.0 analytic.twitchcdn.net
 0.0.0.0 analytic.twitch.tv
+0.0.0.0 analytics.cloudfront.net
 0.0.0.0 analytics.ttvnw.net
 0.0.0.0 analytics.twitchcdn.net
 0.0.0.0 analytics.twitch.tv
@@ -168,18 +188,23 @@ ff02::3 ip6-hosts
 0.0.0.0 spade.twitch.tv
 0.0.0.0 sq-tungsten-ts.amazon-adsystem.com
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 track.cloudfront.net
 0.0.0.0 track.ttvnw.net
 0.0.0.0 track.twitchcdn.net
 0.0.0.0 track.twitch.tv
+0.0.0.0 tracker.cloudfront.net
 0.0.0.0 tracker.ttvnw.net
 0.0.0.0 tracker.twitchcdn.net
 0.0.0.0 tracker.twitch.tv
+0.0.0.0 trackers.cloudfront.net
 0.0.0.0 trackers.ttvnw.net
 0.0.0.0 trackers.twitchcdn.net
 0.0.0.0 trackers.twitch.tv
+0.0.0.0 tracking.cloudfront.net
 0.0.0.0 tracking.ttvnw.net
 0.0.0.0 tracking.twitchcdn.net
 0.0.0.0 tracking.twitch.tv
+0.0.0.0 tracks.cloudfront.net
 0.0.0.0 tracks.ttvnw.net
 0.0.0.0 tracks.twitchcdn.net
 0.0.0.0 tracks.twitch.tv
@@ -1109,13 +1134,14 @@ www.twitch.tv twitchcdn.net * noop
 # •••◆••• [ WHITELIST ] •••◆•••
 # ______________________________
 #
-# ---- Twitch TV / Prevents streamer channel extensions & CheerBits animations from causing loading errors. Updated as needed. ----
+# ---- Twitch TV / Prevents streamer channel extensions, CheerBits animations & stream player from causing loading errors. Updated as needed. ----
 @@||api.viewerattack.com
 @@||coordinator.ext-twitch.tv
 @@||d3aqoihi2n8ty8.cloudfront.net
 @@||extension.streamstickers.com
 @@||functions.soundalerts.com
 @@||supervisor.ext-twitch.tv
+@@||usw23.playlist.ttvnw.net
 #
 #
 # ------ [ FILTERS END ] ------
