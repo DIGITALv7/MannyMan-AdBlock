@@ -1,11 +1,11 @@
 # ----»» [ 🛡 MannyMan's Ad Block 🛡 | Optimized ] ««----
 #
 # |  •  TITLE: MannyMan-AdBlock
-# |  •  LIST TYPE: Supplementary Anti-Ads & Anti-Trackers Filter List
+# |  •  LIST TYPE: Supplementary blocker list for: ads, trackers & analytics
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 970
 # |  •  AUTHOR: DIGITALv7  •  |
-# |  •  UPDATED: 11/01/24  •  |
+# |  •  UPDATED: 11/03/24  •  |
 # |  •  TIME: 9:14PM CST, UTC -5 || 21:14PM  •  |
 # |  •  SIZE: 29.1KB  •  |
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt  •  |
@@ -218,6 +218,7 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 a.exoclick.com
 0.0.0.0 a.nel.cloudflare.com
 0.0.0.0 a.ns.edm.cmcm.com
+0.0.0.0 a.teads.tv
 0.0.0.0 aaxads.com
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 ab.cmcm.com
@@ -302,6 +303,8 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 adroll.com
 0.0.0.0 adrotator.com
 0.0.0.0 adrotator.net
+0.0.0.0 adsafeprotected.com
+0.0.0.0 adtech.com
 0.0.0.0 ads-api.google.com
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-api.twitter.com
@@ -334,8 +337,13 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 ads.tubemate.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yahooinc.com
+0.0.0.0 ads.yieldads.com
+0.0.0.0 ads.yieldlab.com
+0.0.0.0 ads.yieldmanager.com
+0.0.0.0 ads.yieldmo.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads30.adcolony.com
+0.0.0.0 ads.adcolony.com
 0.0.0.0 adsdk.cmcm.com
 0.0.0.0 adsense.com
 0.0.0.0 adserv.com
@@ -344,6 +352,7 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 adserve.net
 0.0.0.0 adserver.com
 0.0.0.0 adserver.net
+0.0.0.0 adserver.adtech.advertising.com
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 adservetx.media.net
@@ -843,6 +852,7 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pages.launch.stackadapt.com
 0.0.0.0 partnerads.ysm.yahoo.com
+0.0.0.0 partner.googleadservices.com
 0.0.0.0 partners.propellerads.com
 0.0.0.0 pc-octopus-edge-ibmwdc04.ksmobile.net
 0.0.0.0 pebblepost.com
@@ -898,6 +908,7 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 richads.com
 0.0.0.0 rt.cmcm.com
 0.0.0.0 rtb.cmcm.com
+0.0.0.0 s.ad.smaato.net
 0.0.0.0 s-img.adskeeper.co.uk
 0.0.0.0 s.ma3ion.com
 0.0.0.0 s.magsrv.com
@@ -961,7 +972,7 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 start.io
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.adsafeprotected.com
-0.0.0.0 static.affilae.com
+0.0.0.0 static.affilate.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.club.cmcm.com
 0.0.0.0 static.doubleclick.net
