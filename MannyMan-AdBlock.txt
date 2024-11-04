@@ -18,8 +18,8 @@
 #    \                                                /
 #     \............♠︎...................♠︎.........../
 #
-# ★ SHOUT0UTz: ★ •• To everyone who contributes to ad-blocking
-# & anti-tracking host/script lists. Multiple lists contain the 
+# ★ SHOUT0UTz: ★ •• To everyone who contributes to blocking ads, trackers, 
+# analytics & malwware filter lists. Multiple lists contain the 
 # same hosts/scripts, so for credits and/or if there are any questions,
 # feel free to contact me.
 #
