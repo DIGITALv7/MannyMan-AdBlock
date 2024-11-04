@@ -104,36 +104,41 @@ ff02::3 ip6-hosts
 0.0.0.0 ads.twitchcdn.net
 0.0.0.0 ads.twitch.tv
 0.0.0.0 adsystem.ttvnw.net
-adsystem.twitchcdn.net
+0.0.0.0 adsystem.twitchcdn.net
 0.0.0.0 adsystem.twitch.tv
 0.0.0.0 advert.ttvnw.net
-advert.twitchcdn.net
+0.0.0.0 advert.twitchcdn.net
 0.0.0.0 advert.twitch.tv
 0.0.0.0 advertise.ttvnw.net
-advertise.twitchcdn.net
+0.0.0.0 advertise.twitchcdn.net
 0.0.0.0 advertise.twitch.tv
 0.0.0.0 advertisement.ttvnw.net
-advertisement.twitchcdn.net
+0.0.0.0 advertisement.twitchcdn.net
 0.0.0.0 advertisement.twitch.tv
 0.0.0.0 advertisements.ttvnw.net
-advertisements.twitchcdn.net
+0.0.0.0 advertisements.twitchcdn.net
 0.0.0.0 advertisements.twitch.tv
 0.0.0.0 advertising.ttvnw.net
-advertising.twitchcdn.net
+0.0.0.0 advertising.twitchcdn.net
 0.0.0.0 advertising.twitch.tv
 0.0.0.0 adverts.ttvnw.net
-adverts.twitchcdn.net
+0.0.0.0 adverts.twitchcdn.net
 0.0.0.0 adverts.twitch.tv
+0.0.0.0 advrt.twitchcdn.net
 0.0.0.0 advrt.ttvnw.net
 0.0.0.0 advrt.twitch.tv
 0.0.0.0 advrts.ttvnw.net
+0.0.0.0 advrts.twitchcdn.net
 0.0.0.0 advrts.twitch.tv
 0.0.0.0 aes.us-east.ono.axp.amazon-adsystem.com
 0.0.0.0 amazon-adsystem.ttvnw.net
+0.0.0.0 amazon-adsystem.twitchcdn.net
 0.0.0.0 amazon-adsystem.twitch.tv
 0.0.0.0 analytic.ttvnw.net
+0.0.0.0 analytic.twitchcdn.net
 0.0.0.0 analytic.twitch.tv
 0.0.0.0 analytics.ttvnw.net
+0.0.0.0 analytics.twitchcdn.net
 0.0.0.0 analytics.twitch.tv
 0.0.0.0 api.sprig.com
 0.0.0.0 api.twitch.us-east-1.prod.paets.advertising.amazon.dev
@@ -163,14 +168,19 @@ adverts.twitchcdn.net
 0.0.0.0 sq-tungsten-ts.amazon-adsystem.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 track.ttvnw.net
+0.0.0.0 track.twitchcdn.net
 0.0.0.0 track.twitch.tv
 0.0.0.0 tracker.ttvnw.net
+0.0.0.0 tracker.twitchcdn.net
 0.0.0.0 tracker.twitch.tv
 0.0.0.0 trackers.ttvnw.net
+0.0.0.0 trackers.twitchcdn.net
 0.0.0.0 trackers.twitch.tv
 0.0.0.0 tracking.ttvnw.net
+0.0.0.0 tracking.twitchcdn.net
 0.0.0.0 tracking.twitch.tv
 0.0.0.0 tracks.ttvnw.net
+0.0.0.0 tracks.twitchcdn.net
 0.0.0.0 tracks.twitch.tv
 0.0.0.0 tungsten-service.prod.na.adsqtungsten.a9.amazon.dev
 0.0.0.0 udm.scorecardresearch.com
@@ -179,11 +189,11 @@ adverts.twitchcdn.net
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 vfw.amazon-adsystem.com
 0.0.0.0 webapi.sdk.crowd-umlaut.com
+# ---- Credit to AlexRabbit (7) ----
 www.twitch.tv * 3p block
 www.twitch.tv * 3p-frame block
 www.twitch.tv * 3p-script block
 www.twitch.tv cloudfront.net * noop
-www.twitch.tv jtvnw.net * noop
 www.twitch.tv ttvnw.net * noop
 www.twitch.tv twitch.map.fastly.net * noop
 www.twitch.tv twitchcdn.net * noop
