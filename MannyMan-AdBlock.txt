@@ -1143,6 +1143,11 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 zj.dcys.ksmobile.com
 0.0.0.0 zj.ios.ksmobile.com
 0.0.0.0 zodertracker.com
+# ---- Credit to D3ward for the scripts ----
+d3ward.github.io##.adbox.banner_ads.adsbox
+d3ward.github.io##.textads
+/pagead.js$domain=d3ward.github.io
+/widget/ads.
 #
 # ______________________________
 # •••◆••• [ WHITELIST ] •••◆•••
