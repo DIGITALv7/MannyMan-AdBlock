@@ -3,9 +3,9 @@
 # |  •  TITLE: MannyMan-AdBlock
 # |  •  LIST TYPE: Supplementary block list for: ads, trackers, analytics & malware
 # |  •  EXPIRATION: Never
-# |  •  NUMBER OF DOMAINS: 1041
+# |  •  NUMBER OF DOMAINS: 1043
 # |  •  AUTHOR: DIGITALv7  •  |
-# |  •  UPDATED: 11/04/24  •  |
+# |  •  UPDATED: 11/07/24  •  |
 # |  •  TIME: 9:14PM CST, UTC -5 || 21:14PM  •  |
 # |  •  SIZE: 31.2KB  •  |
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt  •  |
@@ -302,6 +302,7 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 adinl.com
 0.0.0.0 adition.com
 0.0.0.0 adjust.com
+0.0.0.0 adkernel.com
 0.0.0.0 adkmob.com
 0.0.0.0 adkmob.jp
 0.0.0.0 adlandpro.com
@@ -1028,6 +1029,7 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 surveys.hotjar.com
 0.0.0.0 svcn.cm.ksmobile.net
 0.0.0.0 swoop.com
+0.0.0.0 sync.adkernel.com
 0.0.0.0 sync.gonet-ads.com
 0.0.0.0 t-ventas-h5.cmcm.com
 0.0.0.0 t-ventas.cmcm.com
