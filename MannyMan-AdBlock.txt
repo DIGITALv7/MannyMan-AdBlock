@@ -77,9 +77,16 @@
 127.0.0.1 local
 255.255.255.255 broadcasthost
 ::1 localhost
+::1 ip4-localhost
+::1 ip4-loopback
 ::1 ip6-localhost
 ::1 ip6-loopback
 fe80::1%lo0 localhost
+ff00::0 ip4-localnet
+ff00::0 ip4-mcastprefix
+ff00::0 ip4-allnodes
+ff00::0 ip4-allrouters
+ff00::0 ip4-hosts
 ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
