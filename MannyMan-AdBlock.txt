@@ -84,14 +84,14 @@
 fe80::1%lo0 localhost
 ff00::0 ip4-localnet
 ff00::0 ip4-mcastprefix
-ff00::0 ip4-allnodes
-ff00::0 ip4-allrouters
-ff00::0 ip4-hosts
 ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-hosts
+ff02::1 ip4-allnodes
+ff02::2 ip4-allrouters
+ff02::3 ip4-hosts
+ff02::4 ip6-allnodes
+ff02::5 ip6-allrouters
+ff02::6 ip6-hosts
 0.0.0.0 0.0.0.0
 #
 # ______________________________________
