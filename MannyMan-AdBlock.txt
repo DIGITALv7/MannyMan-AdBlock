@@ -71,7 +71,7 @@
 # •••◆••• [ LOCAL HOST START ] •••◆•••
 # ____________________________________
 #
-# ---- Credit to: Jerryn70 for the local hosts ----
+# ---- Credit to: Jerryn70 & StevenBlack for the local hosts ----
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
