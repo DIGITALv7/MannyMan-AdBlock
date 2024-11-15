@@ -5,21 +5,22 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 1043
 # |  •  AUTHOR: DIGITALv7  •  |
-# |  •  UPDATED: 11/11/24  •  |
+# |  •  UPDATED: 11/14/24  •  |
 # |  •  TIME: 9:14PM CST, UTC -5 || 21:14PM  •  |
 # |  •  SIZE: 31.4KB  •  |
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt  •  |
 # |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE  •  |
 #
-#      ............♠︎...................♠︎...........
-#     /                                              \
-#    /                                                \
-#   (               Work in progress 😎              ) 
-#    \                                                /
-#     \............♠︎...................♠︎.........../
+#      /............♠︎...................♠︎...........\
+#     /                                               \
+#    /                                                 \
+#   (                 Work in progress 😎               ) 
+#    \                                                 /
+#     \                                               /
+#      \............♠︎...................♠︎.........../
 #
 # ★ SHOUT0UTz: ★ •• To everyone who contributes to blocking ads, trackers, 
-# analytics & malwware filter lists. Multiple lists contain the 
+# analytics & malware filter lists. Multiple lists contain the 
 # same hosts/scripts, so for credits and/or if there are any questions,
 # feel free to contact me.
 #
@@ -64,14 +65,13 @@
 # and then refresh the website/app.
 #
 #
-# ~~~~ [ Filters Start ] ~~~~
+# ~~~~ [ < Filters Start > ] ~~~~
 #
 #
 # ____________________________________
-# •••◆••• [ LOCAL HOST START ] •••◆•••
+# •••◆••• [ < LOCAL HOST START > ] •••◆•••
 # ____________________________________
 #
-# ---- Credit to: Jerryn70 & StevenBlack for the local hosts ----
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -97,7 +97,7 @@ ff02::6 ip6-hosts
 0.0.0.0 0.0.0.0
 #
 # ______________________________________
-# •••◆••• [  BLOCK LIST START ] •••◆•••
+# •••◆••• [ < BLOCK LIST START > ] •••◆•••
 # ______________________________________
 #
 # ◑ ------ Twitch TV Ads / (may not always block) ------ ◐
@@ -1156,7 +1156,7 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 zodertracker.com
 #
 # ______________________________
-# •••◆••• [ WHITELIST ] •••◆•••
+# •••◆••• [ < WHITELIST > ] •••◆•••
 # ______________________________
 #
 # ---- Twitch TV / Prevents streamer channel extensions, CheerBits animations & stream player from causing loading errors. Updated as needed. ----
@@ -1169,6 +1169,6 @@ www.twitch.tv twitchcdn.net * noop
 @@||usw23.playlist.ttvnw.net
 #
 #
-# ------ [ FILTERS END ] ------
+# ------ [ < FILTERS END > ] ------
 #
 #
