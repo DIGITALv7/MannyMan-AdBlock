@@ -5,7 +5,7 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 1043
 # |  •  AUTHOR: DIGITALv7  •  |
-# |  •  UPDATED: 11/14/24  •  |
+# |  •  UPDATED: 11/17/24  •  |
 # |  •  TIME: 9:14PM CST, UTC -5 || 21:14PM  •  |
 # |  •  SIZE: 31.5KB  •  |
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt  •  |
@@ -194,6 +194,7 @@ ff02::6 ip6-hosts
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 secure-sts-prod.imrworldwide.com
 0.0.0.0 semanticlocation-pa.googleapis.com
+0.0.0.0 server-us.imrworldwide.com
 0.0.0.0 snssdk1233.onelink.me
 0.0.0.0 spade.twitch.tv
 0.0.0.0 sq-tungsten-ts.amazon-adsystem.com
@@ -249,6 +250,7 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 6dad.com
 0.0.0.0 77tracking.com
 0.0.0.0 7adpower.com
+0.0.0.0 888casino.com
 0.0.0.0 a.adtng.com
 0.0.0.0 a.exoclick.com
 0.0.0.0 a.nel.cloudflare.com
@@ -277,6 +279,7 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 ad.ru.doubleclick.net
 0.0.0.0 ad.trafficshop.com
 0.0.0.0 ad.twinrdengine.com
+0.0.0.0 ad.snappea.com
 0.0.0.0 ad.us.doubleclick.net
 0.0.0.0 ad4game.com
 0.0.0.0 adamnet.works
@@ -295,6 +298,7 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 addstrap-ui.addshoppers.com
 0.0.0.0 adelphic.com
 0.0.0.0 adexchanger.com
+0.0.0.0 adexchangetracker.com
 0.0.0.0 adflight.io
 0.0.0.0 adfluence.net
 0.0.0.0 adfly.com
@@ -310,6 +314,7 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 adimpact.com
 0.0.0.0 adinl.com
 0.0.0.0 adition.com
+0.0.0.0 adjug.com
 0.0.0.0 adjust.com
 0.0.0.0 adkernel.com
 0.0.0.0 adkmob.com
@@ -328,6 +333,7 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 adpia.vn
 0.0.0.0 adplus.co.id
 0.0.0.0 adplxmd.com
+0.0.0.0 adpower.com
 0.0.0.0 adprofits.ru
 0.0.0.0 adpushup.com
 0.0.0.0 adquick.com
@@ -359,6 +365,7 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 ads.doubleclick.net
 0.0.0.0 ads.excite.com
 0.0.0.0 ads.facebook.com
+0.0.0.0 ads.flurry.com
 0.0.0.0 ads.google.com
 0.0.0.0 ads.gridtechno.com
 0.0.0.0 ads.kick.com
@@ -400,6 +407,8 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.net
 0.0.0.0 adsession.exacdn.com
+0.0.0.0 adshuffle.com
+0.0.0.0 adshufffle.com
 0.0.0.0 adsmanager.net
 0.0.0.0 adsmart.net
 0.0.0.0 adsmartracker.com
@@ -468,6 +477,7 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 apaddsp.cmcm.com
 0.0.0.0 api-zouduoduo.cmcm.com
+0.0.0.0 api.ad.snappea.com
 0.0.0.0 api.ads.flurry.com
 0.0.0.0 api.bluecore.com
 0.0.0.0 api.bugsnag.com
@@ -939,6 +949,7 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 px.adhigh.net
 0.0.0.0 qa.cmcm.com
 0.0.0.0 qa.ter.ocshlive.ksmobile.net
+0.0.0.0 qbittorrent.com
 0.0.0.0 quantcast.com
 0.0.0.0 query.cmcm.com
 0.0.0.0 question-mgr-test.cmcm.com
@@ -1066,8 +1077,11 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.fabuloustrack.com
+0.0.0.0 tracking.adjug.com
 0.0.0.0 tracking.opencandy.com
+0.0.0.0 tracking.trafficjunky.net
 0.0.0.0 trafficjunky.com
+0.0.0.0 trafficjunky.net
 0.0.0.0 trafficstars.com
 0.0.0.0 translator.cmcm.com
 0.0.0.0 triplelift.com
@@ -1154,6 +1168,23 @@ www.twitch.tv twitchcdn.net * noop
 0.0.0.0 zj.dcys.ksmobile.com
 0.0.0.0 zj.ios.ksmobile.com
 0.0.0.0 zodertracker.com
+0.0.0.0 config.unityads.unitychina.cn
+0.0.0.0 go.trafficrouter.io
+0.0.0.0 ssl.googleanalytics.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 alt2.googleanalytics.com
+0.0.0.0 alt4.googleanalytics.com
+0.0.0.0 sandbox.googleanalytics.com
+0.0.0.0 track.admobclick.com
+0.0.0.0 pixel.admobclick.com
+0.0.0.0 ad.bubblestat.com
+0.0.0.0 adrunnr.com
+0.0.0.0 adrunner.com
+0.0.0.0 adrun.com
+0.0.0.0 abgob6maaaaaaaampnylpftaarvzo.pop-dub-ww.cf.dash.row.aiv-cdn.net
+0.0.0.0 unagi-na.amazon.com
+0.0.0.0 a185avoddashs3ww-a.akamaihd.net
+0.0.0.0 abbo7pmaaaaaaaamhdrshsjlfhjgw.pop-iad-2.cf.dash.row.aiv-cdn.net
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
