@@ -228,6 +228,11 @@ ff02::6 ip6-hosts
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 vfw.amazon-adsystem.com
 0.0.0.0 webapi.sdk.crowd-umlaut.com
+0.0.0.0 abgob6maaaaaaaampnylpftaarvzo.pop-dub-ww.cf.dash.row.aiv-cdn.net/aa8b/056c/067a/458b-b026-fe01b4e4aab3/6176e8e4-7d4f-4979-baa3-867dde974712_video_7.mp4?amznDtid=AOAGZA014O5RE
+0.0.0.0 abgob6maaaaaaaampnylpftaarvzo.pop-dub-ww.cf.dash.row.aiv-cdn.net/
+0.0.0.0 abbo7pmaaaaaaaamhdrshsjlfhjgw.pop-iad-2.cf.dash.row.aiv-cdn.net/
+0.0.0.0 a185avoddashs3ww-a.akamaihd.net
+0.0.0.0 unagi-na.amazon.com
 # ---- Credit to AlexRabbit for the TwitchTV scripts ----
 www.twitch.tv * 3p block
 www.twitch.tv * 3p-frame block
@@ -1347,34 +1352,34 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 logopaedie-tisch.homepage.t-online.de
 0.0.0.0 trojan-scan.com
 0.0.0.0 topspywareremovers.com
-0.0.0.0topadwarereviews.com
-0.0.0.0the-spyware-zone.com
-0.0.0.0spyware.1000recursos.com
-0.0.0.0theshopontop.com
-0.0.0.0spywareremovers.com
-0.0.0.0the-spyware-review.com
-0.0.0.0teslaplus.com/search.php?wmid
-0.0.0.0teslaplus.com
-0.0.0.0successalert.com
-0.0.0.0spyware-spybot.net
-0.0.0.0spyware.speedylearning.com
-0.0.0.0speedylearning.com
-0.0.0.0spywarescanreview.com
-0.0.0.0spywarereview.info
-0.0.0.0spyware-removers.org
-0.0.0.0spywareremove.org
-0.0.0.0removespyware.ru
-0.0.0.0spyware-removal.blogspot.com
-0.0.0.0spywareremoval.ec-force.com
-0.0.0.0ec-force.com
-0.0.0.0spywareremovalutilities.com
-0.0.0.0spywareremovalauthority.com
-0.0.0.0spywareonline.org
-0.0.0.0spyware.my-anti-virus-software.info
-0.0.0.0spy-review.com
-0.0.0.0scanner.altmaster.net
-0.0.0.0sdk.ad.smaato.net
-0.0.0.0smaato.net
+0.0.0.0 topadwarereviews.com
+0.0.0.0 the-spyware-zone.com
+0.0.0.0 spyware.1000recursos.com
+0.0.0.0 theshopontop.com
+0.0.0.0 spywareremovers.com
+0.0.0.0 the-spyware-review.com
+0.0.0.0 teslaplus.com/search.php?wmid
+0.0.0.0 teslaplus.com
+0.0.0.0 successalert.com
+0.0.0.0 spyware-spybot.net
+0.0.0.0 spyware.speedylearning.com
+0.0.0.0 speedylearning.com
+0.0.0.0 spywarescanreview.com
+0.0.0.0 spywarereview.info
+0.0.0.0 spyware-removers.org
+0.0.0.0 spywareremove.org
+0.0.0.0 removespyware.ru
+0.0.0.0 spyware-removal.blogspot.com
+0.0.0.0 spywareremoval.ec-force.com
+0.0.0.0 ec-force.com
+0.0.0.0 spywareremovalutilities.com
+0.0.0.0 spywareremovalauthority.com
+0.0.0.0 spywareonline.org
+0.0.0.0 spyware.my-anti-virus-software.info
+0.0.0.0 spy-review.com
+0.0.0.0 scanner.altmaster.net
+0.0.0.0 sdk.ad.smaato.net
+0.0.0.0 smaato.net
 0.0.0.0 ww1.thenewyorkevening.com
 0.0.0.0 ww99.thenewyorkevening.com
 0.0.0.0 thenewyorkevening.com
@@ -1389,231 +1394,231 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 track.venatusmedia.com
 0.0.0.0 amptrack.dailymail.co.uk
 0.0.0.0 mailmetromedia.amp.permutive.com
-0.0.0.0spywareinfoooo.com
-0.0.0.0zoneprotect.com
-0.0.0.0xsremover.com
-0.0.0.0innovagest2000.com
-0.0.0.0xmembytes.com
-0.0.0.0xspyware.net
-0.0.0.0x-conspywaredestroyer.com
-0.0.0.0x-con.freedomofidiom.ca
-0.0.0.0x-spyware.com
-0.0.0.0worldantispy.com
-0.0.0.0winsos.com
-0.0.0.0winkeeper.net
-0.0.0.0winhound.com
-0.0.0.0winsoftware.com
-0.0.0.0softwareprofit.com
-0.0.0.0winantivirus.com
-0.0.0.0winantispyware.com
-0.0.0.0winantispy.com
-0.0.0.0websafesecure.com
-0.0.0.0wareout.com
-0.0.0.0virusrescue.com
-0.0.0.0virusguard.com
-0.0.0.0myspyprotector.com
-0.0.0.0virusburst.com
-0.0.0.0virusblast.com
-0.0.0.0spywarelabs.com
-0.0.0.0virtualbouncer.com
-0.0.0.0unspypc.com
-0.0.0.0pimasoft.com
-0.0.0.0udefender.com
-0.0.0.0ultimatecleaner.com
-0.0.0.0whenu.com
-0.0.0.0aluriasoftware.com
-0.0.0.0spywarehelp.net
-0.0.0.0spyware.junglebee.com
-0.0.0.0junglebee.com
-0.0.0.0spywarehub.com
-0.0.0.0spywareb1aster.com
+0.0.0.0 spywareinfoooo.com
+0.0.0.0 zoneprotect.com
+0.0.0.0 xsremover.com
+0.0.0.0 innovagest2000.com
+0.0.0.0 xmembytes.com
+0.0.0.0 xspyware.net
+0.0.0.0 x-conspywaredestroyer.com
+0.0.0.0 x-con.freedomofidiom.ca
+0.0.0.0 x-spyware.com
+0.0.0.0 worldantispy.com
+0.0.0.0 winsos.com
+0.0.0.0 winkeeper.net
+0.0.0.0 winhound.com
+0.0.0.0 winsoftware.com
+0.0.0.0 softwareprofit.com
+0.0.0.0 winantivirus.com
+0.0.0.0 winantispyware.com
+0.0.0.0 winantispy.com
+0.0.0.0 websafesecure.com
+0.0.0.0 wareout.com
+0.0.0.0 virusrescue.com
+0.0.0.0 virusguard.com
+0.0.0.0 myspyprotector.com
+0.0.0.0 virusburst.com
+0.0.0.0 virusblast.com
+0.0.0.0 spywarelabs.com
+0.0.0.0 virtualbouncer.com
+0.0.0.0 unspypc.com
+0.0.0.0 pimasoft.com
+0.0.0.0 udefender.com
+0.0.0.0 ultimatecleaner.com
+0.0.0.0 whenu.com
+0.0.0.0 aluriasoftware.com
+0.0.0.0 spywarehelp.net
+0.0.0.0 spyware.junglebee.com
+0.0.0.0 junglebee.com
+0.0.0.0 spywarehub.com
+0.0.0.0 spywareb1aster.com
 0.0.0.0 removespyware.com
-0.0.0.0spyware-adware-removal.net
-0.0.0.0spyware-adware-download.com
-0.0.0.0spyware.net
-0.0.0.0spysoftcentral.com
-0.0.0.0spy-hunter-detector.com
-0.0.0.0spyhunter.com
-0.0.0.0spyforce.com
-0.0.0.0spy-deleter.com
-0.0.0.0spyware.com-rr.com
-0.0.0.0rr.com
-0.0.0.0spybot-spyware.com
-0.0.0.0sdspybot.com
-0.0.0.0spybot.org
-0.0.0.0spybot.com
-0.0.0.0spybot.net
-0.0.0.0spyads.com
-0.0.0.0safespy.net
-0.0.0.0revieweasy.com/spy/
-0.0.0.0revieweasy.com
-0.0.0.0ratespywareremovers.com
-0.0.0.0radownload.com
-0.0.0.0privacysoftwarereport.com
-0.0.0.0pcspyremover.com
-0.0.0.0online-survival-lab.com
-0.0.0.0no-spybot.com
-0.0.0.0nontoxic-internet.com
-0.0.0.0noadware.com
-0.0.0.0merign.org
-0.0.0.0megalithusa.com
-0.0.0.0mambomarket.com
-0.0.0.0likesurfing.com
-0.0.0.0get-spybot.com
-0.0.0.0spybot-2007.com
-0.0.0.0e-spyware.com
-0.0.0.0download-spybot.com
-0.0.0.0defeatspyware.org
-0.0.0.0compu3.com/spyware.html
-0.0.0.0compu3.com
-0.0.0.0comparespywareremovers.com
-0.0.0.0comparespywareremoval.com
-0.0.0.0spywareremovercomparisons.com
-0.0.0.0spywareremoversreview.com
-0.0.0.0compareeasy.com
-0.0.0.0bewareadware.com
-0.0.0.0anti-spyware-reviews.net
-0.0.0.0anti-spyware-review.
-0.0.0.0toptenreviews.com
-0.0.0.0toptenreviews.com
-0.0.0.0anti-spyware-review.com
-0.0.0.0antispywarereviews.info
-0.0.0.0antispyware.neonant.com
-0.0.0.0antispywaredownloads.com
-0.0.0.0adware-spyware-review.com
-0.0.0.0adwarereport.com
-0.0.0.0add-aware.com
-0.0.0.05spynetwork.com
-0.0.0.0spynetwork.com
-0.0.0.02004spywareremovers.com
-0.0.0.02dollarfix.com
-0.0.0.0spywareremovers.com
-0.0.0.0udefender.com
-0.0.0.0ultimatecleaner.com
-0.0.0.0whenu.com
-0.0.0.0aluriasoftware.com
-0.0.0.0trackzapper.com
-0.0.0.0trustcleaner.com
-0.0.0.0truesuite.com
-0.0.0.0trackzapper.com
-0.0.0.0trustcleaner.com
-0.0.0.0truesuite.com
-0.0.0.0titanshield.com
-0.0.0.0antispywarebox.com
-0.0.0.0hotwinupdates.com
-0.0.0.0cashunlim.com
-0.0.0.0titanantispyware.com
-0.0.0.0pcspytool.com
-0.0.0.0thespywareshield.com
-0.0.0.0thespywarekiller.com
-0.0.0.0inicom.dk
-0.0.0.0thespywaredetective.com
-0.0.0.0fastlink2.com
-0.0.0.0thespyguard.com
-0.0.0.0the-spy-guard.com
-0.0.0.0adwarepunisher.com
-0.0.0.0theadwarehunter.com
-0.0.0.0terminexor.com
-0.0.0.0teosoft.com
-0.0.0.0teosoft.biz
-0.0.0.0teocash.com
-0.0.0.0shootspyware.com
-0.0.0.0systemstable.com
-0.0.0.0affiliatesuccess.net
-0.0.0.0jeanharris.com
-0.0.0.0spyware-removal.net
-0.0.0.0systemdetective.com
-0.0.0.0shareware4web.com
-0.0.0.0stopitblockit.com
-0.0.0.0stopguard.com
-0.0.0.0genericscanner.com
-0.0.0.0vantagesoftware.com
-0.0.0.0mailwiper.com
-0.0.0.0spywarezapper.com
-0.0.0.0spywarexp.com
-0.0.0.0spywarewizard.com
-0.0.0.0spywarewizard.net
-0.0.0.0spywarethis.com
-0.0.0.0achtungachtung.com
-0.0.0.0spywaretek.com
-0.0.0.0spyware-stop.com
-0.0.0.0spywarestrike.com
-0.0.0.0spywarestormer.com
-0.0.0.0spywaresoftstop.com
-0.0.0.0spywaresoftstop-cash.com
-0.0.0.0spywaresledgehammer.com
-0.0.0.0freepcscan.com
-0.0.0.0spywaresheriff.com
-0.0.0.0antispylab.com
-0.0.0.0spyware-secure.com
-0.0.0.0spywarescrapper.com
-0.0.0.0spy-ware-remover.com
-0.0.0.0hijack-this.com
-0.0.0.0msantispy.com
-0.0.0.0microsoftantispyware.net
-0.0.0.0microsoftantispy.com
-0.0.0.0free-spybot.com
-0.0.0.0spy-bot.com
-0.0.0.0hijack-this.com
-0.0.0.0alwaysfreealways.com
-0.0.0.0adware.privacy-solution.com
-0.0.0.0topics-ent.com
-0.0.0.0spywareremovalwizard.com
-0.0.0.0xtremeinnovations.net
-0.0.0.0spywareremoval.ws
-0.0.0.0platinumparter.com
-0.0.0.0spywarequake.com
-0.0.0.0spywarequake.info
-0.0.0.03bsoftware.com
-0.0.0.0spyware-pest-remover.com
-0.0.0.0softwareoasis.cc
-0.0.0.0spywareno.com
-0.0.0.0spyware-cash.com
-0.0.0.0rosecitysoftware.com
-0.0.0.0spywareknight.com
-0.0.0.0spywarekilla.com
-0.0.0.0spywareit.com
-0.0.0.0halt-spyware.com
-0.0.0.0haltspyware.info
-0.0.0.0spywarehound.com
-0.0.0.0spywarehospital.com
-0.0.0.0spywaredisinfector.com
-0.0.0.0spyware-destroyer.com
-0.0.0.0spywaredefense.com
-0.0.0.0spywarecrusher.com
-0.0.0.0spyware-cop.com
-0.0.0.0spywarecops.com
-0.0.0.0bulletproofsoft.com
-0.0.0.0spywarecure.net
-0.0.0.0checkforspyware.com/sc/
-0.0.0.0myspywarecleaner.com/sc/
-0.0.0.0spywarecleanerdownload2.com
-0.0.0.0spywarecleaneronline.biz
-0.0.0.0spywarebot.com
-0.0.0.0spywarebomber.com
-0.0.0.0websoftsecure.com
-0.0.0.0spyware-b1aster-software.com
-0.0.0.0spywareavenger.com
-0.0.0.0idownload.com
-0.0.0.0spywareassassin.com
-0.0.0.0maxtheater.com
-0.0.0.0xp67.com
-0.0.0.0solidlabs.com
-0.0.0.0synergeticsoft.com
-0.0.0.0spyviper.com
-0.0.0.0spyxpress.com
-0.0.0.0spyvest.com
-0.0.0.0spyvampire.com
-0.0.0.0spy-trooper.com
-0.0.0.0spytrooper.com
-0.0.0.0spyware-cash.com
-0.0.0.0spytoaster.com
-0.0.0.0datadoghq.com
-0.0.0.0app.data.datadoghq.com
-0.0.0.0data.datadoghq.com
-0.0.0.0app.datadoghq.com
-0.0.0.0ero-advertising.com
-0.0.0.0adviad.com
+0.0.0.0 spyware-adware-removal.net
+0.0.0.0 spyware-adware-download.com
+0.0.0.0 spyware.net
+0.0.0.0 spysoftcentral.com
+0.0.0.0 spy-hunter-detector.com
+0.0.0.0 spyhunter.com
+0.0.0.0 spyforce.com
+0.0.0.0 spy-deleter.com
+0.0.0.0 spyware.com-rr.com
+0.0.0.0 rr.com
+0.0.0.0 spybot-spyware.com
+0.0.0.0 sdspybot.com
+0.0.0.0 spybot.org
+0.0.0.0 spybot.com
+0.0.0.0 spybot.net
+0.0.0.0 spyads.com
+0.0.0.0 safespy.net
+0.0.0.0 revieweasy.com/spy/
+0.0.0.0 revieweasy.com
+0.0.0.0 ratespywareremovers.com
+0.0.0.0 radownload.com
+0.0.0.0 privacysoftwarereport.com
+0.0.0.0 pcspyremover.com
+0.0.0.0 online-survival-lab.com
+0.0.0.0 no-spybot.com
+0.0.0.0 nontoxic-internet.com
+0.0.0.0 noadware.com
+0.0.0.0 merign.org
+0.0.0.0 megalithusa.com
+0.0.0.0 mambomarket.com
+0.0.0.0 likesurfing.com
+0.0.0.0 get-spybot.com
+0.0.0.0 spybot-2007.com
+0.0.0.0 e-spyware.com
+0.0.0.0 download-spybot.com
+0.0.0.0 defeatspyware.org
+0.0.0.0 compu3.com/spyware.html
+0.0.0.0 compu3.com
+0.0.0.0 comparespywareremovers.com
+0.0.0.0 comparespywareremoval.com
+0.0.0.0 spywareremovercomparisons.com
+0.0.0.0 spywareremoversreview.com
+0.0.0.0 compareeasy.com
+0.0.0.0 bewareadware.com
+0.0.0.0 anti-spyware-reviews.net
+0.0.0.0 anti-spyware-review.
+0.0.0.0 toptenreviews.com
+0.0.0.0 toptenreviews.com
+0.0.0.0 anti-spyware-review.com
+0.0.0.0 antispywarereviews.info
+0.0.0.0 antispyware.neonant.com
+0.0.0.0 antispywaredownloads.com
+0.0.0.0 adware-spyware-review.com
+0.0.0.0 adwarereport.com
+0.0.0.0 add-aware.com
+0.0.0.0 5spynetwork.com
+0.0.0.0 spynetwork.com
+0.0.0.0 2004spywareremovers.com
+0.0.0.0 2dollarfix.com
+0.0.0.0 spywareremovers.com
+0.0.0.0 udefender.com
+0.0.0.0 ultimatecleaner.com
+0.0.0.0 whenu.com
+0.0.0.0 aluriasoftware.com
+0.0.0.0 trackzapper.com
+0.0.0.0 trustcleaner.com
+0.0.0.0 truesuite.com
+0.0.0.0 trackzapper.com
+0.0.0.0 trustcleaner.com
+0.0.0.0 truesuite.com
+0.0.0.0 titanshield.com
+0.0.0.0 antispywarebox.com
+0.0.0.0 hotwinupdates.com
+0.0.0.0 cashunlim.com
+0.0.0.0 titanantispyware.com
+0.0.0.0 pcspytool.com
+0.0.0.0 thespywareshield.com
+0.0.0.0 thespywarekiller.com
+0.0.0.0 inicom.dk
+0.0.0.0 thespywaredetective.com
+0.0.0.0 fastlink2.com
+0.0.0.0 thespyguard.com
+0.0.0.0 the-spy-guard.com
+0.0.0.0 adwarepunisher.com
+0.0.0.0 theadwarehunter.com
+0.0.0.0 terminexor.com
+0.0.0.0 teosoft.com
+0.0.0.0 teosoft.biz
+0.0.0.0 teocash.com
+0.0.0.0 shootspyware.com
+0.0.0.0 systemstable.com
+0.0.0.0 affiliatesuccess.net
+0.0.0.0 jeanharris.com
+0.0.0.0 spyware-removal.net
+0.0.0.0 systemdetective.com
+0.0.0.0 shareware4web.com
+0.0.0.0 stopitblockit.com
+0.0.0.0 stopguard.com
+0.0.0.0 genericscanner.com
+0.0.0.0 vantagesoftware.com
+0.0.0.0 mailwiper.com
+0.0.0.0 spywarezapper.com
+0.0.0.0 spywarexp.com
+0.0.0.0 spywarewizard.com
+0.0.0.0 spywarewizard.net
+0.0.0.0 spywarethis.com
+0.0.0.0 achtungachtung.com
+0.0.0.0 spywaretek.com
+0.0.0.0 spyware-stop.com
+0.0.0.0 spywarestrike.com
+0.0.0.0 spywarestormer.com
+0.0.0.0 spywaresoftstop.com
+0.0.0.0 spywaresoftstop-cash.com
+0.0.0.0 spywaresledgehammer.com
+0.0.0.0 freepcscan.com
+0.0.0.0 spywaresheriff.com
+0.0.0.0 antispylab.com
+0.0.0.0 spyware-secure.com
+0.0.0.0 spywarescrapper.com
+0.0.0.0 spy-ware-remover.com
+0.0.0.0 hijack-this.com
+0.0.0.0 msantispy.com
+0.0.0.0 microsoftantispyware.net
+0.0.0.0 microsoftantispy.com
+0.0.0.0 free-spybot.com
+0.0.0.0 spy-bot.com
+0.0.0.0 hijack-this.com
+0.0.0.0 alwaysfreealways.com
+0.0.0.0 adware.privacy-solution.com
+0.0.0.0 topics-ent.com
+0.0.0.0 spywareremovalwizard.com
+0.0.0.0 xtremeinnovations.net
+0.0.0.0 spywareremoval.ws
+0.0.0.0 platinumparter.com
+0.0.0.0 spywarequake.com
+0.0.0.0 spywarequake.info
+0.0.0.0 3bsoftware.com
+0.0.0.0 spyware-pest-remover.com
+0.0.0.0 softwareoasis.cc
+0.0.0.0 spywareno.com
+0.0.0.0 spyware-cash.com
+0.0.0.0 rosecitysoftware.com
+0.0.0.0 spywareknight.com
+0.0.0.0 spywarekilla.com
+0.0.0.0 spywareit.com
+0.0.0.0 halt-spyware.com
+0.0.0.0 haltspyware.info
+0.0.0.0 spywarehound.com
+0.0.0.0 spywarehospital.com
+0.0.0.0 spywaredisinfector.com
+0.0.0.0 spyware-destroyer.com
+0.0.0.0 spywaredefense.com
+0.0.0.0 spywarecrusher.com
+0.0.0.0 spyware-cop.com
+0.0.0.0 spywarecops.com
+0.0.0.0 bulletproofsoft.com
+0.0.0.0 spywarecure.net
+0.0.0.0 checkforspyware.com/sc/
+0.0.0.0 myspywarecleaner.com/sc/
+0.0.0.0 spywarecleanerdownload2.com
+0.0.0.0 spywarecleaneronline.biz
+0.0.0.0 spywarebot.com
+0.0.0.0 spywarebomber.com
+0.0.0.0 websoftsecure.com
+0.0.0.0 spyware-b1aster-software.com
+0.0.0.0 spywareavenger.com
+0.0.0.0 idownload.com
+0.0.0.0 spywareassassin.com
+0.0.0.0 maxtheater.com
+0.0.0.0 xp67.com
+0.0.0.0 solidlabs.com
+0.0.0.0 synergeticsoft.com
+0.0.0.0 spyviper.com
+0.0.0.0 spyxpress.com
+0.0.0.0 spyvest.com
+0.0.0.0 spyvampire.com
+0.0.0.0 spy-trooper.com
+0.0.0.0 spytrooper.com
+0.0.0.0 spyware-cash.com
+0.0.0.0 spytoaster.com
+0.0.0.0 datadoghq.com
+0.0.0.0 app.data.datadoghq.com
+0.0.0.0 data.datadoghq.com
+0.0.0.0 app.datadoghq.com
+0.0.0.0 ero-advertising.com
+0.0.0.0 adviad.com
 0.0.0.0ads.adviad.com
 0.0.0.0vikrasseth.com
 0.0.0.0pilosaleltd.com
@@ -2023,24 +2028,24 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0smartestsearch.com
 0.0.0.066.79.171.75
 0.0.0.0scanandrepair.com
-0.0.0.0samuraispy.com
-0.0.0.0safewebsurfer.com
-0.0.0.0scanandclean.com
-0.0.0.0cleanup-adware.com
-0.0.0.0pigeons.net
-0.0.0.0spycleaner.net
-0.0.0.0spycleaner-gold.com
-0.0.0.0topdownloads.net
-0.0.0.0spyclean.com
-0.0.0.0guardwall.com
-0.0.0.0spy-buster.com
-0.0.0.0remove-spyware.com
+0.0.0.0 samuraispy.com
+0.0.0.0 safewebsurfer.com
+0.0.0.0 scanandclean.com
+0.0.0.0 cleanup-adware.com
+0.0.0.0 pigeons.net
+0.0.0.0 spycleaner.net
+0.0.0.0 spycleaner-gold.com
+0.0.0.0 topdownloads.net
+0.0.0.0 spyclean.com
+0.0.0.0 guardwall.com
+0.0.0.0 spy-buster.com
+0.0.0.0 remove-spyware.com
 0.0.0.0 neosoftlabs.com
-0.0.0.0spyburn.palsol.biz
-0.0.0.0spybouncer.com
-0.0.0.0goggle.com
-0.0.0.0stingware.com
-0.0.0.0untdd.com
+0.0.0.0 spyburn.palsol.biz
+0.0.0.0 spybouncer.com
+0.0.0.0 goggle.com
+0.0.0.0 stingware.com
+0.0.0.0 untdd.com
 0.0.0.0 eblocs.com
 0.0.0.0 networkdynamicscorp.com
 0.0.0.0 spy-block.com
