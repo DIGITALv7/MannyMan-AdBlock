@@ -103,6 +103,8 @@ ff02::6 ip6-hosts
 # ◑ ------ Twitch TV Ads / (may not always block) ------ ◐
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 ad.api.cloudfront.net
+0.0.0.0 edge.ads.twitch.tv/
+0.0.0.0 ads.twitch.tv
 0.0.0.0 ad-api.ttvnw.net
 0.0.0.0 ad-api.twitchcdn.net
 0.0.0.0 ad-api.twitch.tv
@@ -236,6 +238,10 @@ www.twitch.tv twitch.map.fastly.net * noop
 www.twitch.tv twitchcdn.net * noop
 # ---- Misc. Twitch Ad Block Scripts ----
 twitch.tv##+js(twitch-videoad)
+www.twitch.tv###directory-banner
+www.twitch.tv###directory-rectangle
+www.twitch.tv##.channel-info-content > div > div > .kbdfeJ.Layout-sc-1xcs6mc-0
+www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.Layout-sc-1xcs6mc-0
 # ◑ --------------------------- ◐
 0.0.0.0 1-1ads.com
 0.0.0.0 100028779.collect.igodigital.com
@@ -2204,6 +2210,65 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0s.w-x.costatic.adsafeprotected.com
 0.0.0.0adsafeprotected.com
 0.0.0.0freereadings.org
+0.0.0.0sc-analytics.appspot.com
+0.0.0.0app-analytics.snapchat.com
+0.0.0.0adserver.snapads.com
+0.0.0.0euw.adserver.snapads.com
+0.0.0.0euc.adserver.snapads.com
+0.0.0.0usc.adserver.snapads.com
+0.0.0.0ase.adserver.snapads.com
+0.0.0.0tr.snapchat.com
+0.0.0.0stats.gc.apple.com
+0.0.0.0iadsdk.apple.com
+0.0.0.0ads.twitter.com
+0.0.0.0app-measurement.com
+0.0.0.0events.appsflyer.com
+0.0.0.0stats.appsflyer.com
+0.0.0.0t.appsflyer.com
+0.0.0.0log.musical.ly
+0.0.0.0live.direct.ly
+0.0.0.0device.zhiliaoapp.com
+0.0.0.0uop.umeng.com
+0.0.0.0alog.umeng.com
+0.0.0.0alog.umengcloud.com
+0.0.0.0api.branch.io
+0.0.0.0cp.pushwoosh.com
+0.0.0.0ws.tapjoyads.com
+0.0.0.0connect.tapjoy.com
+0.0.0.0ads.api.vungle.com
+0.0.0.0adlog.flurry.com
+0.0.0.0data.flurry.com
+0.0.0.0wd.adcolony.com
+0.0.0.0events3.adcolony.com
+0.0.0.0events3alt.adcolony.com
+0.0.0.0adc3-launch.adcolony.com
+0.0.0.0supersonicads-a.akamaihd.net
+0.0.0.0i.w.inmobi.com
+0.0.0.0sdktm.w.inmobi.com
+0.0.0.0ads.mopub.com
+0.0.0.0api.gameanalytics.com
+0.0.0.0med.heyzap.com
+0.0.0.0api.uca.cloud.unity3d.com
+0.0.0.0gate.hockeyapp.net
+0.0.0.0sdk.hockeyapp.net
+0.0.0.0engine.fyber.com
+0.0.0.0trk.pinterest.com
+0.0.0.0graph.accountkit.com
+0.0.0.01681.engine.mobileapptracking.com
+0.0.0.0engine.mobileapptracking.com
+0.0.0.0mobileapptracking.com
+0.0.0.0config.ioam.de
+0.0.0.0logs.locarta.co
+0.0.0.0postback.pointwise.co
+0.0.0.0dev.appboy.com
+0.0.0.0 z.moatads.com
+0.0.0.0 appspot-preview.l.google.com
+0.0.0.0 m.quantcount.com
+0.0.0.0 app.adjust.com
+0.0.0.0 utraffic.engine.adglare.net
+0.0.0.0 e.crashlytics.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 settings.crashlytics.com
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
