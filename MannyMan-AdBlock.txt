@@ -1619,10 +1619,10 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 app.datadoghq.com
 0.0.0.0 ero-advertising.com
 0.0.0.0 adviad.com
-0.0.0.0ads.adviad.com
-0.0.0.0vikrasseth.com
-0.0.0.0pilosaleltd.com
-0.0.0.0piloltd.com
+0.0.0.0 ads.adviad.com
+0.0.0.0 vikrasseth.com
+0.0.0.0 pilosaleltd.com
+0.0.0.0 piloltd.com
 0.0.0.0tiffanycoshop.com
 0.0.0.0omitages.com
 0.0.0.0morrity.com
