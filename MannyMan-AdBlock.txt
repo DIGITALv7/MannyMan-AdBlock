@@ -103,7 +103,7 @@ ff02::6 ip6-hosts
 # ◑ ------ Twitch TV Ads / (may not always block) ------ ◐
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 ad.api.cloudfront.net
-0.0.0.0 edge.ads.twitch.tv/
+0.0.0.0 edge.ads.twitch.tv
 0.0.0.0 ads.twitch.tv
 0.0.0.0 ad-api.ttvnw.net
 0.0.0.0 ad-api.twitchcdn.net
@@ -1194,159 +1194,159 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 a185avoddashs3ww-a.akamaihd.net
 0.0.0.0 abbo7pmaaaaaaaamhdrshsjlfhjgw.pop-iad-2.cf.dash.row.aiv-cdn.net
 0.0.0.0 exoclick.com
-0.0.0.0ui.twinred.com
-0.0.0.0twinred.com
-0.0.0.0plugrush.com
-0.0.0.0popads.net
-0.0.0.0reacheffect.com
-0.0.0.0push.house
-0.0.0.0onclicka.com
-0.0.0.0adspyglass.com
-0.0.0.0ad-maven.com/advertisers
-0.0.0.0ad-maven.com
-0.0.0.0trafficstars.com
-0.0.0.0clickadilla.com
-0.0.0.0ux13.juicyads.com
-0.0.0.0juicyads.com
-0.0.0.0kadam.network
-0.0.0.0zeropark.com
-0.0.0.0adspyglass.com/?u=72652
-0.0.0.0adspyglass.com
-0.0.0.0trafficfactory.com
-0.0.0.0traffichunt.com
-0.0.0.0trafficshop.com
-0.0.0.0richads.com
-0.0.0.0propellerads.com
-0.0.0.0dao.ad
-0.0.0.0galaksionads.com
-0.0.0.0hilltopads.com
-0.0.0.0ezmob.com
-0.0.0.0mybid.io
-0.0.0.0ungads.com
-0.0.0.0mgid.com
-0.0.0.0evadav.com
-0.0.0.0adcash.com
-0.0.0.0bidvertiser.com
-0.0.0.0rollerads.com
-0.0.0.0coinis.com
-0.0.0.0plugrush.com
-0.0.0.0adplexity.com
-0.0.0.0semrush.com
-0.0.0.0app.dropispy.com
-0.0.0.0dropispy.com
-0.0.0.0anstrex.com
-0.0.0.0poweradspy.com
-0.0.0.0spypush.com
-0.0.0.0spycombo.com
-0.0.0.0app.adflex.io
-0.0.0.0adflex.io
-0.0.0.0adflex.com
-0.0.0.0dropispy.com
-0.0.0.0spyover.com
-0.0.0.0admobispy.com
-0.0.0.0adbeat.com
-0.0.0.0tubecorporate.com
-0.0.0.0trafficox.com
-0.0.0.0spectrumreach.com
-0.0.0.0eroadvertising.combuymediahq.com
-0.0.0.0buymedia.biz
-0.0.0.0dao.ads
-0.0.0.0roiads.com
-0.0.0.0smartyads.com
-0.0.0.0moloco.com
-0.0.0.0channelfactory.com
-0.0.0.0adscompass.com
-0.0.0.0adnium.com
-0.0.0.0redtrack.io
-0.0.0.0groundtruth.com
-0.0.0.0hs.groundtruth.com
-0.0.0.0plugrush.com
-0.0.0.0rtb.adventurefeeds.com
-0.0.0.0adventurefeeds.com
-0.0.0.0adxad.com
-0.0.0.0meduza-adx.com
-0.0.0.0ww16.meduza-adx.com/?sub1=20241119-1531-1989-b120-f5f421b3cfec
-0.0.0.0ww16.meduza-adx.com
-0.0.0.0mondiad.com
-0.0.0.0noviclick.com
-0.0.0.0traffichaus.com
-0.0.0.0clickaine.com
-0.0.0.0getadmiral.com
-0.0.0.0getadmiral.com/pb/?utm_source=www.khou.com&utm_medium=pb&utm_campaign=e&session=5-e89afc04a9d93959953d66da06476046-6763652d75732d63656e7472616c31-3
-0.0.0.0monetag.com
-0.0.0.0adoperator.com
-0.0.0.0whinoops.net
-0.0.0.0loorotaute.net
-0.0.0.0loaptoostah.net
-0.0.0.0barn-tv.se
-0.0.0.0stoargauss.com
-0.0.0.0wukeenouje.net
-0.0.0.0oafoocmisa.net
-0.0.0.0steegheltee.net
-0.0.0.0nidaungig.net
-0.0.0.0graungooste.net
-0.0.0.0oafoocmisa.net
-0.0.0.0saishonubu.net
-0.0.0.0graughers.net
-0.0.0.0primarkenfrance.com
-0.0.0.0overhitmontopa.com
-0.0.0.017ebook.com
-0.0.0.0aladel.net
-0.0.0.0bpwhamburgorchardpark.org
-0.0.0.0clicnews.com
-0.0.0.0dfwdiesel.net
-0.0.0.0divineenterprises.net
-0.0.0.0fantasticfilms.ru
-0.0.0.0gardensrestaurantandcatering.com
-0.0.0.0ginedis.com
-0.0.0.0gncr.org
-0.0.0.0hdvideoforums.org
-0.0.0.0hihanin.com
-0.0.0.0kingfamilyphotoalbum.com
-0.0.0.0likaraoke.com
-0.0.0.0mactep.org
-0.0.0.0magic4you.nu
-0.0.0.0marbling.pe.kr
-0.0.0.0nacjalneg.info
-0.0.0.0pronline.ru
-0.0.0.0purplehoodie.com
-0.0.0.0qsng.cn
-0.0.0.0seksburada.net
-0.0.0.0sportsmansclub.net
-0.0.0.0stock888.cn
-0.0.0.0tathli.com
-0.0.0.0teamclouds.com
-0.0.0.0texaswhitetailfever.com
-0.0.0.0wadefamilytree.org
-0.0.0.0xnescat.info
-0.0.0.0yt118.comadsports.in
-0.0.0.0alushtadom.com
-0.0.0.0avtoresurs.net
-0.0.0.0pamelasparrowchilds.com
-0.0.0.0stimmwissenschaften.de
-0.0.0.0truepublish.de
-0.0.0.0eastsideautosalvage.com
-0.0.0.0gtcartographic.co.uk
-0.0.0.0logopaedie-tisch.homepage.t-online.de38zu.cn
-0.0.0.0lousecn.cn
-0.0.0.0fqwerz.cn
-0.0.0.0googleanalytlcs.net
-0.0.0.0goooogleadsense.biz
-0.0.0.094.247.2.195
-0.0.0.0gumblar.cn
-0.0.0.0d99q.cn
-0.0.0.0orgsite.info
-0.0.0.0martuz.cnadsports.in
-0.0.0.0alushtadom.com
-0.0.0.0avtoresurs.net
-0.0.0.0pamelasparrowchilds.com
-0.0.0.0stimmwissenschaften.de
-0.0.0.0truepublish.de
-0.0.0.0eastsideautosalvage.com
-0.0.0.0gtcartographic.co.uk
-0.0.0.0logopaedie-tisch.homepage.t-online.de
-0.0.0.0trojan-scan.com
-0.0.0.0topspywareremovers.com
+0.0.0.0 ui.twinred.com
+0.0.0.0 twinred.com
+0.0.0.0 plugrush.com
+0.0.0.0 popads.net
+0.0.0.0 reacheffect.com
+0.0.0.0 push.house
+0.0.0.0 onclicka.com
+0.0.0.0 adspyglass.com
+0.0.0.0 ad-maven.com/advertisers
+0.0.0.0 ad-maven.com
+0.0.0.0 trafficstars.com
+0.0.0.0 clickadilla.com
+0.0.0.0 ux13.juicyads.com
+0.0.0.0 juicyads.com
+0.0.0.0 kadam.network
+0.0.0.0 zeropark.com
+0.0.0.0 adspyglass.com/?u=72652
+0.0.0.0 adspyglass.com
+0.0.0.0 trafficfactory.com
+0.0.0.0 traffichunt.com
+0.0.0.0 trafficshop.com
+0.0.0.0 richads.com
+0.0.0.0 propellerads.com
+0.0.0.0 dao.ad
+0.0.0.0 galaksionads.com
+0.0.0.0 hilltopads.com
+0.0.0.0 ezmob.com
+0.0.0.0 mybid.io
+0.0.0.0 ungads.com
+0.0.0.0 mgid.com
+0.0.0.0 evadav.com
+0.0.0.0 adcash.com
+0.0.0.0 bidvertiser.com
+0.0.0.0 rollerads.com
+0.0.0.0 coinis.com
+0.0.0.0 plugrush.com
+0.0.0.0 adplexity.com
+0.0.0.0 semrush.com
+0.0.0.0 app.dropispy.com
+0.0.0.0 dropispy.com
+0.0.0.0 anstrex.com
+0.0.0.0 poweradspy.com
+0.0.0.0 spypush.com
+0.0.0.0 spycombo.com
+0.0.0.0 app.adflex.io
+0.0.0.0 adflex.io
+0.0.0.0 adflex.com
+0.0.0.0 dropispy.com
+0.0.0.0 spyover.com
+0.0.0.0 admobispy.com
+0.0.0.0 adbeat.com
+0.0.0.0 tubecorporate.com
+0.0.0.0 trafficox.com
+0.0.0.0 spectrumreach.com
+0.0.0.0 eroadvertising.combuymediahq.com
+0.0.0.0 buymedia.biz
+0.0.0.0 dao.ads
+0.0.0.0 roiads.com
+0.0.0.0 smartyads.com
+0.0.0.0 moloco.com
+0.0.0.0 channelfactory.com
+0.0.0.0 adscompass.com
+0.0.0.0 adnium.com
+0.0.0.0 redtrack.io
+0.0.0.0 groundtruth.com
+0.0.0.0 hs.groundtruth.com
+0.0.0.0 plugrush.com
+0.0.0.0 rtb.adventurefeeds.com
+0.0.0.0 adventurefeeds.com
+0.0.0.0 adxad.com
+0.0.0.0 meduza-adx.com
+0.0.0.0 ww16.meduza-adx.com/?sub1=20241119-1531-1989-b120-f5f421b3cfec
+0.0.0.0 ww16.meduza-adx.com
+0.0.0.0 mondiad.com
+0.0.0.0 noviclick.com
+0.0.0.0 traffichaus.com
+0.0.0.0 clickaine.com
+0.0.0.0 getadmiral.com
+0.0.0.0 getadmiral.com/pb/?utm_source=www.khou.com&utm_medium=pb&utm_campaign=e&session=5-e89afc04a9d93959953d66da06476046-6763652d75732d63656e7472616c31-3
+0.0.0.0 monetag.com
+0.0.0.0 adoperator.com
+0.0.0.0 whinoops.net
+0.0.0.0 loorotaute.net
+0.0.0.0 loaptoostah.net
+0.0.0.0 barn-tv.se
+0.0.0.0 stoargauss.com
+0.0.0.0 wukeenouje.net
+0.0.0.0 oafoocmisa.net
+0.0.0.0 steegheltee.net
+0.0.0.0 nidaungig.net
+0.0.0.0 graungooste.net
+0.0.0.0 oafoocmisa.net
+0.0.0.0 saishonubu.net
+0.0.0.0 graughers.net
+0.0.0.0 primarkenfrance.com
+0.0.0.0 overhitmontopa.com
+0.0.0.0 17ebook.com
+0.0.0.0 aladel.net
+0.0.0.0 bpwhamburgorchardpark.org
+0.0.0.0 clicnews.com
+0.0.0.0 dfwdiesel.net
+0.0.0.0 divineenterprises.net
+0.0.0.0 fantasticfilms.ru
+0.0.0.0 gardensrestaurantandcatering.com
+0.0.0.0 ginedis.com
+0.0.0.0 gncr.org
+0.0.0.0 hdvideoforums.org
+0.0.0.0 hihanin.com
+0.0.0.0 kingfamilyphotoalbum.com
+0.0.0.0 likaraoke.com
+0.0.0.0 mactep.org
+0.0.0.0 magic4you.nu
+0.0.0.0 marbling.pe.kr
+0.0.0.0 nacjalneg.info
+0.0.0.0 pronline.ru
+0.0.0.0 purplehoodie.com
+0.0.0.0 qsng.cn
+0.0.0.0 seksburada.net
+0.0.0.0 sportsmansclub.net
+0.0.0.0 stock888.cn
+0.0.0.0 tathli.com
+0.0.0.0 teamclouds.com
+0.0.0.0 texaswhitetailfever.com
+0.0.0.0 wadefamilytree.org
+0.0.0.0 xnescat.info
+0.0.0.0 yt118.comadsports.in
+0.0.0.0 alushtadom.com
+0.0.0.0 avtoresurs.net
+0.0.0.0 pamelasparrowchilds.com
+0.0.0.0 stimmwissenschaften.de
+0.0.0.0 truepublish.de
+0.0.0.0 eastsideautosalvage.com
+0.0.0.0 gtcartographic.co.uk
+0.0.0.0 logopaedie-tisch.homepage.t-online.de38zu.cn
+0.0.0.0 lousecn.cn
+0.0.0.0 fqwerz.cn
+0.0.0.0 googleanalytlcs.net
+0.0.0.0 goooogleadsense.biz
+0.0.0.0 94.247.2.195
+0.0.0.0 gumblar.cn
+0.0.0.0 d99q.cn
+0.0.0.0 orgsite.info
+0.0.0.0 martuz.cnadsports.in
+0.0.0.0 alushtadom.com
+0.0.0.0 avtoresurs.net
+0.0.0.0 pamelasparrowchilds.com
+0.0.0.0 stimmwissenschaften.de
+0.0.0.0 truepublish.de
+0.0.0.0 eastsideautosalvage.com
+0.0.0.0 gtcartographic.co.uk
+0.0.0.0 logopaedie-tisch.homepage.t-online.de
+0.0.0.0 trojan-scan.com
+0.0.0.0 topspywareremovers.com
 0.0.0.0topadwarereviews.com
 0.0.0.0the-spyware-zone.com
 0.0.0.0spyware.1000recursos.com
@@ -2041,226 +2041,226 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0goggle.com
 0.0.0.0stingware.com
 0.0.0.0untdd.com
-0.0.0.0eblocs.com
-0.0.0.0networkdynamicscorp.com
-0.0.0.0spy-block.com
-0.0.0.0spyblast.com
-0.0.0.0advertising.com
-0.0.0.0spybeware.com
-0.0.0.0spyban.net
-0.0.0.0spyaxe.com
-0.0.0.0spyaxe.biz
-0.0.0.0spyaxe.net
-0.0.0.0nospywaresoft.com
-0.0.0.0topantispy.com
-0.0.0.0spyaxeupdate.com
-0.0.0.0spy-away.com
-0.0.0.0spyassassin.com
-0.0.0.0adwaresoft.com
-0.0.0.0spyanalyst.com
-0.0.0.0spyadvanced.com
-0.0.0.0oreware.com
-0.0.0.0smart-security.info
-0.0.0.0slimshield.com
-0.0.0.0spyware-wiper.com
-0.0.0.0spystalker.com
-0.0.0.0spyspotter.com
-0.0.0.0spysoldier.com
-0.0.0.0spysniper.net
-0.0.0.0shield.com
-0.0.0.0spyshield.org
-0.0.0.0spysheriff.com
-0.0.0.0spy-sheriff.com
-0.0.0.0spyware-cash.com
-0.0.0.0antispynow.com
-0.0.0.0fzyonline.com
-0.0.0.0anosurfer.com
-0.0.0.0rizalsoftware.com
-0.0.0.0spyreaper.com
-0.0.0.0spyonthis.net
-0.0.0.0hijack-this.net
-0.0.0.0spyofficer.com
-0.0.0.0spymarshal.com
-0.0.0.0spylocked.com
-0.0.0.0healthycomputerclub.com
-0.0.0.0nospyware.info
-0.0.0.0spykillerpro.com
-0.0.0.0spykiller.com
-0.0.0.0spykillerdownload.com
-0.0.0.0free-spyware-scan.com
-0.0.0.0killercash.com
-0.0.0.0safer-networking.com
-0.0.0.0swanksoft.com
-0.0.0.0spy-kill.com
-0.0.0.0spyinator.com
-0.0.0.0spyikiller.com
-0.0.0.0spyiblock.com
-0.0.0.0spy-iblock.com
-0.0.0.0spyheal.com
-0.0.0.0spyheal.com
-0.0.0.0spyfirewall.com
-0.0.0.0spybloc.com
-0.0.0.0spyblocs.com
-0.0.0.0spyfighter.com
-0.0.0.0onlinepcfix.com
-0.0.0.0spyferret.com
-0.0.0.0spyfalcon.com
-0.0.0.0securetactics.com
-0.0.0.0spydetector.net
-0.0.0.0spydestroy.com
-0.0.0.0platinumparter.com
-0.0.0.0spydemolisher.com
-0.0.0.0spyware-cash.com
-0.0.0.0spydeleter.com
-0.0.0.0209.50.251.182
-0.0.0.0spydefence.com
-0.0.0.0spydeface.com
-0.0.0.0spydawn.com
-0.0.0.0spycut.com
-0.0.0.0spy-crusher.com
-0.0.0.0spycrush.com
-0.0.0.0spy-control.com
-0.0.0.0spycontra.com
-0.0.0.0spystriker.com
-0.0.0.0bulletproofsoft.com
-0.0.0.0spystalker.com
-0.0.0.0spyspotter.com
-0.0.0.0spysoldier.com
-0.0.0.0spysniper.net
-0.0.0.0shield.com
-0.0.0.0spyshield.org
-0.0.0.0spysheriff.com
-0.0.0.0spy-sheriff.com
-0.0.0.0spyware-cash.com
-0.0.0.0antispynow.com
-0.0.0.0fzyonline.com
-0.0.0.0anosurfer.com
-0.0.0.0rizalsoftware.com
-0.0.0.0spyreaper.com
-0.0.0.0spyonthis.net
-0.0.0.0hijack-this.net
-0.0.0.0spyofficer.com
-0.0.0.0spymarshal.com
-0.0.0.0spylocked.com
-0.0.0.0healthycomputerclub.com
-0.0.0.0nospyware.info
-0.0.0.0spykillerpro.com
-0.0.0.0spykiller.com
-0.0.0.0spykillerdownload.com
-0.0.0.0free-spyware-scan.com
-0.0.0.0killercash.com
-0.0.0.0safer-networking.com
-0.0.0.0swanksoft.com
-0.0.0.0pubscale.com
-0.0.0.0businessofapps.com
-0.0.0.0publift.com
-0.0.0.0installatron.com
-0.0.0.0blockthrough.com
-0.0.0.0sitepoint.com
-0.0.0.0geniusmonkey.com
-0.0.0.0adglare.com
-0.0.0.0stackadapt.com
-0.0.0.0mobileads.com
-0.0.0.0adquick.com
-0.0.0.0adexchanger.com
-0.0.0.0adjust.com
-0.0.0.0hitapps.com
-0.0.0.0evadav.com
-0.0.0.0reacheffect.com
-0.0.0.0astrad.io
-0.0.0.0moloco.com
-0.0.0.0kevel.com
-0.0.0.0limelight.inc
-0.0.0.0equativ.com
-0.0.0.0e-planning.net
-0.0.0.0epom.com
-0.0.0.0oiopublisher.com/
-0.0.0.0adflight.io
-0.0.0.0adglare.com
-0.0.0.0adspirit.com/en
-0.0.0.0adspirit.com
-0.0.0.0appnexus.com
-0.0.0.0zedo.com
-0.0.0.0adhese.com
-0.0.0.0djaxadserver.com/p
-0.0.0.0djaxadserver.com
-0.0.0.0adserver.com
-0.0.0.0info.analytics-iq.com
-0.0.0.0airtory.com
-0.0.0.0admob.google.com/home
-0.0.0.0admob.com
-0.0.0.0fluency.inc
-0.0.0.0lp.moburst.com
-0.0.0.0pages.launch.stackadapt.com
-0.0.0.0agilityads.com
-0.0.0.0vibe.co
-0.0.0.0thumbvista.com
-0.0.0.0adroll.com
-0.0.0.0simpli.fi
-0.0.0.0spectrumreach.com
-0.0.0.0purevisibility.com
-0.0.0.0gamoshi.com
-0.0.0.0chartboost.com
-0.0.0.0inmobi.com
-0.0.0.0mountain.com
-0.0.0.0zazz.io
-0.0.0.0start.io
-0.0.0.0static.adsafeprotected.com
-0.0.0.0pixel.adsafeprotected.com
-0.0.0.0s.w-x.costatic.adsafeprotected.com
-0.0.0.0adsafeprotected.com
-0.0.0.0freereadings.org
-0.0.0.0sc-analytics.appspot.com
-0.0.0.0app-analytics.snapchat.com
-0.0.0.0adserver.snapads.com
-0.0.0.0euw.adserver.snapads.com
-0.0.0.0euc.adserver.snapads.com
-0.0.0.0usc.adserver.snapads.com
-0.0.0.0ase.adserver.snapads.com
-0.0.0.0tr.snapchat.com
-0.0.0.0stats.gc.apple.com
-0.0.0.0iadsdk.apple.com
-0.0.0.0ads.twitter.com
-0.0.0.0app-measurement.com
-0.0.0.0events.appsflyer.com
-0.0.0.0stats.appsflyer.com
-0.0.0.0t.appsflyer.com
-0.0.0.0log.musical.ly
-0.0.0.0live.direct.ly
-0.0.0.0device.zhiliaoapp.com
-0.0.0.0uop.umeng.com
-0.0.0.0alog.umeng.com
-0.0.0.0alog.umengcloud.com
-0.0.0.0api.branch.io
-0.0.0.0cp.pushwoosh.com
-0.0.0.0ws.tapjoyads.com
-0.0.0.0connect.tapjoy.com
-0.0.0.0ads.api.vungle.com
-0.0.0.0adlog.flurry.com
-0.0.0.0data.flurry.com
-0.0.0.0wd.adcolony.com
-0.0.0.0events3.adcolony.com
-0.0.0.0events3alt.adcolony.com
-0.0.0.0adc3-launch.adcolony.com
-0.0.0.0supersonicads-a.akamaihd.net
-0.0.0.0i.w.inmobi.com
-0.0.0.0sdktm.w.inmobi.com
-0.0.0.0ads.mopub.com
-0.0.0.0api.gameanalytics.com
-0.0.0.0med.heyzap.com
-0.0.0.0api.uca.cloud.unity3d.com
-0.0.0.0gate.hockeyapp.net
-0.0.0.0sdk.hockeyapp.net
-0.0.0.0engine.fyber.com
-0.0.0.0trk.pinterest.com
-0.0.0.0graph.accountkit.com
-0.0.0.01681.engine.mobileapptracking.com
-0.0.0.0engine.mobileapptracking.com
-0.0.0.0mobileapptracking.com
-0.0.0.0config.ioam.de
-0.0.0.0logs.locarta.co
-0.0.0.0postback.pointwise.co
-0.0.0.0dev.appboy.com
+0.0.0.0 eblocs.com
+0.0.0.0 networkdynamicscorp.com
+0.0.0.0 spy-block.com
+0.0.0.0 spyblast.com
+0.0.0.0 advertising.com
+0.0.0.0 spybeware.com
+0.0.0.0 spyban.net
+0.0.0.0 spyaxe.com
+0.0.0.0 spyaxe.biz
+0.0.0.0 spyaxe.net
+0.0.0.0 nospywaresoft.com
+0.0.0.0 topantispy.com
+0.0.0.0 spyaxeupdate.com
+0.0.0.0 spy-away.com
+0.0.0.0 spyassassin.com
+0.0.0.0 adwaresoft.com
+0.0.0.0 spyanalyst.com
+0.0.0.0 spyadvanced.com
+0.0.0.0 oreware.com
+0.0.0.0 smart-security.info
+0.0.0.0 slimshield.com
+0.0.0.0 spyware-wiper.com
+0.0.0.0 spystalker.com
+0.0.0.0 spyspotter.com
+0.0.0.0 spysoldier.com
+0.0.0.0 spysniper.net
+0.0.0.0 shield.com
+0.0.0.0 spyshield.org
+0.0.0.0 spysheriff.com
+0.0.0.0 spy-sheriff.com
+0.0.0.0 spyware-cash.com
+0.0.0.0 antispynow.com
+0.0.0.0 fzyonline.com
+0.0.0.0 anosurfer.com
+0.0.0.0 rizalsoftware.com
+0.0.0.0 spyreaper.com
+0.0.0.0 spyonthis.net
+0.0.0.0 hijack-this.net
+0.0.0.0 spyofficer.com
+0.0.0.0 spymarshal.com
+0.0.0.0 spylocked.com
+0.0.0.0 healthycomputerclub.com
+0.0.0.0 nospyware.info
+0.0.0.0 spykillerpro.com
+0.0.0.0 spykiller.com
+0.0.0.0 spykillerdownload.com
+0.0.0.0 free-spyware-scan.com
+0.0.0.0 killercash.com
+0.0.0.0 safer-networking.com
+0.0.0.0 swanksoft.com
+0.0.0.0 spy-kill.com
+0.0.0.0 spyinator.com
+0.0.0.0 spyikiller.com
+0.0.0.0 spyiblock.com
+0.0.0.0 spy-iblock.com
+0.0.0.0 spyheal.com
+0.0.0.0 spyheal.com
+0.0.0.0 spyfirewall.com
+0.0.0.0 spybloc.com
+0.0.0.0 spyblocs.com
+0.0.0.0 spyfighter.com
+0.0.0.0 onlinepcfix.com
+0.0.0.0 spyferret.com
+0.0.0.0 spyfalcon.com
+0.0.0.0 securetactics.com
+0.0.0.0 spydetector.net
+0.0.0.0 spydestroy.com
+0.0.0.0 platinumparter.com
+0.0.0.0 spydemolisher.com
+0.0.0.0 spyware-cash.com
+0.0.0.0 spydeleter.com
+0.0.0.0 209.50.251.182
+0.0.0.0 spydefence.com
+0.0.0.0 spydeface.com
+0.0.0.0 spydawn.com
+0.0.0.0 spycut.com
+0.0.0.0 spy-crusher.com
+0.0.0.0 spycrush.com
+0.0.0.0 spy-control.com
+0.0.0.0 spycontra.com
+0.0.0.0 spystriker.com
+0.0.0.0 bulletproofsoft.com
+0.0.0.0 spystalker.com
+0.0.0.0 spyspotter.com
+0.0.0.0 spysoldier.com
+0.0.0.0 spysniper.net
+0.0.0.0 shield.com
+0.0.0.0 spyshield.org
+0.0.0.0 spysheriff.com
+0.0.0.0 spy-sheriff.com
+0.0.0.0 spyware-cash.com
+0.0.0.0 antispynow.com
+0.0.0.0 fzyonline.com
+0.0.0.0 anosurfer.com
+0.0.0.0 rizalsoftware.com
+0.0.0.0 spyreaper.com
+0.0.0.0 spyonthis.net
+0.0.0.0 hijack-this.net
+0.0.0.0 spyofficer.com
+0.0.0.0 spymarshal.com
+0.0.0.0 spylocked.com
+0.0.0.0 healthycomputerclub.com
+0.0.0.0 nospyware.info
+0.0.0.0 spykillerpro.com
+0.0.0.0 spykiller.com
+0.0.0.0 spykillerdownload.com
+0.0.0.0 free-spyware-scan.com
+0.0.0.0 killercash.com
+0.0.0.0 safer-networking.com
+0.0.0.0 swanksoft.com
+0.0.0.0 pubscale.com
+0.0.0.0 businessofapps.com
+0.0.0.0 publift.com
+0.0.0.0 installatron.com
+0.0.0.0 blockthrough.com
+0.0.0.0 sitepoint.com
+0.0.0.0 geniusmonkey.com
+0.0.0.0 adglare.com
+0.0.0.0 stackadapt.com
+0.0.0.0 mobileads.com
+0.0.0.0 adquick.com
+0.0.0.0 adexchanger.com
+0.0.0.0 adjust.com
+0.0.0.0 hitapps.com
+0.0.0.0 evadav.com
+0.0.0.0 reacheffect.com
+0.0.0.0 astrad.io
+0.0.0.0 moloco.com
+0.0.0.0 kevel.com
+0.0.0.0 limelight.inc
+0.0.0.0 equativ.com
+0.0.0.0 e-planning.net
+0.0.0.0 epom.com
+0.0.0.0 oiopublisher.com/
+0.0.0.0 adflight.io
+0.0.0.0 adglare.com
+0.0.0.0 adspirit.com/en
+0.0.0.0 adspirit.com
+0.0.0.0 appnexus.com
+0.0.0.0 zedo.com
+0.0.0.0 adhese.com
+0.0.0.0 djaxadserver.com/p
+0.0.0.0 djaxadserver.com
+0.0.0.0 adserver.com
+0.0.0.0 info.analytics-iq.com
+0.0.0.0 airtory.com
+0.0.0.0 admob.google.com/home
+0.0.0.0 admob.com
+0.0.0.0 fluency.inc
+0.0.0.0 lp.moburst.com
+0.0.0.0 pages.launch.stackadapt.com
+0.0.0.0 agilityads.com
+0.0.0.0 vibe.co
+0.0.0.0 thumbvista.com
+0.0.0.0 adroll.com
+0.0.0.0 simpli.fi
+0.0.0.0 spectrumreach.com
+0.0.0.0 purevisibility.com
+0.0.0.0 gamoshi.com
+0.0.0.0 chartboost.com
+0.0.0.0 inmobi.com
+0.0.0.0 mountain.com
+0.0.0.0 zazz.io
+0.0.0.0 start.io
+0.0.0.0 static.adsafeprotected.com
+0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 s.w-x.costatic.adsafeprotected.com
+0.0.0.0 adsafeprotected.com
+0.0.0.0 freereadings.org
+0.0.0.0 sc-analytics.appspot.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 adserver.snapads.com
+0.0.0.0 euw.adserver.snapads.com
+0.0.0.0 euc.adserver.snapads.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 ase.adserver.snapads.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 stats.gc.apple.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 app-measurement.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 log.musical.ly
+0.0.0.0 live.direct.ly
+0.0.0.0 device.zhiliaoapp.com
+0.0.0.0 uop.umeng.com
+0.0.0.0 alog.umeng.com
+0.0.0.0 alog.umengcloud.com
+0.0.0.0 api.branch.io
+0.0.0.0 cp.pushwoosh.com
+0.0.0.0 ws.tapjoyads.com
+0.0.0.0 connect.tapjoy.com
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 adlog.flurry.com
+0.0.0.0 data.flurry.com
+0.0.0.0 wd.adcolony.com
+0.0.0.0 events3.adcolony.com
+0.0.0.0 events3alt.adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 supersonicads-a.akamaihd.net
+0.0.0.0 i.w.inmobi.com
+0.0.0.0 sdktm.w.inmobi.com
+0.0.0.0 ads.mopub.com
+0.0.0.0 api.gameanalytics.com
+0.0.0.0 med.heyzap.com
+0.0.0.0 api.uca.cloud.unity3d.com
+0.0.0.0 gate.hockeyapp.net
+0.0.0.0 sdk.hockeyapp.net
+0.0.0.0 engine.fyber.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 graph.accountkit.com
+0.0.0.0 1681.engine.mobileapptracking.com
+0.0.0.0 engine.mobileapptracking.com
+0.0.0.0 mobileapptracking.com
+0.0.0.0 config.ioam.de
+0.0.0.0 logs.locarta.co
+0.0.0.0 postback.pointwise.co
+0.0.0.0 dev.appboy.com
 0.0.0.0 z.moatads.com
 0.0.0.0 appspot-preview.l.google.com
 0.0.0.0 m.quantcount.com
