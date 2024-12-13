@@ -234,6 +234,8 @@ www.twitch.tv cloudfront.net * noop
 www.twitch.tv ttvnw.net * noop
 www.twitch.tv twitch.map.fastly.net * noop
 www.twitch.tv twitchcdn.net * noop
+# ---- Misc. Twitch Ad Block Scripts ----
+twitch.tv##+js(twitch-videoad)
 # ◑ --------------------------- ◐
 0.0.0.0 1-1ads.com
 0.0.0.0 100028779.collect.igodigital.com
