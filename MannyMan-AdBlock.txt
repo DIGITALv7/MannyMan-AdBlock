@@ -1735,261 +1735,261 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 mfileshare.com
 0.0.0.0 morenewmedianow.com
 0.0.0.0 mydigitalfinderone.com
-0.0.0.0newfastmediasearcher.com
-0.0.0.0onlinebooksfiles.com
-0.0.0.0promediasearch.com
-0.0.0.0starmediasearcher.com
-0.0.0.0saveclip.net
-0.0.0.0urlmediafiles.com
-0.0.0.0worldbooksdownloads.com
-0.0.0.0yourfreemediadownloads.com
-0.0.0.0yournetmediastore.com
-0.0.0.0yourpromptdownloader.com
-0.0.0.0yoursoftwareplace.com
-0.0.0.0pivwin2.appspot.com/dn?k=Software+to+scan+website+for+malware
-0.0.0.0tmpslv2.appspot.com/hello?k=Software%20to%20scan%20website%20for%20malware
-0.0.0.0mypromediastoretwo.com/02000/download.php?id=2000&name=Software%20to%20scan%20website%20for%20malware
-0.0.0.0download-genius.com/download-k:Software-To-Scan-Website-For-Malware.html?aff.id=5929&aff.subid=2000
-0.0.0.0download-genius.com
-0.0.0.0mypromediastore.com
-0.0.0.0appspot.com
-0.0.0.0superior-download.com
-0.0.0.0mymediadownloadstwentyfive.com/?dmV…skipped_long_string
-0.0.0.0mymediadownloads.com
-0.0.0.0download5-cdn.com
-0.0.0.0letshareus.com
-0.0.0.091.226.32.97
-0.0.0.091.226.32.96
-0.0.0.091.226.32.95
-0.0.0.091.226.32.94
-0.0.0.091.226.32.22
-0.0.0.091.226.33.75
-0.0.0.091.226.33.76
-0.0.0.091.226.33.77
-0.0.0.095.211.148.47
-0.0.0.0195.226.218.218
-0.0.0.05.61.32.34
-0.0.0.0213.174.130.176
-0.0.0.0flirt-locals.com
-0.0.0.0error1.walletwinners.com
-0.0.0.0error2.walletwinners.com
-0.0.0.0systempings.com
-0.0.0.0infosystemsllc.com
-0.0.0.0popplunder.com
-0.0.0.0svntrk.com
-0.0.0.0otnolatrnup.com
-0.0.0.0svibeacon.onezapp.com
-0.0.0.0mobile.pipe.aria.microsoft.com
-0.0.0.0a.exoclick.com
-0.0.0.0adjust.com
-0.0.0.0app.adjust.com
-0.0.0.0adwarehunter.com
-0.0.0.0browser-page.com
-0.0.0.0adwarehitman.com
-0.0.0.0adwarefinder.com
-0.0.0.0engagemarketing.com
-0.0.0.0adwaredeluxe.com
-0.0.0.0adwaredelete.com
-0.0.0.0adware-delete.com
-0.0.0.0qspyware.com
-0.0.0.0adwarecops.com
-0.0.0.0adwarebazooka.com
-0.0.0.0adware-bazooka.com
-0.0.0.0killersoftware.com
-0.0.0.0adware-remover.net
-0.0.0.0pcprivacysoftware.com
-0.0.0.0adprotector.com
-0.0.0.0protectorsuite.com
-0.0.0.0redv.net
-0.0.0.0ad-eliminator.com
-0.0.0.0adeliminator.net
-0.0.0.0addriller.com
-0.0.0.0cdmworldsoftware.com
-0.0.0.0adarmor.com
-0.0.0.0aboutblankremover.com
-0.0.0.0adware.storesbiz.com
-0.0.0.0storesbiz.com
-0.0.0.0storesbiz4u.com
-0.0.0.0spy.storebiz4u.com
-0.0.0.01stantivirus.com
-0.0.0.01spywarekiller.com
-0.0.0.0surfertools.com
-0.0.0.01clickspyclean.com
-0.0.0.01clicksuite.net
-0.0.0.0antivirusprotectionsite.com
-0.0.0.0antivirusprotector.com
-0.0.0.0antiviruspremium.com
-0.0.0.0virusscansite.com
-0.0.0.0anti-virus-pro.com
-0.0.0.0innovagest2000.com
-0.0.0.0antiviruspcsuite.com
-0.0.0.0antivirus-gold.com
-0.0.0.0antivirusgolden.com
-0.0.0.0antivirus-email.com
-0.0.0.0antivirusadvance.com
-0.0.0.0antivermins.com
-0.0.0.0antispyzone.com
-0.0.0.0antispywaresoldier.com
-0.0.0.0anti-viruses.net
-0.0.0.0your-soft.com
-0.0.0.0antispyadvanced.com
-0.0.0.0alfacleaner.com
-0.0.0.0alertspy.com
-0.0.0.0adwaredeluxe.com
-0.0.0.0adwarexterminator.com
-0.0.0.0aguarddog.com
-0.0.0.0agentspyware.com
-0.0.0.0ad-where.com
-0.0.0.0privacytools2004.com
-0.0.0.0adwarespyware.net
-0.0.0.0adwarexeliminator.com
-0.0.0.0athivision.com
-0.0.0.0adware.com
-0.0.0.0adwaretools.com
-0.0.0.0adwarestriker.com
-0.0.0.0adware.storesbiz.com
-0.0.0.0spy.storebiz4u.com
-0.0.0.0flyyasoft.com
-0.0.0.0adwarespywareremoval.com
-0.0.0.0adwarespy.com
-0.0.0.0spywarespy.com
-0.0.0.0adwaresheriff.com
-0.0.0.0adwaresheriff.net
-0.0.0.0sheriffcash.com
-0.0.0.0adwaresafety.com
-0.0.0.0adwaresafe.com
-0.0.0.0adwareremover.ws
-0.0.0.0adwareprotectionsite.com
-0.0.0.0adwarepunisher.com
-0.0.0.0adware-punisher.com
-0.0.0.0adwarepro.com
-0.0.0.0adwarepatrol.com
-0.0.0.0registry-doctor.com
-0.0.0.0download.com/Adware-Nuker/3000-8022_4-10389312.html
-0.0.0.0killspy.net
-0.0.0.0killandclean.com
-0.0.0.0killallspyware.com
-0.0.0.0mainstreamdollars.com
-0.0.0.0kazaap.org
-0.0.0.0cdn.cookielaw.org
-0.0.0.0d2dq2ahtl5zl1z.cloudfront.net
-0.0.0.0cdn.jetboost.io
-0.0.0.0x.vindicosuite.com
-0.0.0.0ucid.vindicosuite.com
-0.0.0.0platform-api.sharethis.com
-0.0.0.0widgets.outbrain.com
-0.0.0.0bat.bing.com
-0.0.0.0jnn-pa.googleapis.com
-0.0.0.0fresnel-events.vimeocdn.com
-0.0.0.0fresnel.vimeocdn.com
-0.0.0.0cdn.viglink.com
-0.0.0.0referrer.disqus.com
-0.0.0.0links.services.disqus.com
-0.0.0.0cdn.intergient.com
-0.0.0.0btloader.com
-0.0.0.0cdn.connatix.com
-0.0.0.0cdn.doubleverify.com
-0.0.0.0secure-ds.serving-sys.com
-0.0.0.0bs.serving-sys.com
-0.0.0.0cmp.dmgmediaprivacy.co.uk
-0.0.0.0cdn.teads.tvs.go-mpulse.net
-0.0.0.0uk-script.dotmetrics.net
-0.0.0.0s0.2mdn.net
-0.0.0.0i.mol.imapi.assertcom.desecure-ds.serving-sys.com
-0.0.0.0bs.serving-sys.com
-0.0.0.0tpc.googlesyndication.com
-0.0.0.0imasdk.googleapis.com
-0.0.0.0servedby.flashtalking.com
-0.0.0.0cdn.doubleverify.com
-0.0.0.0c.aps.amazon-adsystem.com
-0.0.0.0cdn.jwplayer.com
-0.0.0.0cdn.privacy-mgmt.com
-0.0.0.0cdn.taboola.com
-0.0.0.0uk-script.dotmetrics.net
-0.0.0.0jcspyware-remover.com
-0.0.0.0ispykiller.com
-0.0.0.0internetshield.com
-0.0.0.0softwareonline.com
-0.0.0.0certified-safe-downloads.com
-0.0.0.0allume.com
-0.0.0.0aladdinsys.com
-0.0.0.0internetantispy.com
-0.0.0.0zendmedia.com
-0.0.0.0hitvirus.com
-0.0.0.0guardbar.com
-0.0.0.0tekeffect.com
-0.0.0.0software4yoursuccess.com
-0.0.0.0freeze.com
-0.0.0.0floborecovery.com
-0.0.0.0fixerantispy.com
-0.0.0.0expertantivirus.com
-0.0.0.0etdscanner.com
-0.0.0.0easyspywarekiller.com
-0.0.0.0easyerase.com
-0.0.0.0doctoradwarepro.com
-0.0.0.0alertspy.com
-0.0.0.0doctoradware.com
-0.0.0.0no-spy-ware.com
-0.0.0.0platinumparter.com
-0.0.0.0diaremover.com
-0.0.0.0curepcsolutions.com
-0.0.0.0copperheadsecurity.com
-0.0.0.0contra-virus.com
-0.0.0.0consumeridentity.com
-0.0.0.0cleanx.co.kr
-0.0.0.0checkspy.com
-0.0.0.0checkflow.com
-0.0.0.0breakspyware.com
-0.0.0.0bravesentry.com
-0.0.0.0bulletproofsoft.com
-0.0.0.0spywarecops.com
-0.0.0.0botsquash.com
-0.0.0.0bestguardplatinum.com
-0.0.0.0avsystemcare.com
-0.0.0.0armor2net.com
-0.0.0.0spywarekiller.net
-0.0.0.0anti-viruses.net
-0.0.0.0your-soft.com
-0.0.0.06d-antivirus.com
-0.0.0.0platinumpartner.com
-0.0.0.0myspyprotector.com
-0.0.0.0myspyfreepc.com
-0.0.0.0myspyprotector.com
-0.0.0.0myspyfreepc.com
-0.0.0.0esunsofttechnologies.com
-0.0.0.0mynetprotector.com
-0.0.0.0mrantispy.com
-0.0.0.0microantivirus.com
-0.0.0.0microantivirusxp.com
-0.0.0.0platinumparter.com
-0.0.0.0maxprivacyprotector.com
-0.0.0.0malwarewipe.com
-0.0.0.0malwarewiped.com
-0.0.0.0malware-stopper.com
-0.0.0.0malwarepanacea.com
-0.0.0.0spywarecops.com
-0.0.0.0bulletproofsoft.com
-0.0.0.0malwarealarm.com
-0.0.0.0clickspring.net
-0.0.0.0purityscan.com
-0.0.0.0puritysweep.com
-0.0.0.0psguard.com
-0.0.0.0myspywarescan.com
-0.0.0.0privacytools2004.com
-0.0.0.0pcsecurityshield.com
-0.0.0.0egeosoftware.com
-0.0.0.0redemptionengine.com
-0.0.0.0rewardsengine.com
-0.0.0.0privacychampion.com
-0.0.0.0pest-wiper.com
-0.0.0.0pestwiper.com
-0.0.0.0pesttrap.com
-0.0.0.0pestkiller.com
-0.0.0.0pestkilla.com
-0.0.0.0pestnuke.com
-0.0.0.0pesttrapper.com
-0.0.0.0xpesttrap.com
-0.0.0.0pestprotector.com
+0.0.0.0 newfastmediasearcher.com
+0.0.0.0 onlinebooksfiles.com
+0.0.0.0 promediasearch.com
+0.0.0.0 starmediasearcher.com
+0.0.0.0 saveclip.net
+0.0.0.0 urlmediafiles.com
+0.0.0.0 worldbooksdownloads.com
+0.0.0.0 yourfreemediadownloads.com
+0.0.0.0 yournetmediastore.com
+0.0.0.0 yourpromptdownloader.com
+0.0.0.0 yoursoftwareplace.com
+0.0.0.0 pivwin2.appspot.com/dn?k=Software+to+scan+website+for+malware
+0.0.0.0 tmpslv2.appspot.com/hello?k=Software%20to%20scan%20website%20for%20malware
+0.0.0.0 mypromediastoretwo.com/02000/download.php?id=2000&name=Software%20to%20scan%20website%20for%20malware
+0.0.0.0 download-genius.com/download-k:Software-To-Scan-Website-For-Malware.html?aff.id=5929&aff.subid=2000
+0.0.0.0 download-genius.com
+0.0.0.0 mypromediastore.com
+0.0.0.0 appspot.com
+0.0.0.0 superior-download.com
+0.0.0.0 mymediadownloadstwentyfive.com/?dmV…skipped_long_string
+0.0.0.0 mymediadownloads.com
+0.0.0.0 download5-cdn.com
+0.0.0.0 letshareus.com
+0.0.0.0 91.226.32.97
+0.0.0.0 91.226.32.96
+0.0.0.0 91.226.32.95
+0.0.0.0 91.226.32.94
+0.0.0.0 91.226.32.22
+0.0.0.0 91.226.33.75
+0.0.0.0 91.226.33.76
+0.0.0.0 91.226.33.77
+0.0.0.0 95.211.148.47
+0.0.0.0 195.226.218.218
+0.0.0.0 5.61.32.34
+0.0.0.0 213.174.130.176
+0.0.0.0 flirt-locals.com
+0.0.0.0 error1.walletwinners.com
+0.0.0.0 error2.walletwinners.com
+0.0.0.0 systempings.com
+0.0.0.0 infosystemsllc.com
+0.0.0.0 popplunder.com
+0.0.0.0 svntrk.com
+0.0.0.0 otnolatrnup.com
+0.0.0.0 svibeacon.onezapp.com
+0.0.0.0 mobile.pipe.aria.microsoft.com
+0.0.0.0 a.exoclick.com
+0.0.0.0 adjust.com
+0.0.0.0 app.adjust.com
+0.0.0.0 adwarehunter.com
+0.0.0.0 browser-page.com
+0.0.0.0 adwarehitman.com
+0.0.0.0 adwarefinder.com
+0.0.0.0 engagemarketing.com
+0.0.0.0 adwaredeluxe.com
+0.0.0.0 adwaredelete.com
+0.0.0.0 adware-delete.com
+0.0.0.0 qspyware.com
+0.0.0.0 adwarecops.com
+0.0.0.0 adwarebazooka.com
+0.0.0.0 adware-bazooka.com
+0.0.0.0 killersoftware.com
+0.0.0.0 adware-remover.net
+0.0.0.0 pcprivacysoftware.com
+0.0.0.0 adprotector.com
+0.0.0.0 protectorsuite.com
+0.0.0.0 redv.net
+0.0.0.0 ad-eliminator.com
+0.0.0.0 adeliminator.net
+0.0.0.0 addriller.com
+0.0.0.0 cdmworldsoftware.com
+0.0.0.0 adarmor.com
+0.0.0.0 aboutblankremover.com
+0.0.0.0 adware.storesbiz.com
+0.0.0.0 storesbiz.com
+0.0.0.0 storesbiz4u.com
+0.0.0.0 spy.storebiz4u.com
+0.0.0.0 1stantivirus.com
+0.0.0.0 1spywarekiller.com
+0.0.0.0 surfertools.com
+0.0.0.0 1clickspyclean.com
+0.0.0.0 1clicksuite.net
+0.0.0.0 antivirusprotectionsite.com
+0.0.0.0 antivirusprotector.com
+0.0.0.0 antiviruspremium.com
+0.0.0.0 virusscansite.com
+0.0.0.0 anti-virus-pro.com
+0.0.0.0 innovagest2000.com
+0.0.0.0 antiviruspcsuite.com
+0.0.0.0 antivirus-gold.com
+0.0.0.0 antivirusgolden.com
+0.0.0.0 antivirus-email.com
+0.0.0.0 antivirusadvance.com
+0.0.0.0 antivermins.com
+0.0.0.0 antispyzone.com
+0.0.0.0 antispywaresoldier.com
+0.0.0.0 anti-viruses.net
+0.0.0.0 your-soft.com
+0.0.0.0 antispyadvanced.com
+0.0.0.0 alfacleaner.com
+0.0.0.0 alertspy.com
+0.0.0.0 adwaredeluxe.com
+0.0.0.0 adwarexterminator.com
+0.0.0.0 aguarddog.com
+0.0.0.0 agentspyware.com
+0.0.0.0 ad-where.com
+0.0.0.0 privacytools2004.com
+0.0.0.0 adwarespyware.net
+0.0.0.0 adwarexeliminator.com
+0.0.0.0 athivision.com
+0.0.0.0 adware.com
+0.0.0.0 adwaretools.com
+0.0.0.0 adwarestriker.com
+0.0.0.0 adware.storesbiz.com
+0.0.0.0 spy.storebiz4u.com
+0.0.0.0 flyyasoft.com
+0.0.0.0 adwarespywareremoval.com
+0.0.0.0 adwarespy.com
+0.0.0.0 spywarespy.com
+0.0.0.0 adwaresheriff.com
+0.0.0.0 adwaresheriff.net
+0.0.0.0 sheriffcash.com
+0.0.0.0 adwaresafety.com
+0.0.0.0 adwaresafe.com
+0.0.0.0 adwareremover.ws
+0.0.0.0 adwareprotectionsite.com
+0.0.0.0 adwarepunisher.com
+0.0.0.0 adware-punisher.com
+0.0.0.0 adwarepro.com
+0.0.0.0 adwarepatrol.com
+0.0.0.0 registry-doctor.com
+0.0.0.0 download.com/Adware-Nuker/3000-8022_4-10389312.html
+0.0.0.0 killspy.net
+0.0.0.0 killandclean.com
+0.0.0.0 killallspyware.com
+0.0.0.0 mainstreamdollars.com
+0.0.0.0 kazaap.org
+0.0.0.0 cdn.cookielaw.org
+0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
+0.0.0.0 cdn.jetboost.io
+0.0.0.0 x.vindicosuite.com
+0.0.0.0 ucid.vindicosuite.com
+0.0.0.0 platform-api.sharethis.com
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 bat.bing.com
+0.0.0.0 jnn-pa.googleapis.com
+0.0.0.0 fresnel-events.vimeocdn.com
+0.0.0.0 fresnel.vimeocdn.com
+0.0.0.0 cdn.viglink.com
+0.0.0.0 referrer.disqus.com
+0.0.0.0 links.services.disqus.com
+0.0.0.0 cdn.intergient.com
+0.0.0.0 btloader.com
+0.0.0.0 cdn.connatix.com
+0.0.0.0 cdn.doubleverify.com
+0.0.0.0 secure-ds.serving-sys.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 cmp.dmgmediaprivacy.co.uk
+0.0.0.0 cdn.teads.tvs.go-mpulse.net
+0.0.0.0 uk-script.dotmetrics.net
+0.0.0.0 s0.2mdn.net
+0.0.0.0 i.mol.imapi.assertcom.desecure-ds.serving-sys.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 servedby.flashtalking.com
+0.0.0.0 cdn.doubleverify.com
+0.0.0.0 c.aps.amazon-adsystem.com
+0.0.0.0 cdn.jwplayer.com
+0.0.0.0 cdn.privacy-mgmt.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 uk-script.dotmetrics.net
+0.0.0.0 jcspyware-remover.com
+0.0.0.0 ispykiller.com
+0.0.0.0 internetshield.com
+0.0.0.0 softwareonline.com
+0.0.0.0 certified-safe-downloads.com
+0.0.0.0 allume.com
+0.0.0.0 aladdinsys.com
+0.0.0.0 internetantispy.com
+0.0.0.0 zendmedia.com
+0.0.0.0 hitvirus.com
+0.0.0.0 guardbar.com
+0.0.0.0 tekeffect.com
+0.0.0.0 software4yoursuccess.com
+0.0.0.0 freeze.com
+0.0.0.0 floborecovery.com
+0.0.0.0 fixerantispy.com
+0.0.0.0 expertantivirus.com
+0.0.0.0 etdscanner.com
+0.0.0.0 easyspywarekiller.com
+0.0.0.0 easyerase.com
+0.0.0.0 doctoradwarepro.com
+0.0.0.0 alertspy.com
+0.0.0.0 doctoradware.com
+0.0.0.0 no-spy-ware.com
+0.0.0.0 platinumparter.com
+0.0.0.0 diaremover.com
+0.0.0.0 curepcsolutions.com
+0.0.0.0 copperheadsecurity.com
+0.0.0.0 contra-virus.com
+0.0.0.0 consumeridentity.com
+0.0.0.0 cleanx.co.kr
+0.0.0.0 checkspy.com
+0.0.0.0 checkflow.com
+0.0.0.0 breakspyware.com
+0.0.0.0 bravesentry.com
+0.0.0.0 bulletproofsoft.com
+0.0.0.0 spywarecops.com
+0.0.0.0 botsquash.com
+0.0.0.0 bestguardplatinum.com
+0.0.0.0 avsystemcare.com
+0.0.0.0 armor2net.com
+0.0.0.0 spywarekiller.net
+0.0.0.0 anti-viruses.net
+0.0.0.0 your-soft.com
+0.0.0.0 6d-antivirus.com
+0.0.0.0 platinumpartner.com
+0.0.0.0 myspyprotector.com
+0.0.0.0 myspyfreepc.com
+0.0.0.0 myspyprotector.com
+0.0.0.0 myspyfreepc.com
+0.0.0.0 esunsofttechnologies.com
+0.0.0.0 mynetprotector.com
+0.0.0.0 mrantispy.com
+0.0.0.0 microantivirus.com
+0.0.0.0 microantivirusxp.com
+0.0.0.0 platinumparter.com
+0.0.0.0 maxprivacyprotector.com
+0.0.0.0 malwarewipe.com
+0.0.0.0 malwarewiped.com
+0.0.0.0 malware-stopper.com
+0.0.0.0 malwarepanacea.com
+0.0.0.0 spywarecops.com
+0.0.0.0 bulletproofsoft.com
+0.0.0.0 malwarealarm.com
+0.0.0.0 clickspring.net
+0.0.0.0 purityscan.com
+0.0.0.0 puritysweep.com
+0.0.0.0 psguard.com
+0.0.0.0 myspywarescan.com
+0.0.0.0 privacytools2004.com
+0.0.0.0 pcsecurityshield.com
+0.0.0.0 egeosoftware.com
+0.0.0.0 redemptionengine.com
+0.0.0.0 rewardsengine.com
+0.0.0.0 privacychampion.com
+0.0.0.0 pest-wiper.com
+0.0.0.0 pestwiper.com
+0.0.0.0 pesttrap.com
+0.0.0.0 pestkiller.com
+0.0.0.0 pestkilla.com
+0.0.0.0 pestnuke.com
+0.0.0.0 pesttrapper.com
+0.0.0.0 xpesttrap.com
+0.0.0.0 pestprotector.com
 0.0.0.0 platinumparter.com
 0.0.0.0 pestcapture.com
 0.0.0.0 perfect-cleaner.com
