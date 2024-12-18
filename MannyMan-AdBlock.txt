@@ -10,6 +10,7 @@
 # |  •  SIZE: 60.2KB  •  |
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt  •  |
 # |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE  •  |
+# |  •  NOTE: Full blocking may not be guaranteed on mobile but I will keep the list updated to help supplement mobile blocking
 #
 #      /............♠︎...................♠︎...........\
 #     /                                               \
@@ -18,11 +19,6 @@
 #    \                                                 /
 #     \                                               /
 #      \............♠︎...................♠︎.........../
-#
-# ★ SHOUT0UTz: ★ •• To everyone who contributes to blocking ads, trackers, 
-# analytics & malware filter lists. Multiple lists contain the 
-# same hosts/scripts, so for credits and/or if there are any questions,
-# feel free to contact me.
 #
 # _____________________________________________
 # •••🌐••• [ RECOMMENDED DNS SERVERS ] •••🌐•••
