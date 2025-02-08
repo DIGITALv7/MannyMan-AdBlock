@@ -1014,6 +1014,7 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 sizmek.com
 0.0.0.0 skimlinks.com
 0.0.0.0 skin.cmcm.com
+0.0.0.0 slotslights.net
 0.0.0.0 sm.rtb.mts.ru
 0.0.0.0 smaato.net
 0.0.0.0 smartclip.com
