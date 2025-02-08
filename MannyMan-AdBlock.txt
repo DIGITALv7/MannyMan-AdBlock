@@ -827,6 +827,7 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 ksmobile.net
 0.0.0.0 label.cmcm.com
 0.0.0.0 leadboltapps.com
+0.0.0.0 lightsslots.net
 0.0.0.0 limelight.inc
 0.0.0.0 links.services.disqus.com
 0.0.0.0 live.ksmobile.net
