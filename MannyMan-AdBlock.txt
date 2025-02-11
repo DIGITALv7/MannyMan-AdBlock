@@ -2283,6 +2283,20 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 supertop100.com
 0.0.0.0 surfmusik-adserver.de
 0.0.0.0 ads.web.aol.com
+0.0.0.0 14564399292952172991.clickadsource.com
+0.0.0.0 berfh.l3t5mak3l0v3n0war.online
+0.0.0.0 ads33.adtelligent.com
+0.0.0.0 ads26.adtelligent.com
+0.0.0.0 ads209.adtelligent.com
+0.0.0.0 s-img.adskeeper.com
+0.0.0.0 c.adskeeper.com
+0.0.0.0 contentforyoucounter.top
+0.0.0.0 cdn.adskeeper.co.uk
+0.0.0.0 servicer.adskeeper.com
+0.0.0.0 jsc.adskeeper.com
+0.0.0.0 cm.adskeeper.com
+0.0.0.0 clck.adskeeper.com
+0.0.0.0 c.adskeeper.com
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
