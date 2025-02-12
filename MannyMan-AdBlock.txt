@@ -2297,6 +2297,8 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 cm.adskeeper.com
 0.0.0.0 clck.adskeeper.com
 0.0.0.0 c.adskeeper.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 adsdk.microsoft.com
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
