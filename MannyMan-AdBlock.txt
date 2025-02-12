@@ -2299,6 +2299,13 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 c.adskeeper.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 adsdk.microsoft.com
+0.0.0.0 track.kueezrtb.com
+0.0.0.0 otrack.kueezrtb.com
+0.0.0.0 gtrack.kueezrtb.com
+0.0.0.0 ad.kueezrtb.com
+0.0.0.0 kueezrtb.com
+0.0.0.0 static.adsafeprotected.com
+0.0.0.0 static.ads-twitter.com
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
