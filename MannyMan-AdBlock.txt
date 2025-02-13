@@ -2310,7 +2310,9 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 weftybaggage.top
 0.0.0.0 es.moorechullo.shop
 0.0.0.0 href.li
-0.9.0.0 t.co/2hRRlGS2Nw
+0.0.0.0 t.co/2hRRlGS2Nw
+0.0.0.0 tracenep.admaster.cc
+0.0.0.0 gtracenep.admaster.cc
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
@@ -2324,7 +2326,11 @@ extension.streamstickers.com
 functions.soundalerts.com
 supervisor.ext-twitch.tv
 usw23.playlist.ttvnw.net
-#
+# ---- Prize Picks (browser version) ----
+app.prizepicks.com/promotions
+prizepicks.com
+app.prizepicks.com
+auth.split.io
 #
 # ------ [ < FILTERS END > ] ------
 #
