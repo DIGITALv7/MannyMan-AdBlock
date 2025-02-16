@@ -5,8 +5,8 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 1043
 # |  •  AUTHOR: DIGITALv7  •  |
-# |  •  UPDATED: 02/13/25  •  |
-# |  •  TIME: 1:15PM CST, UTC -5 || 13:15PM  •  |
+# |  •  UPDATED: 02/15/25  •  |
+# |  •  TIME: 6:40PM CST, UTC -5 || 18:40PM  •  |
 # |  •  SIZE: 62.2KB  •  |
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt  •  |
 # |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE  •  |
@@ -2347,6 +2347,7 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 weftybaggage.top
 0.0.0.0 adskeeper.com
 0.0.0.0 admaster.com
+0.0.0.0 url9906.srsd.info
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
@@ -2367,5 +2368,3 @@ app.prizepicks.com
 auth.split.io
 #
 # ------ [ < FILTERS END > ] ------
-#
-#
