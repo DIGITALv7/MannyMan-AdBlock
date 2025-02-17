@@ -403,6 +403,17 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .look
 0.0.0.0 .looking
 0.0.0.0 .looked
+0.0.0.0 .redirect
+0.0.0.0 .redirects
+0.0.0.0 .redirecting
+0.0.0.0 .redirected
+0.0.0.0 .redirector
+0.0.0.0 .clicks
+0.0.0.0 .click
+0.0.0.0 .clicker
+0.0.0.0 .clickers
+0.0.0.0 .clicked
+0.0.0.0 .clicking
 # ◑ --------------------------- ◐
 0.0.0.0 1-1ads.com
 0.0.0.0 100028779.collect.igodigital.com
