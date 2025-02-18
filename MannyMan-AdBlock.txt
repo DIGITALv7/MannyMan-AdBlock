@@ -7,9 +7,9 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 2000+
 # |  •  AUTHOR: DIGITALv7  •  |
-# |  •  UPDATED: 02/17/25  •  |
-# |  •  TIME: 7:25PM CST, UTC -5 || 19:25PM  •  |
-# |  •  SIZE: 70KB  •  |
+# |  •  UPDATED: 02/18/25  •  |
+# |  •  TIME: 3:09PM CST, UTC -5 || 16:09PM  •  |
+# |  •  SIZE: 72.1KB  •  |
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt  •  |
 # |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE  •  |
 # |  •  NOTE: Full blocking may not be guaranteed on mobile but I will keep the list updated to help supplement mobile blocking
