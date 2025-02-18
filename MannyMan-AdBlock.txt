@@ -241,7 +241,7 @@ www.twitch.tv###directory-banner
 www.twitch.tv###directory-rectangle
 www.twitch.tv##.channel-info-content > div > div > .kbdfeJ.Layout-sc-1xcs6mc-0
 www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.Layout-sc-1xcs6mc-0
-# ---- Known Malicious Domain Extensions ----
+# ◑ ---- Known Malicious Domain Extensions ---- ◑
 0.0.0.0 .top
 0.0.0.0 .exe
 0.0.0.0 .xex
@@ -418,6 +418,59 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .porn
 0.0.0.0 .xxx
 0.0.0.0 .nsfw
+0.0.0.0 .server
+0.0.0.0 .fuck
+0.0.0.0 .sex
+0.0.0.0 .suck
+0.0.0.0 .blow
+0.0.0.0 .spank
+0.0.0.0 .hate
+0.0.0.0 .nigger
+0.0.0.0 .kkk
+0.0.0.0 .skinhead
+0.0.0.0 .terror
+0.0.0.0 .terrorist
+0.0.0.0 .terrors
+0.0.0.0 .terrorized
+0.0.0.0 .terrorize
+0.0.0.0 .isis
+0.0.0.0 .racist
+0.0.0.0 .prejudice
+0.0.0.0 .abuse
+0.0.0.0 .pedo
+0.0.0.0 .gay
+0.0.0.0 .dragqueen
+0.0.0.0 .bi
+0.0.0.0 .war
+0.0.0.0 .protest
+0.0.0.0 .kill
+0.0.0.0 .murder
+0.0.0.0 .kidnap
+0.0.0.0 .molest
+0.0.0.0 .harass
+0.0.0.0 .slap
+0.0.0.0 .kick
+0.0.0.0 .hit
+0.0.0.0 .bomb
+0.0.0.0 .phreak
+0.0.0.0 .password
+0.0.0.0 .address
+0.0.0.0 .socialsecurity
+0.0.0.0 .driverslicense
+0.0.0.0 .passport
+0.0.0.0 .visa
+0.0.0.0 .creditcard
+0.0.0.0 .creditscore
+0.0.0.0 .permit
+0.0.0.0 .manipulate
+0.0.0.0 .die
+0.0.0.0 .attack
+0.0.0.0 .kid
+0.0.0.0 .kids
+0.0.0.0 .children
+0.0.0.0 .boys
+0.0.0.0 .girls
+0.0.0.0 .scientology
 # ◑ --------------------------- ◐
 0.0.0.0 1-1ads.com
 0.0.0.0 100028779.collect.igodigital.com
@@ -2625,6 +2678,16 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 plainstandard.love
 0.0.0.0 opportunity.cominations.org
 0.0.0.0 cominations.org
+0.0.0.0 fore.crimitate.com.de
+0.0.0.0 fore.crimitate.com
+0.0.0.0 fore.crimitate.de
+0.0.0.0 enemiere.com
+0.0.0.0 picsofhaircuts.com
+0.0.0.0 dach.southeat.net
+0.0.0.0 fsfdsg.bavarsi.com.de
+0.0.0.0 fsfdsg.bavarsi.de
+0.0.0.0 fsfdsg.bavarsi.com
+0.0.0.0 bavarsi.de
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
