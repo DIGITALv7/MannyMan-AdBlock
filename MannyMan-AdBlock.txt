@@ -2,6 +2,7 @@
 #
 # |  •  TITLE: MannyMan-AdBlock
 # |  •  LIST TYPE: Supplementary block list for: ads, trackers, malware, analytics & web annoyances
+# |  •  SUPPORT: Mobile / PC
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 2000+
 # |  •  AUTHOR: DIGITALv7  •  |
