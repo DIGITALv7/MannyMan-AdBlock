@@ -527,6 +527,16 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .darkweb
 0.0.0.0 .deepweb
 0.0.0.0 .dark
+0.0.0.0 .ip
+0.0.0.0 .ipgrabber
+0.0.0.0 .ipgrabs
+0.0.0.0 .ipgrabz
+0.0.0.0 .nap
+0.0.0.0 .bookmark
+0.0.0.0 .fraud
+0.0.0.0 .spam
+0.0.0.0 .telemarket
+0.0.0.0 .telemarketing
 # ◑ --------------------------- ◐
 0.0.0.0 1-1ads.com
 0.0.0.0 100028779.collect.igodigital.com
