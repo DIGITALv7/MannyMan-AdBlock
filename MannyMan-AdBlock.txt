@@ -2732,6 +2732,9 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 trumpmagic.boutique
 0.0.0.0 188.42.247.188
 0.0.0.0 iglekaudey.com
+0.0.0.0 images.aspireclicks.com
+0.0.0.0 is-tracking-pixel-api-prod.appspot.com
+0.0.0.0 nativead.s3.amazonaws.com
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
