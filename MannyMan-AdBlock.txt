@@ -241,10 +241,13 @@ www.twitch.tv###directory-banner
 www.twitch.tv###directory-rectangle
 www.twitch.tv##.channel-info-content > div > div > .kbdfeJ.Layout-sc-1xcs6mc-0
 www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.Layout-sc-1xcs6mc-0
-# ◑ ---- Known Malicious Domain Extensions ---- ◑
+# ◑ ---- Known Malicious Domain/Sub-Domain Extensions ---- ◑
+0.0.0.0 wwv.*.com
+0.0.0.0 wwv.*.net
+0.0.0.0 wwv.*.org
+0.0.0.0 wwv.*.biz
+0.0.0.0 wwv.*.gov
 0.0.0.0 .top
-0.0.0.0 .wwv
-0.0.0.0 wwv.
 0.0.0.0 .exe
 0.0.0.0 .xex
 0.0.0.0 .run
@@ -480,6 +483,25 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .shoot
 0.0.0.0 .rape
 0.0.0.0 .burn
+0.0.0.0 .app
+0.0.0.0 .loginsecurity
+0.0.0.0 .loginsecure
+0.0.0.0 .login
+0.0.0.0 .signin
+0.0.0.0 .mimic
+0.0.0.0 .cloak
+0.0.0.0 .obfuscate
+0.0.0.0 .gateway
+0.0.0.0 .vpn
+0.0.0.0 .ad
+0.0.0.0 .ads
+0.0.0.0 .advert
+0.0.0.0 .advrt
+0.0.0.0 .popup
+0.0.0.0 .advertisement
+0.0.0.0 .advertising
+0.0.0.0 .hover
+0.0.0.0 .widget
 # ◑ --------------------------- ◐
 0.0.0.0 1-1ads.com
 0.0.0.0 100028779.collect.igodigital.com
