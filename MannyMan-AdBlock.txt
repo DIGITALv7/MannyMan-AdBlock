@@ -8,7 +8,7 @@
 # |  •  AUTHOR: DIGITALv7  •  |
 # |  •  UPDATED: 02/17/25  •  |
 # |  •  TIME: 7:25PM CST, UTC -5 || 19:25PM  •  |
-# |  •  SIZE: 69.8KB  •  |
+# |  •  SIZE: 70KB  •  |
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt  •  |
 # |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE  •  |
 # |  •  NOTE: Full blocking may not be guaranteed on mobile but I will keep the list updated to help supplement mobile blocking
