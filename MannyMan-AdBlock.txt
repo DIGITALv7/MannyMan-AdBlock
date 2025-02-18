@@ -243,6 +243,8 @@ www.twitch.tv##.channel-info-content > div > div > .kbdfeJ.Layout-sc-1xcs6mc-0
 www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.Layout-sc-1xcs6mc-0
 # ◑ ---- Known Malicious Domain Extensions ---- ◑
 0.0.0.0 .top
+0.0.0.0 .wwv
+0.0.0.0 wwv.
 0.0.0.0 .exe
 0.0.0.0 .xex
 0.0.0.0 .run
@@ -2695,6 +2697,18 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 fsfdsg.bavarsi.de
 0.0.0.0 fsfdsg.bavarsi.com
 0.0.0.0 bavarsi.de
+0.0.0.0 dcs-spotify.megaphone.fm
+0.0.0.0 megaphone.fm
+0.0.0.0 ak.astjigglypuffchan.com
+0.0.0.0 astjigglypuffchan.com
+0.0.0.0 sungokong.my.id
+0.0.0.0 my.id
+0.0.0.0 tessaragair.top
+0.0.0.0 widgetlogic.org
+0.0.0.0 wwv.trumpmagic.boutique
+0.0.0.0 trumpmagic.boutique
+0.0.0.0 188.42.247.188
+0.0.0.0 iglekaudey.com
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
