@@ -471,6 +471,13 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .boys
 0.0.0.0 .girls
 0.0.0.0 .scientology
+0.0.0.0 .drown
+0.0.0.0 .suffer
+0.0.0.0 .suffocate
+0.0.0.0 .stab
+0.0.0.0 .shoot
+0.0.0.0 .rape
+0.0.0.0 .burn
 # ◑ --------------------------- ◐
 0.0.0.0 1-1ads.com
 0.0.0.0 100028779.collect.igodigital.com
