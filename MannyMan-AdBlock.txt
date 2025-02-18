@@ -414,6 +414,10 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .clickers
 0.0.0.0 .clicked
 0.0.0.0 .clicking
+0.0.0.0 .love
+0.0.0.0 .porn
+0.0.0.0 .xxx
+0.0.0.0 .nsfw
 # ◑ --------------------------- ◐
 0.0.0.0 1-1ads.com
 0.0.0.0 100028779.collect.igodigital.com
@@ -2617,6 +2621,10 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 altspaceposttra4ffic.top
 0.0.0.0 hop.clickbank.net
 0.0.0.0 clickbank.net
+0.0.0.0 kaizai.plainstandard.love
+0.0.0.0 plainstandard.love
+0.0.0.0 opportunity.cominations.org
+0.0.0.0 cominations.org
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
