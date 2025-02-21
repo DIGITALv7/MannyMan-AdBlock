@@ -2916,7 +2916,7 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 # •••◆••• [ < WHITELIST > ] •••◆•••
 # ______________________________
 #
-# ---- Twitch TV / Prevents streamer channel extensions, CheerBits animations & stream player from causing loading errors. Updated as needed. ----
+# ◑ ---- Twitch TV / Prevents streamer channel extensions, CheerBits animations & stream player from causing loading errors. Updated as needed. ---- ◑
 api.viewerattack.com
 coordinator.ext-twitch.tv
 d3aqoihi2n8ty8.cloudfront.net
