@@ -3,12 +3,11 @@
 # |  •  TITLE: MannyMan-AdBlock
 # |  •  LIST TYPE: Supplementary block list for: ads, trackers, malware, analytics & web annoyances
 # |  •  COMPATIBILITY: Mobile / PC
-# |  •  ROOT REQUIREMENT: Works with both Root/Unroot
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 2000+
 # |  •  AUTHOR: DIGITALv7
 # |  •  UPDATED: 02/21/25
-# |  •  TIME: 1:26PM CST, UTC -6 || 13:26PM
+# |  •  TIME: 1:26PM CST, 13:26PM || UTC-6
 # |  •  SIZE: 75.2KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
