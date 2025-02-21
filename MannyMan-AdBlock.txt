@@ -43,7 +43,6 @@
 # _____________________________________________
 #
 # https://adblock-tester.com/
-# https://d3ward.github.io/toolz/adblock.html
 # https://blockads.fivefilters.org/
 # https://www.canyoublockit.com/
 # https://ads-blocker.com/testing/
