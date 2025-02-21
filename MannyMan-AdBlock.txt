@@ -1734,6 +1734,7 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 x-spyware.com
 0.0.0.0 worldantispy.com
 0.0.0.0 winsos.com
+0.0.0.0 mobidea.com
 0.0.0.0 winkeeper.net
 0.0.0.0 winhound.com
 0.0.0.0 winsoftware.com
