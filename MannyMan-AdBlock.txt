@@ -2953,6 +2953,12 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 01128390019.u3jit-telecom-sv2.workers.dev
 0.0.0.0 windows.net
 0.0.0.0 appspot.com
+0.0.0.0 t.co/rbnGRliSTJ
+0.0.0.0 t.co
+0.0.0.0 ushpst.nffftdc.shop
+0.0.0.0 nffftdc.shop
+0.0.0.0 bit.ly/3DXXCq4?Ttf=tljL2Rvntp
+0.0.0.0 bit.ly
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
