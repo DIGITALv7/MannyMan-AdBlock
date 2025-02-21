@@ -567,6 +567,13 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .stopwatch
 0.0.0.0 .countdown
 0.0.0.0 .tamper
+0.0.0.0 .ai
+0.0.0.0 .io
+0.0.0.0 .tk
+0.0.0.0 .cc
+0.0.0.0 .ihazip
+0.0.0.0 .yourip
+0.0.0.0 .myip
 # ◑ --------------------------- ◐
 0.0.0.0 1-1ads.com
 0.0.0.0 100028779.collect.igodigital.com
@@ -2911,6 +2918,40 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 click.us
 0.0.0.0 clicks4fun.com
 0.0.0.0 clicks4.fun
+0.0.0.0 ads345.com
+0.0.0.0 ads234.com
+0.0.0.0 auto.search.msn.com
+0.0.0.0 sitefinder.verisign.com
+0.0.0.0 sitefinder-idn.verisign.com
+0.0.0.0 dimeprice.com
+0.0.0.0 didtheyreadit.com
+0.0.0.0 i.kissmetrics.com
+0.0.0.0 kissmetrics.com
+0.0.0.0 impacts.alliancehub.com
+0.0.0.0 alliancrhub.com
+0.0.0.0 images.dailydiscounts.com
+0.0.0.0 dailydiscounts.com
+0.0.0.0 mailfoogae.appspot.com
+0.0.0.0 mailcheckisp.biz
+0.0.0.0 quantserve.com
+0.0.0.0 static.smni.com
+0.0.0.0 smni.com
+0.0.0.0 tcr.tynt.com
+0.0.0.0 tynt.com
+0.0.0.0 t.signauxdeux.com
+0.0.0.0 signauxdeux.com
+0.0.0.0 webbug.seatreport.com
+0.0.0.0 seatreport.com
+0.0.0.0 clickspring.net
+0.0.0.0 trafficmagnet.net
+0.0.0.0 quantserve.com
+0.0.0.0 originalicons.com
+0.0.0.0 go.teletracking.com
+0.0.0.0 teletracking.com
+0.0.0.0 001mm014feb.z13.web.core.windows.net
+0.0.0.0 01128390019.u3jit-telecom-sv2.workers.dev
+0.0.0.0 windows.net
+0.0.0.0 appspot.com
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
@@ -2929,5 +2970,7 @@ app.prizepicks.com/promotions
 prizepicks.com
 app.prizepicks.com
 auth.split.io
+# ---- Reddit ----
+i.reddit.com
 #
 # ------ [ < FILTERS END > ] ------
