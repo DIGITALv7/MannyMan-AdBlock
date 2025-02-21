@@ -535,9 +535,19 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .nap
 0.0.0.0 .bookmark
 0.0.0.0 .fraud
-0.0.0.0 .spam
 0.0.0.0 .telemarket
 0.0.0.0 .telemarketing
+0.0.0.0 .monster
+0.0.0.0 .trade
+0.0.0.0 .religion
+0.0.0.0 .religious
+0.0.0.0 .scam
+0.0.0.0 .spam
+0.0.0.0 .immigration
+0.0.0.0 .immigrants
+0.0.0.0 .immigrant
+0.0.0.0 .wetback
+0.0.0.0 .wetbacks
 # ◑ --------------------------- ◐
 0.0.0.0 1-1ads.com
 0.0.0.0 100028779.collect.igodigital.com
@@ -2829,6 +2839,13 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 go2affise.com
 0.0.0.0 c.fqtag.com
 0.0.0.0 cardealsnearyou.com
+0.0.0.0 fortt-rade.com
+0.0.0.0 nonentrantcrpehibbin.monster
+0.0.0.0 jtlljb.salesfunnel.eu.com
+0.0.0.0 salesfunnel.eu
+0.0.0.0 salesfunnel.com
+0.0.0.0 rusreise.de
+0.0.0.0 rusreise.com
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
