@@ -248,6 +248,21 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 wwv.*.org
 0.0.0.0 wwv.*.biz
 0.0.0.0 wwv.*.gov
+0.0.0.0 wwv.*.io
+0.0.0.0 wwv.*.top
+0.0.0.0 wwv.*.app
+0.0.0.0 wwv.*.gov
+0.0.0.0 wwv.*.gov
+0.0.0.0 wwv.*.gov
+0.0.0.0 wwv.*.gov
+0.0.0.0 wwv.*.gov
+0.0.0.0 wwv.*.gov
+0.0.0.0 ww.*.com
+
+
+
+
+
 0.0.0.0 .top
 0.0.0.0 .exe
 0.0.0.0 .xex
@@ -2958,6 +2973,33 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 nffftdc.shop
 0.0.0.0 bit.ly/3DXXCq4?Ttf=tljL2Rvntp
 0.0.0.0 bit.ly
+0.0.0.0 events-dca.bidder.kayzen.io
+0.0.0.0 kayzen.io
+0.0.0.0 kayzen.com
+0.0.0.0 sentry.appodeal.com
+0.0.0.0 appodeal.com
+0.0.0.0 ara.paa-reporting-advertising.amazon
+0.0.0.0 p.dsplus360.com
+0.0.0.0 dsplus360.com
+0.0.0.0 tq.foseller-d.online
+0.0.0.0 d.online
+0.0.0.0 d.com
+0.0.0.0 yv.blowessillest.shop
+0.0.0.0 blowessillest.shop
+0.0.0.0 blowessillest.com
+0.0.0.0 file-dw.com
+0.0.0.0 mobileoffers.com
+0.0.0.0 downloads.com
+0.0.0.0 download.com
+0.0.0.0 downloader.com
+0.0.0.0 downloaded.com
+0.0.0.0 dl.jojoy.info
+0.0.0.0 jojoy.info
+0.0.0.0 jojoy.com
+0.0.0.0 retrosowenian.shop
+0.0.0.0 ww.apkmody.io
+0.0.0.0 meenetiy.com
+0.0.0.0 ww.apkmody.mobi
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
