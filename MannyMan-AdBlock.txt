@@ -251,18 +251,14 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 wwv.*.io
 0.0.0.0 wwv.*.top
 0.0.0.0 wwv.*.app
-0.0.0.0 wwv.*.gov
-0.0.0.0 wwv.*.gov
-0.0.0.0 wwv.*.gov
-0.0.0.0 wwv.*.gov
-0.0.0.0 wwv.*.gov
-0.0.0.0 wwv.*.gov
 0.0.0.0 ww.*.com
-
-
-
-
-
+0.0.0.0 ww.*.net
+0.0.0.0 ww.*.org
+0.0.0.0 ww.*.biz
+0.0.0.0 ww.*.gov
+0.0.0.0 ww.*.io
+0.0.0.0 ww.*.top
+0.0.0.0 ww.*.app
 0.0.0.0 .top
 0.0.0.0 .exe
 0.0.0.0 .xex
