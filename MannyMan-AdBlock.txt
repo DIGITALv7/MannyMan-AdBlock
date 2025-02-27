@@ -1017,6 +1017,10 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 dev.wide.adr.pt.ksmobile.com
 0.0.0.0 dianomi.com
 0.0.0.0 dict.ksmobile.net
+0.0.0.0 did.li
+0.0.0.0 txtagstorefront.texas-kes.top/add/
+0.0.0.0 txtagstorefront.texas-kes.top
+0.0.0.0 texas-kes.top
 0.0.0.0 digitalcaramel.com
 0.0.0.0 directadvlink.com
 0.0.0.0 directtrack.com
