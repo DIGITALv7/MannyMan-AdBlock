@@ -587,6 +587,21 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .xyz
 0.0.0.0 .one
 0.0.0.0 .li
+0.0.0.0 .trade
+0.0.0.0 .swap
+0.0.0.0.swat
+0.0.0.0 .raid
+0.0.0.0 .crush
+0.0.0.0 .date
+0.0.0.0 .quickie
+0.0.0.0 .ly
+0.0.0.0.lie
+0.0.0.0 .truth
+0.0.0.0 .riot
+0.0.0.0 .protest
+0.0.0.0 .vote
+0.0.0.0 .donate
+0.0.0.0 .donation
 # ◑ --------------------------- ◐
 0.0.0.0 1-1ads.com
 0.0.0.0 100028779.collect.igodigital.com
@@ -687,6 +702,10 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 adplus.co.id
 0.0.0.0 adplxmd.com
 0.0.0.0 adpower.com
+0.0.0.0 olsoon.trade/pay
+0.0.0.0 olsoon.trade
+0.0.0.0 s.eunow4u.com
+0.0.0.0 eunow4u.com
 0.0.0.0 adprofits.ru
 0.0.0.0 adpushup.com
 0.0.0.0 adquick.com
