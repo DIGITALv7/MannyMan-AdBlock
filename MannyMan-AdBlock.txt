@@ -1621,6 +1621,10 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 zodertracker.com
 0.0.0.0 config.unityads.unitychina.cn
 0.0.0.0 go.trafficrouter.io
+0.0.0.0 immeritousscraichingtarumari.monster
+0.0.0.0 all-my-app-9.com
+0.0.0.0 easylayyo.com
+0.0.0.0 nonentrantcrpehibbin.monster
 0.0.0.0 ssl.googleanalytics.com
 0.0.0.0 click.googleanalytics.com
 0.0.0.0 alt2.googleanalytics.com
