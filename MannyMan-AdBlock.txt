@@ -1613,6 +1613,11 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 usa.cmcm.com
 0.0.0.0 ux13.juicyads.com
 0.0.0.0 v.cmcm.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 btlr.sharethrough.com
+0.0.0.0 prebid-server.rubiconproject.com
+0.0.0.0 direct.adsrvr.org
+0.0.0.0 prg.smartadserver.com
 0.0.0.0 v12groupinc.com
 0.0.0.0 viantinc.com
 0.0.0.0 vibe.co
