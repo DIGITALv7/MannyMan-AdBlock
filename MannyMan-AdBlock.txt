@@ -6,9 +6,9 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 5000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 03/07/25
+# |  •  UPDATED: 03/08/25
 # |  •  TIME: 3:44PM CST, 15:44PM || UTC-6
-# |  •  SIZE: 132KB
+# |  •  SIZE: 133KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
 # |  •  LICENSE-2: https://creativecommons.org/licenses/by-nc-sa/4.0/
