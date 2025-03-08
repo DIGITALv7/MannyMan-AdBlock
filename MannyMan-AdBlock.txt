@@ -3503,6 +3503,11 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 facebookfansandlikes.com
 0.0.0.0 fatehmechanicalworks.com.au
 0.0.0.0 fdufault.com
+0.0.0.0 tasteoftheoldcountry.activehosted.com
+0.0.0.0 activehosted.com
+0.0.0.0 degreesnap.com
+0.0.0.0 activecampaign.com
+0.0.0.0 uploads.ws
 0.0.0.0 femmesmures.date
 0.0.0.0 fetchageneraleducation.com
 0.0.0.0 files.uploads.ws
