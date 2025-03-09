@@ -2174,6 +2174,15 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 bakutourism.tk
 0.0.0.0 kaspi.tk
 0.0.0.0 fyoaqe.cf
+0.0.0.0 ownerfifteencurtain.pro
+0.0.0.0 mail.getamone.com
+0.0.0.0 getamone.com
+0.0.0.0 5kfunds.com
+0.0.0.0 offer.5kfunds.com
+0.0.0.0 em.getamone.com
+0.0.0.0 questlite.quinstreet.net
+0.0.0.0 quinstreet.net
+0.0.0.0 meanrespondhis.pro
 0.0.0.0 acsdw.cf
 0.0.0.0 anuracmo.science
 0.0.0.0 stanateaspos.science
