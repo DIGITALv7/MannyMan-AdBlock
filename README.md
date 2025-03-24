@@ -1,1 +1,1 @@
-![Test](https://raw.githubusercontent.com/DIGITALv7/MannyMan-AdBlock/refs/heads/main/Images/MannyManAdBlockListVerification.jpg)
+(https://raw.githubusercontent.com/DIGITALv7/MannyMan-AdBlock/refs/heads/main/Images/MannyManAdBlockListVerification.jpg)
