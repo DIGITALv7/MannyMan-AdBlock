@@ -3135,6 +3135,16 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 scfkfridulshkd.com
+0.0.0.0 adsinfo-active.biz
+0.0.0.0 ads-info-sec.biz
+0.0.0.0 adsnight.com
+0.0.0.0 adsports.in
+0.0.0.0 ads-support-info-notify.com
+0.0.0.0 adteknology.com
+0.0.0.0 cliccaqui.co.uk
+0.0.0.0 clickjv.com
+0.0.0.0 clickme22.wang
+0.0.0.0 trafik-site.ru
 0.0.0.0 scheme.mobpowertech.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 sdk-logs.matomy.com
