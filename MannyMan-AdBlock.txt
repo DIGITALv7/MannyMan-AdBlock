@@ -681,6 +681,7 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .donate
 0.0.0.0 .donation
 # ◑ --------------------------- ◐
+0.0.0.0 raw.githubusercontent.com/DIGITALv7/MannyMan-AdBlock/refs/heads/main/Images/MannyManAdBlockListVerification.jpg
 0.0.0.0 1-1ads.com
 0.0.0.0 100028779.collect.igodigital.com
 0.0.0.0 100028781.collect.igodigital.com
