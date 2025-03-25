@@ -353,6 +353,7 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .creditcard
 0.0.0.0 .creditscore
 0.0.0.0 .crush
+0.0.0.0 .customersupport
 0.0.0.0 .cut
 0.0.0.0 .dark
 0.0.0.0 .darkweb
