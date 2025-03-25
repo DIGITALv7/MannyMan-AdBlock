@@ -261,15 +261,12 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .abuse
 0.0.0.0 .ad
 0.0.0.0 .adaware
-0.0.0.0 .adsbox
-0.0.0.0 .adbox
 0.0.0.0 .adbanner
 0.0.0.0 .adbanners
-0.0.0.0 .usertrack
-0.0.0.0 .usertrack.js
-0.0.0.0 .track.js
+0.0.0.0 .adbox
 0.0.0.0 .address
 0.0.0.0 .ads
+0.0.0.0 .adsbox
 0.0.0.0 .advert
 0.0.0.0 .advertisement
 0.0.0.0 .advertising
@@ -294,9 +291,9 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .badazz
 0.0.0.0 .bait
 0.0.0.0 .banner
-0.0.0.0 .banners
 0.0.0.0 .bannerad
 0.0.0.0 .bannerads
+0.0.0.0 .banners
 0.0.0.0 .bbc
 0.0.0.0 .bbw
 0.0.0.0 .beta
@@ -614,8 +611,8 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .tabnew
 0.0.0.0 .tabopen
 0.0.0.0 .tamper
-0.0.0.0 .techsupport
 0.0.0.0 .taskmanager
+0.0.0.0 .techsupport
 0.0.0.0 .telemarket
 0.0.0.0 .telemarketing
 0.0.0.0 .telemetry
@@ -629,6 +626,7 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .together
 0.0.0.0 .top
 0.0.0.0 .track
+0.0.0.0 .track.js
 0.0.0.0 .tracked
 0.0.0.0 .tracker
 0.0.0.0 .trackers
@@ -646,6 +644,8 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .uninstalling
 0.0.0.0 .uninstalls
 0.0.0.0 .usb
+0.0.0.0 .usertrack
+0.0.0.0 .usertrack.js
 0.0.0.0 .viagra
 0.0.0.0 .view
 0.0.0.0 .viewed
