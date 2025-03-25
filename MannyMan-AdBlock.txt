@@ -244,8 +244,8 @@ www.twitch.tv###directory-rectangle
 www.twitch.tv##.channel-info-content > div > div > .kbdfeJ.Layout-sc-1xcs6mc-0
 www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.Layout-sc-1xcs6mc-0
 # ---- MannyMan's AdBlocker/JerryN70's Verification Image Blocks
-||raw.githubusercontent.com/DIGITALv7/MannyMan-AdBlock/refs/heads/main/Images/MannyManAdBlockListVerification.jpg^
 ||camo.githubusercontent.com/519b8a90ceb10586c31164c7b3cfc68c774f40fb870a3bd490c27290b76a4bec/68747470733a2f2f676f6f646279656164732e776565626c792e636f6d2f75706c6f6164732f312f322f322f312f3132323134353136342f6e6f742d626c6f636b696e675f6f7269672e706e67^
+||raw.githubusercontent.com/DIGITALv7/MannyMan-AdBlock/refs/heads/main/Images/MannyManAdBlockListVerification.jpg^
 # ◑ ---- Known Malicious Domain/Sub-Domain Extensions ---- ◑
 0.0.0.0 wwv.*.com
 0.0.0.0 wwv.*.net
