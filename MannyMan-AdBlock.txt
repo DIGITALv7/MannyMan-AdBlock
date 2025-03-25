@@ -46,6 +46,9 @@
 # https://blockads.fivefilters.org/
 # https://www.canyoublockit.com/
 # https://ads-blocker.com/testing/
+# https://paileactivist.github.io/toolz/adblock.html
+# https://adblock.turtlecute.org/
+# https://coveryourtracks.eff.org/
 #
 # _____________________________________________
 # •••🚫•••  [ AD CHOICES OPT-OUT ] •••🚫•••
