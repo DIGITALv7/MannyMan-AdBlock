@@ -659,6 +659,7 @@ www.twitch.tv##.tw-root--theme-light.hoAkTp.inWwYB.ScLayoutCssVars-sc-10awzi2-1.
 0.0.0.0 .vote4me
 0.0.0.0 .vote4u
 0.0.0.0 .voteforme
+0.0.0.0 .voteforyou
 0.0.0.0 .vpn
 0.0.0.0 .wang
 0.0.0.0 .war
