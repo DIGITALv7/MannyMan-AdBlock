@@ -2474,6 +2474,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 api.sve.cc
 0.0.0.0 api.telemetry.watchabc.go.com
 0.0.0.0 api.tinyhoneybee.com
+0.0.0.0 api.trackszz.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.vungle.com
@@ -2595,6 +2596,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 assets.cmcm.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 associazionenoborders.org
+0.0.0.0 assuredpaymentportal.com
 0.0.0.0 astat.bugly.qq.com
 0.0.0.0 astjigglypuffchan.com
 0.0.0.0 astrad.io
@@ -2709,6 +2711,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 bbcbloggers.co.uk
 0.0.0.0 bbcnews.today
 0.0.0.0 bbphotography.com
+0.0.0.0 bbtl.trkwebz03.com
 0.0.0.0 bbyhjamzpkenvm.com
 0.0.0.0 bc.marfeelcache.com
 0.0.0.0 bc.vc
@@ -4575,6 +4578,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 germanyenergy.online
 0.0.0.0 gestreifthelle.site
 0.0.0.0 get-spybot.com
+0.0.0.0 get.hundredpercentmargin.com
 0.0.0.0 get.impact.com
 0.0.0.0 getadmiral.com
 0.0.0.0 getadmiral.com/pb/?utm_source=www.khou.com&utm_medium=pb&utm_campaign=e&session=5-e89afc04a9d93959953d66da06476046-6763652d75732d63656e7472616c31-3
@@ -8676,6 +8680,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 trkkn.com
 0.0.0.0 trkmyclk.xyz
 0.0.0.0 trkucibqy.com
+0.0.0.0 trkwebz03.com
 0.0.0.0 trojan-scan.com
 0.0.0.0 troupeseliding.top
 0.0.0.0 trouver-ip.com
