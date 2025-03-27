@@ -1,7 +1,7 @@
-# ----»» [ 🛡 MannyMan's Ad Block 🛡 | Optimized ] ««----
+# ----»» [ 🛡 MannyMan's Ad Block 🛡 | Optimized & Constantly Updated ] ««----
 #
 # |  •  TITLE: MannyMan-AdBlock
-# |  •  LIST TYPE: Supplementary block list for: ads, trackers, malware, analytics & web annoyances
+# |  •  LIST TYPE: Supplementary block list for: ads, trackers, malwares, analytics, telemetries & web annoyances
 # |  •  COMPATIBILITY: Mobile / PC
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
