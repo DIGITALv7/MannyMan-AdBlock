@@ -6,7 +6,7 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 03/25/25
+# |  •  UPDATED: 03/26/25
 # |  •  TIME: 3:44PM CST, 15:44PM || UTC-6
 # |  •  SIZE: 248KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
@@ -728,6 +728,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 150.95.54.218
 0.0.0.0 150.95.54.240
 0.0.0.0 151.101.194.159
+0.0.0.0 154.82.84.227
+0.0.0.0 156.251.25.43
+0.0.0.0 156.251.25.112
 0.0.0.0 157.7.107.133
 0.0.0.0 157.7.188.166
 0.0.0.0 159.203.182.128
@@ -992,6 +995,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 5.socalledthosecare.pro
 0.0.0.0 5.theverdictyield.pro
 0.0.0.0 50websads.com
+0.0.0.0 508177.cc
 0.0.0.0 518580904.log.optimizely.com
 0.0.0.0 5254c57d5120.cdn4.forter.com
 0.0.0.0 52clickad.com
@@ -3086,6 +3090,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 cdn.ravm.tv
 0.0.0.0 cdn.samsungcloudsolution.com
 0.0.0.0 cdn.segment.com
+0.0.0.0 cdn-serveri2345-ns.shop
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.teads.tvs.go-mpulse.net
 0.0.0.0 cdn.unityads.unity3d.com
@@ -6443,6 +6448,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 ovcksawwem.com
 0.0.0.0 over-blog.com
 0.0.0.0 over.bol.com
+0.0.0.0 overcoatpassably.shop
+0.0.0.0 overcoatpassably.shop/Z8UZbPyVpGfdRS/maloy.mp4
 0.0.0.0 overhitmontopa.com
 0.0.0.0 overseas.cmcm.com
 0.0.0.0 overseauspider.yuanshen.com
@@ -8287,6 +8294,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 thomasregisterdirectory.com
 0.0.0.0 thqwivyhdpoem.com
 0.0.0.0 thumbvista.com
+0.0.0.0 tib.cdn-serveri2345-ns.shop/foppish.xll
+0.0.0.0 tib.cdn-serveri2345-ns.shop
 0.0.0.0 tien-menuisier.fr
 0.0.0.0 tiffanycollins.club
 0.0.0.0 tiffanycoshop.com
@@ -9154,6 +9163,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 winantispyware.com
 0.0.0.0 winantivirus.com
 0.0.0.0 windows.net
+0.0.0.0 windows-update.site
 0.0.0.0 winhound.com
 0.0.0.0 winjudi77.biz
 0.0.0.0 wink.marketing
