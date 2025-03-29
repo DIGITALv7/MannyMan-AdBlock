@@ -255,6 +255,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .890
 0.0.0.0 .abc
 0.0.0.0 .abuse
+0.0.0.0 .actiontracker
 0.0.0.0 .ad
 0.0.0.0 .adaware
 0.0.0.0 .adbanner
@@ -421,6 +422,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .horny
 0.0.0.0 .hover
 0.0.0.0 .idconfirmation
+0.0.0.0 .identifier
 0.0.0.0 .idverification
 0.0.0.0 .ihazip
 0.0.0.0 .immigrant
