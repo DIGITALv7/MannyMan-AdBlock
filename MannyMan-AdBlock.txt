@@ -403,6 +403,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .exploit
 0.0.0.0 .explore
 0.0.0.0 .expose
+0.0.0.0 .externaldrive
+0.0.0.0 .externalstorage
 0.0.0.0 .extort
 0.0.0.0 .extortion
 0.0.0.0 .favorite
@@ -443,6 +445,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .installer
 0.0.0.0 .installing
 0.0.0.0 .internaldrive
+0.0.0.0 .internalstorage
 0.0.0.0 .io
 0.0.0.0 .ip
 0.0.0.0 .ipgrabber
@@ -1292,6 +1295,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 adamnet.works
 0.0.0.0 adamsmethod.com
 0.0.0.0 adapac.cmcm.com
+0.0.0.0 adaptainstead.com
 0.0.0.0 adaranth.com
 0.0.0.0 adarmor.com
 0.0.0.0 adash.m.taobao.com
@@ -1593,6 +1597,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 ads.uniblue.com
 0.0.0.0 ads.viber.com
 0.0.0.0 ads.vidoomy.com
+0.0.0.0 ads.vungle.com
 0.0.0.0 ads.web.aol.com
 0.0.0.0 ads.xlxtra.com
 0.0.0.0 ads.yahoo.com
@@ -2031,8 +2036,11 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 adx-sg-req.bridgeoos.com
 0.0.0.0 adx-tc.adform.net
 0.0.0.0 adx-tk.rayjump.com
+0.0.0.0 adx-vg-req.mosspf.com
 0.0.0.0 adx.adform.net
 0.0.0.0 adx.adnxs.com
+0.0.0.0 adx.ads.vungle.com
+0.0.0.0 adx.mosspf.com
 0.0.0.0 adx.os.anythinktech.com
 0.0.0.0 adxad.com
 0.0.0.0 adxcorp.kr
@@ -2394,6 +2402,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 anti-spyware-reviews.net
 0.0.0.0 anti-virus-pro.com
 0.0.0.0 anti-viruses.net
+0.0.0.0 antibanads.com
 0.0.0.0 antiquesilversouvenirspoons.com
 0.0.0.0 antispyadvanced.com
 0.0.0.0 antispylab.com
@@ -2425,6 +2434,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 apaddsp.cmcm.com
 0.0.0.0 apartmentsbaska.com
 0.0.0.0 ape-tagit.timeinc.net
+0.0.0.0 aphaupsoowoly.net
 0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 api-ad-adapter.wps.com
 0.0.0.0 api-ad-callback.falconnet.app
@@ -2447,6 +2457,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 api.ampiri.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.analytics.omgpop.com
+0.0.0.0 api.antibanads.com
 0.0.0.0 api.applovefrom.com
 0.0.0.0 api.appnxt.net
 0.0.0.0 api.appodeal.com
@@ -2489,12 +2500,14 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 api.pingstart.com
 0.0.0.0 api.plyair.com
 0.0.0.0 api.reproio.com
+0.0.0.0 api.revenuads.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 api.share.mob.com
 0.0.0.0 api.sve.cc
 0.0.0.0 api.telemetry.watchabc.go.com
+0.0.0.0 app.tinyemail.com
 0.0.0.0 api.tinyhoneybee.com
 0.0.0.0 api.trackszz.com
 0.0.0.0 api.uca.cloud.unity3d.com
@@ -4658,6 +4671,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 gncr.org
 0.0.0.0 gnoubalarab.com
 0.0.0.0 gnsnpaw.com
+0.0.0.0 go.com
 0.0.0.0 go.activengage.com
 0.0.0.0 go.adimpact.com
 0.0.0.0 go.admost.com
@@ -9093,7 +9107,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 wapstart.ru
 0.0.0.0 war1418.com
 0.0.0.0 wareout.com
-0.0.0.0 watchdog-samsung.goodbyeads
+0.0.0.0 watchabc.go.com
+0.0.0.0 watchdog-samsunggoodbyeads
 0.0.0.0 watchdog.goodbyeads
 0.0.0.0 watches-my.stream
 0.0.0.0 watchgallery.pro
