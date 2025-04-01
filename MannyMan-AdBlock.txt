@@ -2804,9 +2804,12 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 bemobtracks.com
 0.0.0.0 bensalem215locksmith.com
 0.0.0.0 bento.agoda.com
+0.0.0.0 benzinga.com
 0.0.0.0 benzostreatmentfast.online
 0.0.0.0 bepolite.eu
+0.0.0.0 beretta.offer.safeopt.com
 0.0.0.0 berfh.l3t5mak3l0v3n0war.online
+0.0.0.0 bernardkalyo.de
 0.0.0.0 besmontnet.press
 0.0.0.0 bestadbid.com
 0.0.0.0 bestaquariumpicks.com
@@ -2877,10 +2880,12 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 blip.bizrate.com
 0.0.0.0 blockadblock.com
 0.0.0.0 blockthrough.com
+0.0.0.0 blog.crystalliax.com
 0.0.0.0 blog-sokuhou.com
 0.0.0.0 blogads.com
 0.0.0.0 blowessillest.com
 0.0.0.0 blowessillest.shop
+0.0.0.0 bluedkoss.top
 0.0.0.0 blueduckredapple.com
 0.0.0.0 bluehost.com
 0.0.0.0 bluehost.in
@@ -2921,6 +2926,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 bravesentry.com
 0.0.0.0 breakspyware.com
 0.0.0.0 brealtime.com
+0.0.0.0 brightbargainz.com
 0.0.0.0 bromson.com
 0.0.0.0 brookshoeoutlet.com
 0.0.0.0 brounelink.com
@@ -2967,6 +2973,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 buymusclemorexl.com
 0.0.0.0 buysellads.com
 0.0.0.0 buzzcity.net
+0.0.0.0 buzzmonitor.site
 0.0.0.0 buzzonclick.com
 0.0.0.0 bvog.com
 0.0.0.0 bwnjijl7w.com
