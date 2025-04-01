@@ -3815,6 +3815,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 demandbase.com
 0.0.0.0 demdex.net
 0.0.0.0 dep.hmgroup.com
+0.0.0.0 dessy.preprent.nl
 0.0.0.0 detect.rayjump.com
 0.0.0.0 detektivconan-tube.com
 0.0.0.0 deucecitieshenhouse.com
@@ -4014,6 +4015,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 dw.com.com
 0.0.0.0 dwmballet.com
 0.0.0.0 dx.mountain.com
+0.0.0.0 dxb-rep.com
 0.0.0.0 dxkhboqrrimy.bid
 0.0.0.0 dxnglrimuuucmr.com
 0.0.0.0 dxrbc.cn
@@ -4376,6 +4378,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 financequality.net
 0.0.0.0 financereports.co
 0.0.0.0 financereports.com
+0.0.0.0 financialassistance.io
+0.0.0.0 financialhealth.net
 0.0.0.0 find-girls-now.com
 0.0.0.0 find.usaassistanceguide.com
 0.0.0.0 finestherbalist.com
@@ -4852,6 +4856,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 hdvideoforums.org
 0.0.0.0 headshot.monster
 0.0.0.0 healthtrader.com
+0.0.0.0 healthybodynow.net
 0.0.0.0 healthycomputerclub.com
 0.0.0.0 heartbeatsconsulting.com
 0.0.0.0 heathlylifestyleguide.com
@@ -5339,7 +5344,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 jojoy.com
 0.0.0.0 jojoy.info
 0.0.0.0 jotjdn1.appspot.com
+0.0.0.0 journalatenewsite.com
 0.0.0.0 journaldesvoisins.com
+0.0.0.0 jp.net
 0.0.0.0 jphlsnzlxdz.com
 0.0.0.0 jpush.io
 0.0.0.0 jpzzsmshop.com
@@ -5457,6 +5464,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 kpxbctywsa.com
 0.0.0.0 kqkheakqrh.bid
 0.0.0.0 kqmjmrzjhmdn.com
+0.0.0.0 krajcik.verkelet.com
 0.0.0.0 kreatemore.com
 0.0.0.0 krt.asycxtz.cn
 0.0.0.0 krutilka.net
