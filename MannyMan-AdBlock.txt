@@ -182,6 +182,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 awsul3.api.c0nnectthed0ts.com
 0.0.0.0 configs.sdk.crowd-umlaut.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 device.marketingcloudapis.com
 0.0.0.0 dus.sdk.crowd-umlaut.com
 0.0.0.0 edge.ads.twitch.tv
 0.0.0.0 firebase-settings.crashlytics.com
@@ -192,6 +193,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 geomobileservices-pa.googleapis.com
 0.0.0.0 hls.ttvnw.net
+0.0.0.0 marketingcloudapis.com
+0.0.0.0 mcj1c6g4t3mmt8-1gnb6653vzxgm.device.marketingcloudapis.com
 0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 pool.ntp.org
 0.0.0.0 qt-houston.bronze.systems
@@ -315,10 +318,12 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .callers
 0.0.0.0 .calling
 0.0.0.0 .calls
+0.0.0.0 .cart
 0.0.0.0 .cc
 0.0.0.0 .chatagent
 0.0.0.0 .chatai
 0.0.0.0 .chatnow
+0.0.0.0 .checkout
 0.0.0.0 .children
 0.0.0.0 .click
 0.0.0.0 .clicked
@@ -358,10 +363,13 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .deleted
 0.0.0.0 .deleter
 0.0.0.0 .deleting
+0.0.0.0 .deployment
+0.0.0.0 .deploy
 0.0.0.0 .destroy
 0.0.0.0 .destroyed
 0.0.0.0 .destroyer
 0.0.0.0 .destroying
+0.0.0.0 .devicemessage
 0.0.0.0 .die
 0.0.0.0 .doge
 0.0.0.0 .donate
@@ -477,6 +485,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .mimic
 0.0.0.0 .mktg
 0.0.0.0 .mms
+0.0.0.0 .mobilemessage
 0.0.0.0 .molest
 0.0.0.0 .monster
 0.0.0.0 .move
@@ -484,6 +493,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .multitabs
 0.0.0.0 .murder
 0.0.0.0 .mybar
+0.0.0.0 .mycart
+0.0.0.0 .mycheckout
 0.0.0.0 .mycookies
 0.0.0.0 .myip
 0.0.0.0 .mysearch
@@ -504,6 +515,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .one
 0.0.0.0 .online
 0.0.0.0 .open
+0.0.0.0 .order
 0.0.0.0 .outgoing
 0.0.0.0 .paddle
 0.0.0.0 .passport
@@ -520,6 +532,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .popup
 0.0.0.0 .porn
 0.0.0.0 .prejudice
+0.0.0.0 .preorder
 0.0.0.0 .print
 0.0.0.0 .printer
 0.0.0.0 .protest
@@ -537,6 +550,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .recover
 0.0.0.0 .recovered
 0.0.0.0 .recovering
+0.0.0.0 .redeployment
+0.0.0.0 .redeploy
 0.0.0.0 .redirect
 0.0.0.0 .redirected
 0.0.0.0 .redirecting
@@ -570,6 +585,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .server
 0.0.0.0 .sex
 0.0.0.0 .sh
+0.0.0.0 .shipment
+0.0.0.0 .ship
+0.0.0.0 .shipping
 0.0.0.0 .shoot
 0.0.0.0 .show
 0.0.0.0 .showed
@@ -605,6 +623,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .swat
 0.0.0.0 .swats
 0.0.0.0 .swatted
+0.0.0.0 .systemmessage
+0.0.0.0 .system
 0.0.0.0 .tabmulti
 0.0.0.0 .tabnew
 0.0.0.0 .tabopen
