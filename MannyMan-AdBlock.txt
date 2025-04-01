@@ -3231,6 +3231,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 click.amazingmobi.com
 0.0.0.0 click.appinthestore.com
 0.0.0.0 click.com
+0.0.0.0 click.convertkit-mail2.com
 0.0.0.0 click.googleanalytics.com
 0.0.0.0 click.gowadogo.com
 0.0.0.0 click.i.hepsiburada.com
@@ -3462,6 +3463,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 conversions.appsflyersdk.com
 0.0.0.0 conversions.genieventures.co.uk
+0.0.0.0 convertkit-mail2.com
 0.0.0.0 cookie-guard-erdee.ey.r.appspot.com
 0.0.0.0 cookie-script.com
 0.0.0.0 cookiebot.com
@@ -3471,6 +3473,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 cookiex.ngd.yahoo.com
 0.0.0.0 cookieyes.com
 0.0.0.0 cookingcityglobal.com
+0.0.0.0 coolinational.de
 0.0.0.0 coolrat.xyz
 0.0.0.0 coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 0.0.0.0 cop.evidon.com
@@ -3481,6 +3484,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 corona2.eu
 0.0.0.0 corporategroup.co.uk
 0.0.0.0 correalty.ru
+0.0.0.0 cos.coolinational.de
 0.0.0.0 cosmeticsrc.com
 0.0.0.0 costco-adbutler.com
 0.0.0.0 count-server.sharethis.com
@@ -3551,6 +3555,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 crtv.wboptim.online
 0.0.0.0 crunchbase.com
 0.0.0.0 crwdcntrl.net
+0.0.0.0 crystalliax.com
 0.0.0.0 cs.luckyorange.net
 0.0.0.0 cs02-pps-drcn.dbankcdn.com
 0.0.0.0 csclientes.com.mx
