@@ -6,9 +6,9 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 03/31/25
-# |  •  TIME: 3:44PM CST, 15:44PM || UTC-6
-# |  •  SIZE: 250KB
+# |  •  UPDATED: 04/02/25
+# |  •  TIME: 5:31PM CST, 17:31PM || UTC-6
+# |  •  SIZE: 252KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
 # |  •  LICENSE-2: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -421,6 +421,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .fraud
 0.0.0.0 .freeze
 0.0.0.0 .fuck
+0.0.0.0 .galaxy
 0.0.0.0 .gateway
 0.0.0.0 .gay
 0.0.0.0 .girls
@@ -485,6 +486,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .measurements
 0.0.0.0 .media
 0.0.0.0 .memory
+0.0.0.0 .metrics
 0.0.0.0 .mimic
 0.0.0.0 .mktg
 0.0.0.0 .mms
@@ -536,6 +538,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .porn
 0.0.0.0 .prejudice
 0.0.0.0 .preorder
+0.0.0.0 .president
 0.0.0.0 .print
 0.0.0.0 .printer
 0.0.0.0 .protest
@@ -569,6 +572,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .remover
 0.0.0.0 .removing
 0.0.0.0 .report
+0.0.0.0 .representative
 0.0.0.0 .rewind
 0.0.0.0 .riot
 0.0.0.0 .root
@@ -694,6 +698,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .wiped
 0.0.0.0 .wiper
 0.0.0.0 .wiping
+0.0.0.0 .world
 0.0.0.0 .xex
 0.0.0.0 .xxx
 0.0.0.0 .xyz
@@ -1305,6 +1310,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 adatepekarot.com
 0.0.0.0 adballoon.sooplive.co.kr
 0.0.0.0 adbeat.com
+0.0.0.0 adbert.com
+0.0.0.0 adbert.com.tw
+0.0.0.0 adbert.tw
 0.0.0.0 adblade.com
 0.0.0.0 adbrain.com
 0.0.0.0 adbreak.cubecdn.net
@@ -1385,6 +1393,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 adinl.com
 0.0.0.0 adition.com
 0.0.0.0 aditmedia.go2affise.com
+0.0.0.0 aditude.com
 0.0.0.0 adj.st
 0.0.0.0 adjug.com
 0.0.0.0 adjust.com
@@ -2106,6 +2115,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 ajc1.cn
 0.0.0.0 ajdivotdelbloab24.jio.com
 0.0.0.0 ajfziqehnwvz.com
+0.0.0.0 akcja-samsung.h2g.pl
 0.0.0.0 ak-777.com
 0.0.0.0 ak.astjigglypuffchan.com
 0.0.0.0 ak.stikroltiltoowi.net
@@ -2658,6 +2668,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 audiencerate.com
 0.0.0.0 audigent.com
 0.0.0.0 audiomob.com
+0.0.0.0 auditude.com
 0.0.0.0 audit.303br.net
 0.0.0.0 audit.median.hu
 0.0.0.0 augeomarketing.com
@@ -4025,6 +4036,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 dynamicvin.com
 0.0.0.0 dzgwautxzdtn9.cloudfront.net
 0.0.0.0 dzpu6za66svjl.cloudfront.net
+0.0.0.0 e-kei.pl
 0.0.0.0 e-planning.net
 0.0.0.0 e-spyware.com
 0.0.0.0 e-ssl.apsalar.com
@@ -4753,6 +4765,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 grabify.icu
 0.0.0.0 grabify.link
 0.0.0.0 grabify.world
+0.0.0.0 graindata.com
 0.0.0.0 grand-eight.club
 0.0.0.0 grandhuntings.com
 0.0.0.0 grandsnombres.com
@@ -6435,6 +6448,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 omitages.com
 0.0.0.0 omnatuor.com
 0.0.0.0 omni-ads.omni.news
+0.0.0.0 omtrdc.net
 0.0.0.0 onclicka.com
 0.0.0.0 onclickprediction.com
 0.0.0.0 onelink.appsflyer.com
@@ -7358,6 +7372,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 saadilent.ir
 0.0.0.0 sadobeanalytics.geico.com
 0.0.0.0 safeemergency.com
+0.0.0.0 safefix.top
+0.0.0.0 safeopt.com
 0.0.0.0 safer-networking.com
 0.0.0.0 safespy.net
 0.0.0.0 safewebsurfer.com
@@ -7392,6 +7408,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 samsungeurope.eu.qualtrics.com
 0.0.0.0 samsungindiaelectronics.demdex.net
 0.0.0.0 samsungmsc.d1.sc.omtrdc.net
+0.0.0.0 samsungotn.net
+0.0.0.0 samsungrm.net
 0.0.0.0 samsungtvads.com
 0.0.0.0 samsungus.btttag.com
 0.0.0.0 samuraispy.com
@@ -7549,6 +7567,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 shareware4web.com
 0.0.0.0 sharewrong.online
 0.0.0.0 sharingdisini.com
+0.0.0.0 shaseltolkuukos.com
 0.0.0.0 shauncvar.com
 0.0.0.0 shaunuftast.com
 0.0.0.0 sheingivesback.com
@@ -8107,6 +8126,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 support.adamnet.works
 0.0.0.0 support.teachable.com
 0.0.0.0 supportmetrics.apple.com
+0.0.0.0 supportsentparticle.com
+0.0.0.0 supraot.com
 0.0.0.0 surfertools.com
 0.0.0.0 surfmusik-adserver.de
 0.0.0.0 surfshark.events
@@ -8136,6 +8157,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 sync.adkernel.com
 0.0.0.0 sync.adotmob.com
 0.0.0.0 sync.gonet-ads.com
+0.0.0.0 syncoremetrics.com
 0.0.0.0 syncplusconfig.s3.amazonaws.com
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 syndication.exoclick.com
@@ -8274,6 +8296,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 tealand.cmcm.com
 0.0.0.0 teamclouds.com
 0.0.0.0 teasfwda.com
+0.0.0.0 tec35.com
 0.0.0.0 techbar.me
 0.0.0.0 techbazaar88.com
 0.0.0.0 techcityconnect.ltd
@@ -8316,6 +8339,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 ter.ocshlive.ksmobile.net
 0.0.0.0 ter.zglive.ksmobile.net
 0.0.0.0 terminexor.com
+0.0.0.0 ternletspurns.top
 0.0.0.0 terraclicks.com
 0.0.0.0 teslaplus.com
 0.0.0.0 teslaplus.com/search.php?wmid
@@ -8391,6 +8415,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 timesticedon.com
 0.0.0.0 timgorichanaz.com
 0.0.0.0 tiny.cc
+0.0.0.0 tinyemail.com
 0.0.0.0 tipobet00938.com
 0.0.0.0 tipsforu.click
 0.0.0.0 titanantispyware.com
@@ -8551,6 +8576,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 track.strife.com
 0.0.0.0 track.taboola.com
 0.0.0.0 track.td3x.com
+0.0.0.0 track.tec35.com
 0.0.0.0 track.tenjin.com
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.townsquaremediastats.com
@@ -9028,6 +9054,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 venuschicago.com
 0.0.0.0 venuspo.icu
 0.0.0.0 vercel-vitals.axiom.co
+0.0.0.0 verkelet.com
 0.0.0.0 versamarketinginc.com
 0.0.0.0 verticaladsgroup.com
 0.0.0.0 veta.naver.com
@@ -9157,6 +9184,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 watches-my.stream
 0.0.0.0 watchgallery.pro
 0.0.0.0 watchtower.graindata.com
+0.0.0.0 waterbottlecheap.cc
 0.0.0.0 wawpklaws.com
 0.0.0.0 waytogypts.xyz
 0.0.0.0 wbidder04112024.com
@@ -9299,6 +9327,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 wstats.slashed.cloud
 0.0.0.0 wstvcgfkvc.com
 0.0.0.0 wszgsshyjh.com
+0.0.0.0 wt.bluedkoss.top
 0.0.0.0 wt.viagogo.net
 0.0.0.0 wtbevents.pricespider.com
 0.0.0.0 wtfmailguardonline.net
@@ -9320,12 +9349,6 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 wwrpfevyca.com
 0.0.0.0 wwv.trumpmagic.boutique
 0.0.0.0 www-google-analytics.l.google.com
-0.0.0.0 adbert.com.tw
-0.0.0.0 akcja-samsung.h2g.pl
-0.0.0.0 akcjasamsung.e-kei.pl
-0.0.0.0 auditude.com
-0.0.0.0 samsungotn.net
-0.0.0.0 samsungrm.net
 0.0.0.0 wwwyoutube.com 
 0.0.0.0 wxapp.cmcm.com
 0.0.0.0 wxbrdppfpr.com
@@ -9467,6 +9490,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 ycxtpbfcsl.com
 0.0.0.0 ydlwrwbjosjycn.com
 0.0.0.0 ydtqlmsvocjp.com
+0.0.0.0 yearofthewoodsnake.xyz
 0.0.0.0 ye.dun.163yun.com
 0.0.0.0 yeegsxcwbnn.com
 0.0.0.0 yemdmtwnpspgy.com
