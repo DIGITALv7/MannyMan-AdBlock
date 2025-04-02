@@ -4543,6 +4543,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 g2insights-cdn.azureedge.net
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.webdigi.co.uk
+0.0.0.0 gaeliteratic.com
 0.0.0.0 gain-a-dentalimplantssite.fyi
 0.0.0.0 galaksionads.com
 0.0.0.0 galaxystars.pro
@@ -4637,6 +4638,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 getamone.com
 0.0.0.0 getcake.com
 0.0.0.0 getclicky.com
+0.0.0.0 getdailyprosper.com
 0.0.0.0 getforhealth.store
 0.0.0.0 getrecharge.com
 0.0.0.0 getrunkhomuto.info
@@ -4693,6 +4695,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 go.admost.com
 0.0.0.0 go.budurl.co
 0.0.0.0 go.criteo.com
+0.0.0.0 go.financialhealth.net
 0.0.0.0 go.mobstitialtag.com
 0.0.0.0 go.oclasrv.com
 0.0.0.0 go.onclasrv.com
@@ -4735,6 +4738,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 goooogle.download
 0.0.0.0 goooogleadsense.biz
 0.0.0.0 gopfltvoiflf.com
+0.0.0.0 gopjn.com
 0.0.0.0 gopureorganicfood.ca
 0.0.0.0 goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 0.0.0.0 goulpreview.xyz
@@ -5577,6 +5581,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 link.messaging.usnews.com
 0.0.0.0 link.myjewishpage.com
 0.0.0.0 link.realself.com
+0.0.0.0 links.mail.journalatenewsite.com
+0.0.0.0 links.ourjournalate.com
 0.0.0.0 linkangood.com
 0.0.0.0 linkbux.com
 0.0.0.0 linkconnector.com
@@ -5603,6 +5609,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 liveramp.com
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 liveupdt.com
+0.0.0.0 lk.ownmyrentals.com
 0.0.0.0 lkddksjgih.com
 0.0.0.0 lkiiwoxjfovcga.com
 0.0.0.0 lklwrb.shoppingoptimization.it.com
@@ -5822,6 +5829,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 mail.getamone.com
 0.0.0.0 mail.h.trustedfundingcorp.com
 0.0.0.0 mail.helpwithedu.com
+0.0.0.0 mail.journalatenewsite.com
 0.0.0.0 mail.ru
 0.0.0.0 mailble.com
 0.0.0.0 mailcheckisp.biz
@@ -6052,6 +6060,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 mobile.eum-appdynamics.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobile.useinsider.com
+0.0.0.0 mobile.yandexexchange.net
 0.0.0.0 mobile333.com
 0.0.0.0 mobileads.com
 0.0.0.0 mobileadtrading.com
@@ -6105,6 +6114,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 morningstarlincoln.co.uk
 0.0.0.0 morrity.com
+0.0.0.0 mosspf.com
 0.0.0.0 mossru.com
 0.0.0.0 motoronter.com
 0.0.0.0 motorpasionmotos.com
@@ -6172,6 +6182,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 myahh.cf
 0.0.0.0 mybid.io
 0.0.0.0 mybluehost.me
+0.0.0.0 mydaiilysurge.co
 0.0.0.0 mydas.mobi
 0.0.0.0 mydigitalfinderone.com
 0.0.0.0 myfaceboxer.com
@@ -6396,6 +6407,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 ofexmskz.com
 0.0.0.0 offer.5kfunds.com
 0.0.0.0 offer.perryfinances.com
+0.0.0.0 offer.safeopt.com
 0.0.0.0 offergold.online
 0.0.0.0 offerwall-adnative.com
 0.0.0.0 offerwall.yandex.net
@@ -6499,6 +6511,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 oucywciij.com
 0.0.0.0 oudccdjvh.com
 0.0.0.0 ougdqjentmp.com
+0.0.0.0 ourjournalate.com
 0.0.0.0 outandappear.win
 0.0.0.0 outbrain.com
 0.0.0.0 outbrainimg.com
@@ -6519,6 +6532,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 ovtkwzyowci.com
 0.0.0.0 ownerfifteencurtain.pro
 0.0.0.0 owneriq.com
+0.0.0.0 ownmyrentals.com
 0.0.0.0 oxfordspywareremover.com
 0.0.0.0 oxyo2.com
 0.0.0.0 oxystress.eu
@@ -6629,6 +6643,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 perf.hsforms.com
 0.0.0.0 perfect-cleaner.com
+0.0.0.0 pernakolmino.jp.net
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 perryfinances.com
 0.0.0.0 perso.aws.arc.pub
@@ -6641,6 +6656,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 pesttrap.com
 0.0.0.0 pesttrapper.com
 0.0.0.0 pestwiper.com
+0.0.0.0 pet.brightbargainz.com
 0.0.0.0 petametrics.com
 0.0.0.0 pets.channeladvisor.com
 0.0.0.0 petsarlaaafru.com
@@ -6742,6 +6758,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 plugrush.com
 0.0.0.0 plumcafebistro.com
+0.0.0.0 plus.financialassistance.io
 0.0.0.0 plusclick.biz
 0.0.0.0 plusx.com
 0.0.0.0 plxtejszb.com
@@ -6798,6 +6815,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 pps-log.op-mobile.opera.com
 0.0.0.0 pqdgvgxtshpny.com
 0.0.0.0 pqlveeoq.com
+0.0.0.0 pqr3ntrk.com
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 pr.blogflux.com
 0.0.0.0 pr.comet.yahoo.com
@@ -6818,6 +6836,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 premiumsales.com
 0.0.0.0 premiumsales.eu
 0.0.0.0 premiumsales.eu.com
+0.0.0.0 preprent.nl
 0.0.0.0 presage.io
 0.0.0.0 pressizer.net
 0.0.0.0 preview-collector.scopely.io
@@ -6911,6 +6930,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 pub1.co
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 public.servenobid.com
+0.0.0.0 public.com
 0.0.0.0 publicismedia.de
 0.0.0.0 publicwiki.me
 0.0.0.0 publift.com
@@ -7103,6 +7123,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 redemptionengine.com
 0.0.0.0 redirect.com
 0.0.0.0 redirect.privateadtracking.com
+0.0.0.0 redirect.viglink.com
 0.0.0.0 redirected.com
 0.0.0.0 redirecting.com
 0.0.0.0 redirector.com
@@ -7128,6 +7149,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 registeridm.com
 0.0.0.0 registry-doctor.com
 0.0.0.0 rehab-centers-alcohol-addiction.com
+0.0.0.0 reichert.verkelet.com
 0.0.0.0 reimageplus.com
 0.0.0.0 reiqwxxd.com
 0.0.0.0 rejbqhagczm.com
@@ -7147,6 +7169,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-stats.ad.jiguang.cn
 0.0.0.0 report.apkpure.net
+0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 reporting-api.gannettinnovation.com
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reporting.cdndex.io
@@ -7172,6 +7195,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 retargeting.newsmanapp.com
 0.0.0.0 retrosowenian.shop
 0.0.0.0 revcontent.com
+0.0.0.0 revenuads.com
 0.0.0.0 revenuehits.com
 0.0.0.0 revenuenetwork.com
 0.0.0.0 revieweasy.com
