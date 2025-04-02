@@ -1097,6 +1097,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 a.exoclick.com
 0.0.0.0 a.getflowbox.com
 0.0.0.0 a.hcaptcha.com
+0.0.0.0 a-hero.com
 0.0.0.0 a.mobify.com
 0.0.0.0 a.mstrlytcs.com
 0.0.0.0 a.nel.cloudflare.com
@@ -6656,6 +6657,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 pegasi.ksmobile.net
 0.0.0.0 pegasus.unifygroup.com
 0.0.0.0 pennzxycrdmw.com
+0.0.0.0 pentlyconger.com
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 perf.hsforms.com
 0.0.0.0 perfect-cleaner.com
@@ -8491,6 +8493,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 topspywareremovers.com
 0.0.0.0 topstreaming.us
 0.0.0.0 toptenreviews.com
+0.0.0.0 torials.com
 0.0.0.0 totalav.app
 0.0.0.0 totalav.com
 0.0.0.0 totalav.io
