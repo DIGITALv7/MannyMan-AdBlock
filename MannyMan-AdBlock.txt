@@ -3440,6 +3440,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 config-api.internet.apps.samsung.com
 0.0.0.0 config.ad.snaptube.app
+0.0.0.0 config.ads.vungle.com
 0.0.0.0 config.appjolt.com
 0.0.0.0 config.inmobi.com
 0.0.0.0 config.ioam.de
@@ -5743,6 +5744,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 logopaedie-tisch.homepage.t-online.de38zu.cn
 0.0.0.0 logs-api.shoprunner.com
 0.0.0.0 logs-ingress.svc.vinted.com
+0.0.0.0 logs.ads.vungle.com
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.animaapp.com
 0.0.0.0 logs.browser-intake-datadoghq.com
