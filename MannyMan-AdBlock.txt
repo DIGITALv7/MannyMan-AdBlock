@@ -4908,6 +4908,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 hihanin.com
 0.0.0.0 hijack-this.com
 0.0.0.0 hijack-this.net
+0.0.0.0 hikvtrxa.buzz
+0.0.0.0 hikvtrxa.buzz/org
 0.0.0.0 hilltopads.com
 0.0.0.0 history.google.com
 0.0.0.0 hit.gemius.pl
@@ -7591,6 +7593,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 shoppingoptimization.it
 0.0.0.0 shoppingoptimization.it.com
 0.0.0.0 shorte.st
+0.0.0.0 shorturl.at/kH8ar?IVT=4636mzzd
 0.0.0.0 showmeboobs.xyz
 0.0.0.0 shparxvyhrwgsl.com
 0.0.0.0 shrekis.life
