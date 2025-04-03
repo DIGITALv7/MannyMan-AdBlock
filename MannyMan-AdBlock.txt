@@ -323,6 +323,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .chatagent
 0.0.0.0 .chatai
 0.0.0.0 .chatnow
+0.0.0.0 .checkip
+0.0.0.0 .checkmyip
 0.0.0.0 .checkout
 0.0.0.0 .children
 0.0.0.0 .click
@@ -581,6 +583,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .save
 0.0.0.0 .savemyinfo
 0.0.0.0 .scam
+0.0.0.0 .scanip
+0.0.0.0 .scanmyip
 0.0.0.0 .scan
 0.0.0.0 .scientology
 0.0.0.0 .sdcard
@@ -649,6 +653,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .timer
 0.0.0.0 .tk
 0.0.0.0 .together
+0.0.0.0 .toll
+0.0.0.0 .tollpay
 0.0.0.0 .top
 0.0.0.0 .track
 0.0.0.0 .track.js
@@ -1123,6 +1129,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 aagmbroxruno.com
 0.0.0.0 aalures.com
 0.0.0.0 aamhrnptzw.com
+0.0.0.0 aarki.netrm.aarki.net
+0.0.0.0 aarki.net
 0.0.0.0 aaronjames.com.au
 0.0.0.0 aas-bd.org
 0.0.0.0 aashima.goyal.au
@@ -1135,6 +1143,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aaxads.com
+0.0.0.0 aapi.bytegle.site
 0.0.0.0 ab-sneg.ru
 0.0.0.0 ab.cmcm.com
 0.0.0.0 ab.servogram.io
@@ -2121,6 +2130,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 ak.astjigglypuffchan.com
 0.0.0.0 ak.stikroltiltoowi.net
 0.0.0.0 akamaihd.net
+0.0.0.0 akamaized.net
 0.0.0.0 akatracking.esearchvision.com
 0.0.0.0 akcdinzvcenhjh.com
 0.0.0.0 akcjasamsung.e-kei.pl
@@ -2289,6 +2299,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 analytics.kapost.com
 0.0.0.0 analytics.kidoz.net
 0.0.0.0 analytics.klickly.com
+0.0.0.0 analytics.komoot.net
 0.0.0.0 analytics.kongregate.io
 0.0.0.0 analytics.lemoolah.com
 0.0.0.0 analytics.liftoff.io
@@ -2439,6 +2450,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 ao-freegeoip.herokuapp.com
 0.0.0.0 aodsywsxzquemt.com
 0.0.0.0 aomsitf.com
+0.0.0.0 aotter.net
 0.0.0.0 aoqvizrign.com
 0.0.0.0 aowmaijlvxdcs.com
 0.0.0.0 ap.smardroid.com
@@ -2446,6 +2458,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 apartmentsbaska.com
 0.0.0.0 ape-tagit.timeinc.net
 0.0.0.0 aphaupsoowoly.net
+0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 api-ad-adapter.wps.com
 0.0.0.0 api-ad-callback.falconnet.app
@@ -2464,6 +2477,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 api.ads.flurry.com
 0.0.0.0 api.ads.newsdigest.jp
 0.0.0.0 api.ads.watchabc.go.com
+0.0.0.0 api.affiliations.site
 0.0.0.0 api.airpush.com
 0.0.0.0 api.ampiri.com
 0.0.0.0 api.amplitude.com
@@ -2482,6 +2496,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.bugsnag.com
 0.0.0.0 api.bytebrew.io
+0.0.0.0 api.bytegle.site
 0.0.0.0 api.c.avazunativeads.com
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 api.cmplay.cmcm.com
@@ -2532,6 +2547,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 api3.branch.io
 0.0.0.0 apidm.airpush.com
 0.0.0.0 apis.appnxt.net
+0.0.0.0 apk.freehyz1.com
 0.0.0.0 apkdetail.ksmobile.net
 0.0.0.0 apkq-cm.ksmobile.net
 0.0.0.0 apkq-cms.ksmobile.net
@@ -2995,6 +3011,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 bxwbflhpk.com
 0.0.0.0 by8luz.top
 0.0.0.0 byebyeads.org
+0.0.0.0 bytegle.site
 0.0.0.0 bytelink-ip.web.app
 0.0.0.0 byxlivaqzo.com
 0.0.0.0 bzewjpivglj.com
@@ -3093,6 +3110,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 cdbxuzzlgfhh.com
 0.0.0.0 cdmworldsoftware.com
 0.0.0.0 cdn-ad.wtzw.com
+0.0.0.0 cdn-adef.akamaized.net
 0.0.0.0 cdn-adn.rayjump.com
 0.0.0.0 cdn-api.admost.com
 0.0.0.0 cdn-bdl.cm.ksmobile.com
@@ -3132,6 +3150,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 cdn.justuno.com
 0.0.0.0 cdn.jwplayer.com
 0.0.0.0 cdn.larapush.com
+0.0.0.0 cdn.liftoff-creatives.io
 0.0.0.0 cdn.liftoff.io
 0.0.0.0 cdn.luckyorange.com
 0.0.0.0 cdn.mouseflow.com
@@ -3163,6 +3182,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 cdnap.airpush.com
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 cdncontentstorage.com
+0.0.0.0 cdnjs.claudflare.io
 0.0.0.0 cdns.brsrvr.com
 0.0.0.0 cdns.lodeo.io
 0.0.0.0 cdp.cloud.unity3d.com
@@ -3231,6 +3251,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 claritas.com
 0.0.0.0 claritybt.freshmarketer.com
 0.0.0.0 clarium.global.ssl.fastly.net
+0.0.0.0 claudflare.io
 0.0.0.0 clck.adskeeper.com
 0.0.0.0 cleanup-adware.com
 0.0.0.0 cleanx.co.kr
@@ -3591,6 +3612,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 ctdhylltfighs.com
 0.0.0.0 ctl.buyt.in
 0.0.0.0 cubeupload.xyz
+0.0.0.0 cuebiq.com
 0.0.0.0 cuevana.fm
 0.0.0.0 cumgfzvm.com
 0.0.0.0 cuminside.club
@@ -4385,6 +4407,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 file-dw.com
 0.0.0.0 filehorse.com
+0.0.0.0 file.myqcloud.com
 0.0.0.0 files.adform.net
 0.0.0.0 files.uploads.ws
 0.0.0.0 filippomascoli.it
@@ -4499,6 +4522,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 freegiftoffers.com
 0.0.0.0 freegiftoffers.it
 0.0.0.0 freegiftoffers.it.com
+0.0.0.0 freehyz1.com
 0.0.0.0 freepcscan.com
 0.0.0.0 freepdfbookdownload.tk
 0.0.0.0 freepornphotos.club
@@ -4892,6 +4916,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 helpliebao1.ksmobile.com
 0.0.0.0 helpwithedu.com
 0.0.0.0 hemailaccessonline.com
+0.0.0.0 herokuapp.com
 0.0.0.0 het-wittehuis.nl
 0.0.0.0 hey.hellobar.com
 0.0.0.0 heyacan.tk
@@ -5125,9 +5150,11 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 importadosoriginaisfx.tk
 0.0.0.0 imprdom.com
 0.0.0.0 impress.vcita.com
+0.0.0.0 impression-east.liftoff.io
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 impression.link
 0.0.0.0 imrworldwide.com
+0.0.0.0 in.cuebiq.com
 0.0.0.0 in.treasuredata.com
 0.0.0.0 in.tubecorporate.com
 0.0.0.0 inapps.appsflyer.com
@@ -5879,6 +5906,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 marbling.pe.kr
 0.0.0.0 marie-robin.fr
 0.0.0.0 marketbanker.com
+0.0.0.0 market.android.com
 0.0.0.0 marketing.mangacopy.com
 0.0.0.0 marketing.rakuten.com
 0.0.0.0 marketplace.appdirect.com
@@ -6229,6 +6257,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 myprivate.pics
 0.0.0.0 mypromediastore.com
 0.0.0.0 mypromediastoretwo.com/02000/download.php?id=2000&name=Software%20to%20scan%20website%20for%20malware
+0.0.0.0 mypromediastoretwo.com
+0.0.0.0 myqcloud.com
 0.0.0.0 mysearch.com
 0.0.0.0 myspyfreepc.com
 0.0.0.0 myspyprotector.com
@@ -6291,6 +6321,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 netavenir.com
 0.0.0.0 nethrie.com
 0.0.0.0 netlify-rum.netlify.app
+0.0.0.0 netrm.aarki.net
 0.0.0.0 netseer.com
 0.0.0.0 netshelter.net
 0.0.0.0 netspyprotector.com
@@ -6461,6 +6492,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 onetag-sys.com
 0.0.0.0 onetrust.com
+0.0.0.0 onezapp.com
 0.0.0.0 onis-prom.ru
 0.0.0.0 online-alt-yeah-ver.top
 0.0.0.0 online-metrix.imars.cloud
@@ -6624,6 +6656,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 partnerstack.com
 0.0.0.0 pasta.esfile.duapps.com
 0.0.0.0 pathfinder.analytics.komoot.net
+0.0.0.0 pathmonk.com
 0.0.0.0 patita.tk
 0.0.0.0 patrickmurphy.me
 0.0.0.0 patriot.cs.pp.cn
@@ -6794,6 +6827,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 pnrblholty.com
 0.0.0.0 podcastchoices.com
 0.0.0.0 podimxqmqguj.com
+0.0.0.0 pok.mintegral.net
 0.0.0.0 pokerqq99.net
 0.0.0.0 policiesreview.com
 0.0.0.0 policy-tcp.rayjump.com
@@ -6922,6 +6956,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 propellerads.com
 0.0.0.0 propsid.b-cdn.net
 0.0.0.0 propu.sh
+0.0.0.0 pretectionrequired.com
 0.0.0.0 protectorsuite.com
 0.0.0.0 protesidenext.com
 0.0.0.0 proudflex.org
@@ -7250,6 +7285,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 rlog-api.under9.co
 0.0.0.0 rlog.9gag.com
 0.0.0.0 rlomivunesqal.com
+0.0.0.0 rm-nl.aarki.netrm.aarki.net
 0.0.0.0 rm.aarki.net
 0.0.0.0 rmtwnrwnhu.com
 0.0.0.0 rnxffkxddyobny.com
@@ -7270,6 +7306,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 rossoad.com
 0.0.0.0 rosylia.net
 0.0.0.0 rotaban.ru
+0.0.0.0 route.claudflare.io
 0.0.0.0 routineconsumer.com
 0.0.0.0 royalspin.co.uk
 0.0.0.0 rpqknedxr.com
@@ -7713,6 +7750,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 speee-ad.akamaized.net
 0.0.0.0 spider-tracker.xiaohongshu.com
 0.0.0.0 spiralsense.jp
+0.0.0.0 spire.aarki.net
 0.0.0.0 spklmis.com
 0.0.0.0 splash-ad.classting.com
 0.0.0.0 splash.appsgeyser.com
@@ -8267,6 +8305,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 tap-nexus.appspot.com
 0.0.0.0 tapad.com
 0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
+0.0.0.0 tapi.apkpure.net
 0.0.0.0 tapit.com
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoy.net
@@ -8435,6 +8474,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 tk0x1.com
 0.0.0.0 tkcatrun.aotter.net
 0.0.0.0 tkcatwalk.aotter.net
+0.0.0.0 tkda.mosspf.com
 0.0.0.0 tkickhhylnvm.com
 0.0.0.0 tkmedia-cache.aotter.net
 0.0.0.0 tkmedia.aotter.net
