@@ -101,7 +101,7 @@ ff02::3 ip6-allhosts
 # •••◆••• [ < BLOCK LIST START > ] •••◆•••
 # ______________________________________
 #
-# ◑ ------ Twitch TV Ads / (may not always block) ------ ◐
+# ◑ ------ Twitch TV Ads / (may not always block - desktop browser extensions are more effective than mobile blocking) ------ ◐
 0.0.0.0 a185avoddashs3ww-a.akamaihd.net
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 abbo7pmaaaaaaaamhdrshsjlfhjgw.pop-iad-2.cf.dash.row.aiv-cdn.net/
