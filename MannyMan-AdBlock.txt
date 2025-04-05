@@ -6,7 +6,7 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 04/02/25
+# |  •  UPDATED: 04/04/25
 # |  •  TIME: 5:31PM CST, 17:31PM || UTC-6
 # |  •  SIZE: 253KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
@@ -451,6 +451,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .internalstorage
 0.0.0.0 .io
 0.0.0.0 .ip
+0.0.0.0 .it
 0.0.0.0 .ipgrabber
 0.0.0.0 .ipgrabs
 0.0.0.0 .ipgrabz
@@ -2187,6 +2188,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 americasolidaria.org
 0.0.0.0 amhpbhyxfgvd.com
+0.0.0.0 amiean.discountdeals.it.com
 0.0.0.0 amillionads.com
 0.0.0.0 amnatu.info
 0.0.0.0 amobee.com
@@ -3614,6 +3616,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 cubeupload.xyz
 0.0.0.0 cuebiq.com
 0.0.0.0 cuevana.fm
+0.0.0.0 cumfoto.com
 0.0.0.0 cumgfzvm.com
 0.0.0.0 cuminside.club
 0.0.0.0 cupzwcxgx.com
@@ -3908,6 +3911,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 discord.kim
 0.0.0.0 discordcrypt.xyz
 0.0.0.0 discountclick.com
+0.0.0.0 discountdeals.com
+0.0.0.0 discountdeals.it
+0.0.0.0 discountdeals.it.com
 0.0.0.0 discountfrenzy.com
 0.0.0.0 discountfrenzy.de
 0.0.0.0 discountfrenzy.de.com
@@ -4714,6 +4720,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalmxcup.icu
 0.0.0.0 globalrescue.com
+0.0.0.0 glrwnv.seasonalsales.it.com
 0.0.0.0 gm.cmcm.com
 0.0.0.0 gm.ksmobile.com
 0.0.0.0 gmai.com
@@ -4985,6 +4992,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 hostingonline.desi
 0.0.0.0 hotapi-va.isnssdk.com
 0.0.0.0 hotsgolfexport.loan
+0.0.0.0 hotspecials.com
+0.0.0.0 hotspecials.it
+0.0.0.0 hotspecials.it.com
 0.0.0.0 hotwinupdates.com
 0.0.0.0 houseads-prod.elasticbeanstalk.com
 0.0.0.0 houseads.ttpsdk.info
@@ -5153,6 +5163,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 impression-east.liftoff.io
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 impression.link
+0.0.0.0 immqgt.salesbonanza.it.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 in.cuebiq.com
 0.0.0.0 in.treasuredata.com
@@ -5532,6 +5543,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 kvaedit.site
 0.0.0.0 kvfan.net
 0.0.0.0 kwanko.com
+0.0.0.0 kwplwh.hotspecials.it.com
 0.0.0.0 kxicxovlajgoct.com
 0.0.0.0 kxldvncqrkv.com
 0.0.0.0 kxswxnbr.com
@@ -6203,6 +6215,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 mtrace.qq.com
 0.0.0.0 mtrcss.com
 0.0.0.0 mttyfwtvyumc.com
+0.0.0.0 mukyga.seasonalsales.it.com
 0.0.0.0 mulletsighting.com
 0.0.0.0 multitelusa.net
 0.0.0.0 munchkin.marketo.net
@@ -7423,6 +7436,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 saishonubu.net
 0.0.0.0 sal.gslb.topgslb.com
 0.0.0.0 salegains.com
+0.0.0.0 salesbonanza.com
+0.0.0.0 salesbonanza.it
+0.0.0.0 salesbonanza.it.com
 0.0.0.0 salescript.info
 0.0.0.0 salesfunnel.com
 0.0.0.0 salesfunnel.eu
@@ -7531,6 +7547,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 search.media.com
 0.0.0.0 searchproducts2017.review
 0.0.0.0 searchtabnew.com
+0.0.0.0 seasonalsales.com
+0.0.0.0 seasonalsales.it
+0.0.0.0 seasonalsales.it.com
 0.0.0.0 seatreport.com
 0.0.0.0 sebeagnjowtg.com
 0.0.0.0 secure-ds.serving-sys.com
