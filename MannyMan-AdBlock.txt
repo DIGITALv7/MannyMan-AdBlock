@@ -4648,6 +4648,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 gebadu.com
 0.0.0.0 gedichten-voor-iedereen.com
 0.0.0.0 geede.info
+0.0.0.0 geeksforgeekss.com
 0.0.0.0 gegto.shop
 0.0.0.0 geico.com.ssl.sc.omtrdc.net
 0.0.0.0 gemini.yahoo.com
@@ -7265,6 +7266,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 restauracenanove.cz
 0.0.0.0 restresser.com
 0.0.0.0 retargeting.newsmanapp.com
+0.0.0.0 reteuomomondoforus.jp
+0.0.0.0 reteuomomondoforus.jp.net
+0.0.0.0 reteuomomondoforus.net
 0.0.0.0 retrosowenian.shop
 0.0.0.0 revcontent.com
 0.0.0.0 revenuads.com
