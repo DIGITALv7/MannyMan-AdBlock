@@ -2904,6 +2904,10 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 bjads.bejbej.ca
 0.0.0.0 bkembwdgujzp.com
 0.0.0.0 black6adv.com
+0.0.0.0 blackfridayburst.com
+0.0.0.0 blackfridayburst.it
+0.0.0.0 blackfridayburst.it.com
+0.0.0.0 bshmuh.blackfridayburst.it.com
 0.0.0.0 blaquewatchepk.com
 0.0.0.0 blasze.com
 0.0.0.0 blasze.tk
