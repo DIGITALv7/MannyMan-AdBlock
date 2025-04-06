@@ -366,6 +366,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .deleted
 0.0.0.0 .deleter
 0.0.0.0 .deleting
+0.0.0.0 .demon
 0.0.0.0 .deployment
 0.0.0.0 .deploy
 0.0.0.0 .destroy
@@ -373,6 +374,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .destroyer
 0.0.0.0 .destroying
 0.0.0.0 .devicemessage
+0.0.0.0 .devil
 0.0.0.0 .die
 0.0.0.0 .doge
 0.0.0.0 .donate
@@ -480,6 +482,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .looking
 0.0.0.0 .loud
 0.0.0.0 .love
+0.0.0.0 .lucifer
 0.0.0.0 .ly
 0.0.0.0 .make
 0.0.0.0 .manipulate
@@ -540,6 +543,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .play
 0.0.0.0 .popup
 0.0.0.0 .porn
+0.0.0.0 .prayer
+0.0.0.0 .pray
 0.0.0.0 .prejudice
 0.0.0.0 .preorder
 0.0.0.0 .president
@@ -582,6 +587,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .root
 0.0.0.0 .router
 0.0.0.0 .run
+0.0.0.0 .satan
 0.0.0.0 .save
 0.0.0.0 .savemyinfo
 0.0.0.0 .scam
@@ -670,6 +676,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .transfer
 0.0.0.0 .trk
 0.0.0.0 .truth
+0.0.0.0 .try
 0.0.0.0 .tubular
 0.0.0.0 .uninstall
 0.0.0.0 .uninstalled
@@ -1461,6 +1468,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 adpies.com
 0.0.0.0 adplatform.vrtcal.com
 0.0.0.0 adplexity.com
+0.0.0.0 adplugg.com
 0.0.0.0 adplus.co.id
 0.0.0.0 adplxmd.com
 0.0.0.0 adpopcorn.com
@@ -5827,6 +5835,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 lovebird.guru
 0.0.0.0 lowffdompro.com
 0.0.0.0 loyaltylion.com
+0.0.0.0 lp.clinch.co
 0.0.0.0 lp.moburst.com
 0.0.0.0 lp4.io
 0.0.0.0 lpgiguere.com
@@ -8886,6 +8895,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 trx.zip.co
 0.0.0.0 try.abtasty.com
 0.0.0.0 try.neglectrum.com
+0.0.0.0 try.wurl.com
 0.0.0.0 tryteens.com
 0.0.0.0 ts.line-apps.com
 0.0.0.0 ts.tradetracker.net
@@ -9415,6 +9425,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 wuqwpg.campaignstrategy.com
 0.0.0.0 wuqwpg.campaignstrategy.de
 0.0.0.0 wuqwpg.campaignstrategy.de.com
+0.0.0.0 wurl.com
 0.0.0.0 ww.apkmody.io
 0.0.0.0 ww.apkmody.mobi
 0.0.0.0 ww1.cbsnews.us
