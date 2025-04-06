@@ -228,6 +228,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracks.twitch.tv
 0.0.0.0 tracks.twitchcdn.net
 0.0.0.0 tungsten-service.prod.na.adsqtungsten.a9.amazon.dev
+0.0.0.0 twitchadvertising.tv
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 ul.api.c0nnectthed0ts.com
 0.0.0.0 ul.sdk.crowd-umlaut.com
