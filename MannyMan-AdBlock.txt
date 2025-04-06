@@ -2981,6 +2981,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 branch.io
 0.0.0.0 brandbassador.com
+0.0.0.0 brandnexus.com
+0.0.0.0 brandnexus.it
+0.0.0.0 brandnexus.it.com
 0.0.0.0 brandreward.com
 0.0.0.0 brandxads.com
 0.0.0.0 braveglobal.tv
@@ -3021,6 +3024,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 bulletproofsoft.com
 0.0.0.0 bumpandstuffcaraudio.com
 0.0.0.0 bundle-adee4.firebaseio.com
+0.0.0.0 bundlestorm.com
+0.0.0.0 bundlestorm.it
+0.0.0.0 bundlestorm.it.com
 0.0.0.0 bunnygo.net
 0.0.0.0 burstnet.com
 0.0.0.0 business-api.tiktok.com
@@ -3950,6 +3956,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 discountfrenzy.com
 0.0.0.0 discountfrenzy.de
 0.0.0.0 discountfrenzy.de.com
+0.0.0.0 discountspree.com
+0.0.0.0 discountspree.it
+0.0.0.0 discountspree.it.com
 0.0.0.0 discover.taboola.com
 0.0.0.0 discussionanalytics.com
 0.0.0.0 discussionanalytics.it
@@ -3977,6 +3986,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 djaxadserver.com/p
 0.0.0.0 djturntableparts.site
 0.0.0.0 dkmdklhu.com
+0.0.0.0 dkqtxx.bundlestorm.com
+0.0.0.0 dkqtxx.bundlestorm.it
+0.0.0.0 dkqtxx.bundlestorm.it.com
 0.0.0.0 dkupaw9ae63a8.cloudfront.net
 0.0.0.0 dl-adx.op-mobile.opera.com
 0.0.0.0 dl.cm.ksmobile.com
@@ -4848,6 +4860,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 greatnewplaces.com
 0.0.0.0 greatvideosdownloads.com
 0.0.0.0 green-griffin-860.appspot.com
+0.0.0.0 grilxn.brandnexus.com
+0.0.0.0 grilxn.brandnexus.it
+0.0.0.0 grilxn.brandnexus.it.com
 0.0.0.0 griptigeschlu.science
 0.0.0.0 griptruckshouston.com
 0.0.0.0 groproext.com
@@ -5668,6 +5683,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 limitedoffers.com
 0.0.0.0 limitedoffers.eu
 0.0.0.0 limitedoffers.eu.com
+0.0.0.0 limitedtime.com
+0.0.0.0 limitedtime.it
+0.0.0.0 limitedtime.it.com
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 link.cosmopolitan.com
 0.0.0.0 link.informer.com
@@ -6514,6 +6532,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 offerwall.yandex.net
 0.0.0.0 offrs.com
 0.0.0.0 ofgogoatan.com
+0.0.0.0 ofyfdv.salesstrategy.it.com
 0.0.0.0 ofzoxqcldl.com
 0.0.0.0 ogluyourrvv.com
 0.0.0.0 ognybevu.com
@@ -7980,6 +7999,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 spywarexp.com
 0.0.0.0 spywarezapper.com
 0.0.0.0 spyxpress.com
+0.0.0.0 sqcqop.discountspree.de.com
 0.0.0.0 sq.requestads.com
 0.0.0.0 sqpgncbm.com
 0.0.0.0 src.freshmarketer.in
@@ -9011,6 +9031,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 uim.tifbs.net
 0.0.0.0 uimrnhpei.com
 0.0.0.0 ujesnwjqowcru.com
+0.0.0.0 ujoiik.limitedtime.com
+0.0.0.0 ujoiik.limitedtime.it
+0.0.0.0 ujoiik.limitedtime.it.com
 0.0.0.0 ujpbruxewv.com
 0.0.0.0 ujuqvalvvvof.com
 0.0.0.0 ujxogbsw.com
@@ -9415,6 +9438,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 wlzdghlzjewbwv.com
 0.0.0.0 wm-reviews.ca
 0.0.0.0 wmniqkqrr.com
+0.0.0.0 wndyip.discountspree.com
+0.0.0.0 wndyip.discountspree.de
+0.0.0.0 wndyip.discountspree.de.com
 0.0.0.0 wnfjzjmc.com
 0.0.0.0 wodemind.net
 0.0.0.0 wompanalytics.azurewebsites.net
