@@ -275,6 +275,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .af
 0.0.0.0 .affil
 0.0.0.0 .affiliate
+0.0.0.0 .afk
 0.0.0.0 .ai
 0.0.0.0 .aichat
 0.0.0.0 .alpha
@@ -705,7 +706,11 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 .war
 0.0.0.0 .wares
 0.0.0.0 .warez
+0.0.0.0 .weatherbug
+0.0.0.0 .weathertracker
+0.0.0.0 .weathertrack
 0.0.0.0 .webbug
+0.0.0.0 .webview
 0.0.0.0 .wetback
 0.0.0.0 .wetbacks
 0.0.0.0 .widget
@@ -1298,6 +1303,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 ad.tencentmusic.com
 0.0.0.0 ad.trafficshop.com
+0.0.0.0 ad.unity3d.com
 0.0.0.0 ad.twinrdengine.com
 0.0.0.0 ad.us.doubleclick.net
 0.0.0.0 ad.vrvm.com
@@ -1624,6 +1630,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 ads.tubemate.com
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads.uniblue.com
+0.0.0.0 ads.unity3d.com
 0.0.0.0 ads.viber.com
 0.0.0.0 ads.vidoomy.com
 0.0.0.0 ads.vungle.com
@@ -1680,6 +1687,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 adserver.pandora.com
 0.0.0.0 adserver.shadow.snapads.com
 0.0.0.0 adserver.snapads.com
+0.0.0.0 adserver.unity3d.com
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adserver.xpanama.net
 0.0.0.0 adserver.yahoo.com
@@ -1945,6 +1953,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 adsrvr.com
 0.0.0.0 adsrvr.io
 0.0.0.0 adsrvr.org
+0.0.0.0 adsrvr.unity3d.com
+0.0.0.0 adsrvrs.unity3d.com
 0.0.0.0 adstats.tencentmusic.com
 0.0.0.0 adsterra.com
 0.0.0.0 adstransparency.google.com
@@ -1998,10 +2008,15 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 adventuresofcitizenx.com
 0.0.0.0 adversal.com
 0.0.0.0 advertere.zamunda.net
+0.0.0.0 adverts.unity3d.com
+0.0.0.0 advert.unity3d.com
 0.0.0.0 adverticum.net
+0.0.0.0 advertise.unity3d.com
 0.0.0.0 advertise.com
 0.0.0.0 advertiseireland.com
 0.0.0.0 advertiser.cheetahgo.cmcm.com
+0.0.0.0 advertisement.unity3d.com
+0.0.0.0 advertisements.unity3d.com
 0.0.0.0 advertisersapi.doubleclick.net
 0.0.0.0 advertiserurl.com
 0.0.0.0 advertising.amazon.com
@@ -2023,6 +2038,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 advmaiotg.com
 0.0.0.0 advmob.cn
 0.0.0.0 advombat.ru
+0.0.0.0 advrts.unity3d.com
+0.0.0.0 advrt.unity3d.com
 0.0.0.0 adware-bazooka.com
 0.0.0.0 adware-delete.com
 0.0.0.0 adware-punisher.com
@@ -2391,6 +2408,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics.unibuddy.co
 0.0.0.0 analytics.unilogcorp.com
+0.0.0.0 analytics.unity3d.com
 0.0.0.0 analytics.vanillaforums.com
 0.0.0.0 analytics.vdo.ai
 0.0.0.0 analytics.vendemore.com
@@ -3518,7 +3536,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 cookiebot.com
 0.0.0.0 cookieconsent.com
 0.0.0.0 cookieinfoscript.com
+0.0.0.0 cookie.unity3d.com
 0.0.0.0 cookies.livepartners.com
+0.0.0.0 cookies.unity3d.com
 0.0.0.0 cookiex.ngd.yahoo.com
 0.0.0.0 cookieyes.com
 0.0.0.0 cookingcityglobal.com
@@ -4634,6 +4654,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gateway.foresee.com
 0.0.0.0 gateway.ttpsdk.info
+0.0.0.0 gateway.unityads.unity3d.com
 0.0.0.0 gatr.hit.gemius.pl
 0.0.0.0 gaymers.ax
 0.0.0.0 gbfgvzfcjfs.com
@@ -4856,6 +4877,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 guvenlinet.org
 0.0.0.0 gvtawzpydsujep.com
 0.0.0.0 gw.conversionsapigateway.com
+0.0.0.0 gw.mediation.unity3d.com
 0.0.0.0 gwbdt.com
 0.0.0.0 gwpjvfqeui.com
 0.0.0.0 gwrtdp-tn690bfadt.tclclouds.com
@@ -5033,6 +5055,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 httpbin.org
 0.0.0.0 httpdns-push.heytapmobile.com
 0.0.0.0 httpdns.bilivideo.com
+0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 httpool.com
 0.0.0.0 https-filtering-check.adtidy.org
 0.0.0.0 hubvotrpjios.com
@@ -6459,6 +6482,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 nyxvhfwfbmh.com
 0.0.0.0 nzhuswwhd.com
 0.0.0.0 nzopgzncs.com
+0.0.0.0 o-sdk.mediation.unity3d.com
 0.0.0.0 o.skimresources.com
 0.0.0.0 o2.mouseflow.com
 0.0.0.0 o2ip.ru
@@ -8388,6 +8412,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 tekeffect.com
 0.0.0.0 teknist.xyz
 0.0.0.0 telemetrics.klaviyo.com
+0.0.0.0 telemetrics.unity3d.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry.codefusion.technology
@@ -8402,6 +8427,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 telemetry.tableausoftware.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 telemetry.transcend.io
+0.0.0.0 telemetry.unity3d.com
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 telemetry.vtex.com
 0.0.0.0 telemetryverification.net
@@ -8666,6 +8692,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.townsquaremediastats.com
 0.0.0.0 track.uc.cn
+0.0.0.0 track.unity3d.com
 0.0.0.0 track.untd.com
 0.0.0.0 track.uppromote.com
 0.0.0.0 track.us.org
