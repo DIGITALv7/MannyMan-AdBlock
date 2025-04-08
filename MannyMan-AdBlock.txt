@@ -6,7 +6,7 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 04/06/25
+# |  •  UPDATED: 04/07/25
 # |  •  TIME: 1:22PM CST, 13:22PM || UTC-6
 # |  •  SIZE: 255KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
@@ -4257,6 +4257,8 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 et-code.ru
 0.0.0.0 et.educationdynamics.com
 0.0.0.0 etargetnet.com
+0.0.0.0 etcwpl.world/ues
+0.0.0.0 etcwpl.world
 0.0.0.0 etdscanner.com
 0.0.0.0 ethfss.referralsales.com
 0.0.0.0 ethfss.referralsales.eu
@@ -7710,6 +7712,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 shoppingoptimization.it
 0.0.0.0 shoppingoptimization.it.com
 0.0.0.0 shorte.st
+0.0.0.0 shorturl.at/d73Py?PpO=Eo9Ws5t
 0.0.0.0 shorturl.at/kH8ar?IVT=4636mzzd
 0.0.0.0 showmeboobs.xyz
 0.0.0.0 shparxvyhrwgsl.com
