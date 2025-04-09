@@ -6,7 +6,7 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 04/07/25
+# |  •  UPDATED: 04/09/25
 # |  •  TIME: 1:22PM CST, 13:22PM || UTC-6
 # |  •  SIZE: 255KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
@@ -1090,6 +1090,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 8fvchzuz.myutilitydomain.com
 0.0.0.0 9.socalledthosecare.pro
 0.0.0.0 9.theverdictyield.pro
+0.0.0.0 906560.com
 0.0.0.0 925.lt
 0.0.0.0 92by17snes4.cc
 0.0.0.0 95277h.com
@@ -3666,6 +3667,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 cursopdg.online
 0.0.0.0 cursosneuromarketing.com
 0.0.0.0 customfingerprints.bablosoft.com
+0.0.0.0 cute.euphorine.com
 0.0.0.0 cutt.ly
 0.0.0.0 cutt.ly/xrtBGTZC?amE=0fxojS7vbk
 0.0.0.0 cv51u10hubcc73bnn1eg.alphaloopconnect.com
@@ -3933,6 +3935,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 digianalytics.airtel.in
 0.0.0.0 digidip.net
 0.0.0.0 diginetz.de
+0.0.0.0 digit.qy4p.906560.com
 0.0.0.0 digitalcaramel.com
 0.0.0.0 digitalchallenger.com
 0.0.0.0 digitallbs.com
@@ -4275,6 +4278,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 eub.echo-ice.com
 0.0.0.0 euc.adserver.snapads.com
 0.0.0.0 eunow4u.com
+0.0.0.0 euphorine.com
 0.0.0.0 eutdrjvsrmav.com
 0.0.0.0 euw-ice.360yield.com
 0.0.0.0 euw.adserver.snapads.com
@@ -6003,7 +6007,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 matrix.dailyinnovation.biz
 0.0.0.0 mattconheady.com
 0.0.0.0 matteodallombra.net
-0.0.0.0 maudfkdsuyp.com
+0.0.0.0 maudfkdsuyaaaaaaaaap.com
 0.0.0.0 maven.cmcm.com
 0.0.0.0 maxprivacyprotector.com
 0.0.0.0 maxtheater.com
@@ -6043,7 +6047,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 mediasearchdirect.com
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
 0.0.0.0 mediation.mwmadnetworks.com
-0.0.0.0 mediation.unity3d.com
+0.0.0.0 mediation.unity3d.1com
 0.0.0.0 mediavine.com
 0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 medicalinsurance.buyerforge.com
@@ -7174,6 +7178,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 qvmnebsl.top/us
 0.0.0.0 qwvajuyccl.com
 0.0.0.0 qxkwtmrvnbqxf.com
+0.0.0.0 qy4p.906560.com
 0.0.0.0 qydhjirz.com
 0.0.0.0 qywx.cmcm.com
 0.0.0.0 qzbnokxxvvpwf.com
@@ -7274,7 +7279,6 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 regfreeze.net
 0.0.0.0 register.appsflyer.com
 0.0.0.0 register.appsflyersdk.com
-0.0.0.0 registeridm.com
 0.0.0.0 registry-doctor.com
 0.0.0.0 rehab-centers-alcohol-addiction.com
 0.0.0.0 reichert.verkelet.com
