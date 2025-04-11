@@ -6,8 +6,8 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 04/09/25
-# |  •  TIME: 1:22PM CST, 13:22PM || UTC-6
+# |  •  UPDATED: 04/10/25
+# |  •  TIME: 9:02PM CST, 21:02PM || UTC-6
 # |  •  SIZE: 255KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
@@ -3295,6 +3295,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 clck.adskeeper.com
 0.0.0.0 cleanup-adware.com
 0.0.0.0 cleanx.co.kr
+0.0.0.0 clearancebargains.com
+0.0.0.0 clearancebargains.it
+0.0.0.0 clearancebargains.it.com
 0.0.0.0 clearonclick.com
 0.0.0.0 clfvfumqqok.com
 0.0.0.0 clfxjrlui.com
@@ -9752,6 +9755,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 zlkrhsbkdf.bid
 0.0.0.0 zllanqoglad.com
 0.0.0.0 zlluzejac.com
+0.0.0.0 zmfpvu.clearancebargains.it.com
 0.0.0.0 zmhwglwmi.com
 0.0.0.0 zmjagawa.com
 0.0.0.0 zml-apm-prd.dbv4.noncd.db.de
