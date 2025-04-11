@@ -6,8 +6,8 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 04/10/25
-# |  •  TIME: 9:02PM CST, 21:02PM || UTC-6
+# |  •  UPDATED: 04/11/25
+# |  •  TIME: 5:45PM CST, 17:45PM || UTC-6
 # |  •  SIZE: 255KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
@@ -193,6 +193,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 geomobileservices-pa.googleapis.com
 0.0.0.0 hls.ttvnw.net
+0.0.0.0 k.twitchcdn.net
 0.0.0.0 marketingcloudapis.com
 0.0.0.0 mcj1c6g4t3mmt8-1gnb6653vzxgm.device.marketingcloudapis.com
 0.0.0.0 optimizationguide-pa.googleapis.com
@@ -235,6 +236,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 unagi-na.amazon.com
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 vfw.amazon-adsystem.com
+0.0.0.0 video-edge-cb4ab6.pdx01.abs.hls.ttvnw.net
 0.0.0.0 webapi.sdk.crowd-umlaut.com
 # ---- Credit to AlexRabbit for the TwitchTV scripts ----
 www.twitch.tv * 3p block
@@ -2978,6 +2980,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 bp.adkmob.com
 0.0.0.0 bpwhamburgorchardpark.org
 0.0.0.0 bqiovml.com
+0.0.0.0 bqormp.flashoffers.it.com
 0.0.0.0 bqqnngtpc.com
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 branch.io
@@ -4168,6 +4171,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 edmanalytics.pandahall.com
 0.0.0.0 edrgvzhpqrdnj.com
 0.0.0.0 edusecuritywatch.com
+0.0.0.0 edusgc.offertrends.it.com
 0.0.0.0 edwinwin.xyz
 0.0.0.0 eebbfcwspe.com
 0.0.0.0 eel.transistor.fm
@@ -4501,6 +4505,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 flash-fm.tk
 0.0.0.0 flash.cn
 0.0.0.0 flash.sec.intl.miui.com
+0.0.0.0 flashoffers.com
+0.0.0.0 flashoffers.it
+0.0.0.0 flashoffers.it.com
 0.0.0.0 flashstats.libsyn.com
 0.0.0.0 flashtalking.com
 0.0.0.0 flexiblelocator.com
@@ -6065,6 +6072,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 megpacokjce.bid
 0.0.0.0 meitustat.com
 0.0.0.0 melaridoweb.eu
+0.0.0.0 membershipoffers.com
+0.0.0.0 membershipoffers.it
+0.0.0.0 membershipoffers.it.com
 0.0.0.0 menteinovadora.com.br
 0.0.0.0 merign.org
 0.0.0.0 merkleinc.com
@@ -6121,6 +6131,7 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 mhviessolums.com
 0.0.0.0 mi.gdt.qq.com
 0.0.0.0 miahshnju.com
+0.0.0.0 mibqnj.membershipoffers.it.com
 0.0.0.0 microantivirus.com
 0.0.0.0 microantivirusxp.com
 0.0.0.0 microramcomputers.com
@@ -6537,6 +6548,9 @@ twitch.tv##+js(twitch-videoad)
 0.0.0.0 offer.perryfinances.com
 0.0.0.0 offer.safeopt.com
 0.0.0.0 offergold.online
+0.0.0.0 offertrends.com
+0.0.0.0 offertrends.it
+0.0.0.0 offertrends.it.com
 0.0.0.0 offerwall-adnative.com
 0.0.0.0 offerwall.yandex.net
 0.0.0.0 offrs.com
