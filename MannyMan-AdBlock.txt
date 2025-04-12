@@ -6,8 +6,8 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 04/11/25
-# |  •  TIME: 5:45PM CST, 17:45PM || UTC-6
+# |  •  UPDATED: 04/12/25
+# |  •  TIME: 2:29PM CST, 14:29PM || UTC-6
 # |  •  SIZE: 256KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
@@ -3370,6 +3370,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 client-logger.beta.salemove.com
 0.0.0.0 client-logger.salemove.com
 0.0.0.0 client-telemetry.hingeprod.net
+0.0.0.0 client.aps.amazon-adsystem.com
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.perimeterx.net
 0.0.0.0 client.px-cloud.net
@@ -3516,6 +3517,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 config.ad.snaptube.app
 0.0.0.0 config.ads.vungle.com
 0.0.0.0 config.appjolt.com
+0.0.0.0 config.aps.amazon-adsystem.com
 0.0.0.0 config.inmobi.com
 0.0.0.0 config.ioam.de
 0.0.0.0 config.jpush.cn
@@ -4810,6 +4812,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 go.budurl.co
 0.0.0.0 go.criteo.com
 0.0.0.0 go.financialhealth.net
+0.0.0.0 go.mnaspm.com
 0.0.0.0 go.mobstitialtag.com
 0.0.0.0 go.oclasrv.com
 0.0.0.0 go.onclasrv.com
@@ -6177,6 +6180,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 mmp001.scalemonk.com
 0.0.0.0 mmpcqstnkcelx.com
 0.0.0.0 mmsoa.com
+0.0.0.0 mnaspm.com
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 moa-upload-online.coloros.com
 0.0.0.0 moatads.com.edgekey.net
@@ -8697,6 +8701,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 track.adform.net
 0.0.0.0 track.admobclick.com
 0.0.0.0 track.adtraction.com
+0.0.0.0 track.agenteimmobiliare.info
 0.0.0.0 track.aieic.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 track.bannedcelebs.com
