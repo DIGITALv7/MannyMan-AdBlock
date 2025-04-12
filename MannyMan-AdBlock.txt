@@ -318,6 +318,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .breach
 0.0.0.0 .burn
 0.0.0.0 .bust
+0.0.0.0 .buy
 0.0.0.0 .bypass
 0.0.0.0 .bypassed
 0.0.0.0 .bypasser
@@ -481,6 +482,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .kids
 0.0.0.0 .kill
 0.0.0.0 .kkk
+0.0.0.0 .kink
+0.0.0.0 .kinks
+0.0.0.0 .kinky
 0.0.0.0 .li
 0.0.0.0 .lie
 0.0.0.0 .login
@@ -561,6 +565,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .printer
 0.0.0.0 .protest
 0.0.0.0 .proto
+0.0.0.0 .purchase
 0.0.0.0 .push
 0.0.0.0 .query
 0.0.0.0 .quickie
@@ -2882,6 +2887,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 bestbooksfiles.com
 0.0.0.0 bestcardshuffler.icu
 0.0.0.0 bestdatingonline.date
+0.0.0.0 bestfuckapps.com
 0.0.0.0 bestguardplatinum.com
 0.0.0.0 bestrewardcardforrestaurantsin.icu
 0.0.0.0 bestsellers.com
@@ -3021,6 +3027,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 btlr.sharethrough.com
 0.0.0.0 btonzfjleinuax.com
 0.0.0.0 btovopyov.com
+0.0.0.0 bttrack.com
 0.0.0.0 bttrads.com
 0.0.0.0 bu1.duba.com
 0.0.0.0 bubblesmedia.ru
@@ -5475,6 +5482,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 jnrvjpsltf.com
 0.0.0.0 jobsinvestments.com
 0.0.0.0 johncharcol.com
+0.0.0.0 joi.com
 0.0.0.0 joingekko.com
 0.0.0.0 joinmy.site
 0.0.0.0 jojoy.com
@@ -5755,6 +5763,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 lndvtedtayqy.com
 0.0.0.0 lnueliai.com
 0.0.0.0 loader-cdn.azureedge.net
+0.0.0.0 loadingscripts.com
 0.0.0.0 loadsource.org
 0.0.0.0 loadus.exelator.com
 0.0.0.0 loaptoostah.net
@@ -5903,6 +5912,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 loyaltylion.com
 0.0.0.0 lp.clinch.co
 0.0.0.0 lp.moburst.com
+0.0.0.0 lp3.joi.com
 0.0.0.0 lp4.io
 0.0.0.0 lpgiguere.com
 0.0.0.0 lptag.liveperson.net
@@ -6383,6 +6393,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 naiwvizpzflx.com
 0.0.0.0 nakedglamsexpertise.com
 0.0.0.0 nanigans.com
+0.0.0.0 nannyirrationalacquainted.com
 0.0.0.0 nasimobi.com
 0.0.0.0 nastedsuglu.com
 0.0.0.0 nationwidepeople.com
@@ -8042,6 +8053,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.sayyac.net
 0.0.0.0 ssa.stepstone.com
+0.0.0.0 ssbsync.smartadserver.com
 0.0.0.0 ssc8n2.icu
 0.0.0.0 sscefsol.com
 0.0.0.0 ssdk.adkmob.com
@@ -9439,6 +9451,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgetsworlda.com
 0.0.0.0 wiki.cmcm.com
+0.0.0.0 wildbearads.com
 0.0.0.0 wildbearads.go2affise.com
 0.0.0.0 wildlink.me
 0.0.0.0 wilkoclosing.com
