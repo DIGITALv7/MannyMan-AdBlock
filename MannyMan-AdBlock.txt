@@ -263,6 +263,7 @@ redtube.com###slidePanelContainerAB
 vaughnlive.tv##.abvsDynamic
 # ---- Misc. AdBlock Detection Warning Alerts ----
 ||detectadblock.com^
+||www.detectadblock.com^
 ||188.114.96.2^
 ||188.114.97.2^
 0.0.0.0 188.114.96.2 #detectadblock.com
@@ -274,6 +275,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 cdn.jsdelivr.net/npm/blockadblock@3.2.1/blockadblock.min.js
 0.0.0.0 cdnjs.cloudflare.com/ajax/libs/blockadblock/3.2.1/blockadblock.js
 0.0.0.0 detectadblock.com
+0.0.0.0 www.detectadblock.com
 0.0.0.0 nativeads-v2.js
 # ◑ ------ Known Malicious Domain/Sub-Domain Extensions ------ ◑
 0.0.0.0 .123
