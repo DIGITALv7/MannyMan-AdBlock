@@ -1486,7 +1486,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 adperium.com
 0.0.0.0 adpia.vn
 0.0.0.0 adpies.com
+0.0.0.0 adplatform.com
 0.0.0.0 adplatform.vrtcal.com
+0.0.0.0 adplayer.pro
 0.0.0.0 adplexity.com
 0.0.0.0 adplugg.com
 0.0.0.0 adplus.co.id
@@ -1957,12 +1959,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 adspeed.com
 0.0.0.0 adspirit.com
-0.0.0.0 adspirit.com/en
 0.0.0.0 adsports.com
 0.0.0.0 adsports.in
 0.0.0.0 adspot.tfgapps.com
 0.0.0.0 adspyglass.com
-0.0.0.0 adspyglass.com/?u=72652
 0.0.0.0 adsrvmedia.net
 0.0.0.0 adsrvr.com
 0.0.0.0 adsrvr.io
@@ -1976,6 +1976,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 adstrategy.biz.weibo.com
 0.0.0.0 adstrategyglobal.com
 0.0.0.0 adsunflower.com
+0.0.0.0 adswerve.com
 0.0.0.0 adswizz.com
 0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 adtaxi.com
@@ -2044,6 +2045,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 advertisingbox.com
 0.0.0.0 advertisingcamps.com
 0.0.0.0 advertmarket.com
+0.0.0.0 advertserve.com
 0.0.0.0 advertur.ru
 0.0.0.0 adviad.com
 0.0.0.0 advice-ads.s3.amazonaws.com
@@ -2748,6 +2750,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 avatars.mds.yandex.net
 0.0.0.0 avazunativeads.com
 0.0.0.0 averageanteater.info
+0.0.0.0 avidadserver.com
 0.0.0.0 avmftuama.com
 0.0.0.0 avsystemcare.com
 0.0.0.0 avtoresurs.net
@@ -2938,6 +2941,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 bisrtb.vidazoo.com
 0.0.0.0 bit.do
 0.0.0.0 bit.ly
+0.0.0.0 bit.ly/2XpSHrW
 0.0.0.0 bit.ly/3DXXCq4?Ttf=tljL2Rvntp
 0.0.0.0 bitly-bot.com
 0.0.0.0 biturl.io
@@ -3007,6 +3011,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 breakspyware.com
 0.0.0.0 brealtime.com
 0.0.0.0 brightbargainz.com
+0.0.0.0 broadstreetads.com
 0.0.0.0 bromson.com
 0.0.0.0 brookshoeoutlet.com
 0.0.0.0 brounelink.com
@@ -3235,6 +3240,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 cdn3.optimizely.com
 0.0.0.0 cdn4.buysellads.net
 0.0.0.0 cdn9.forter.com
+0.0.0.0 cdn77.com
 0.0.0.0 cdnap.airpush.com
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 cdncontentstorage.com
@@ -3290,6 +3296,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 chicory.co
 0.0.0.0 chinamajestic.com.au
 0.0.0.0 chochokiw205-015jw.trade
+0.0.0.0 chocolateplatform.com
 0.0.0.0 choicejumpdig.top
 0.0.0.0 choozle.com
 0.0.0.0 choreograph.com
@@ -3378,6 +3385,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 client-logger.salemove.com
 0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 client.aps.amazon-adsystem.com
+0.0.0.0 client.cdn77.com
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.perimeterx.net
 0.0.0.0 client.px-cloud.net
@@ -3960,6 +3968,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 digitalcaramel.com
 0.0.0.0 digitalchallenger.com
 0.0.0.0 digitallbs.com
+0.0.0.0 digitalturbine.com
 0.0.0.0 diligenceinternational.com
 0.0.0.0 dimagesrc.com
 0.0.0.0 dimeprice.com
@@ -4007,7 +4016,6 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 divineenterprises.net
 0.0.0.0 divorcesols.co.uk
 0.0.0.0 djaxadserver.com
-0.0.0.0 djaxadserver.com/p
 0.0.0.0 djturntableparts.site
 0.0.0.0 dkmdklhu.com
 0.0.0.0 dkqtxx.bundlestorm.com
@@ -4251,7 +4259,6 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 epnycpszmpvft.com
 0.0.0.0 epom.com
 0.0.0.0 epsilon.com
-0.0.0.0 epsilon.com/emea
 0.0.0.0 epsqdbhrhqmbs.com
 0.0.0.0 eptwulil.com
 0.0.0.0 eq.userneeds.com
@@ -4282,7 +4289,6 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 et-code.ru
 0.0.0.0 et.educationdynamics.com
 0.0.0.0 etargetnet.com
-0.0.0.0 etcwpl.world/ues
 0.0.0.0 etcwpl.world
 0.0.0.0 etdscanner.com
 0.0.0.0 ethfss.referralsales.com
@@ -4409,6 +4415,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ewsawnbf.com
 0.0.0.0 ewzsfpskdfuip.com
 0.0.0.0 exacttarget.com
+0.0.0.0 exads.com
 0.0.0.0 exclusivebargains.com
 0.0.0.0 exclusivebargains.eu
 0.0.0.0 exclusivebargains.eu.com
@@ -4762,6 +4769,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 getclicky.com
 0.0.0.0 getdailyprosper.com
 0.0.0.0 getforhealth.store
+0.0.0.0 getpublica.com
 0.0.0.0 getrecharge.com
 0.0.0.0 getrunkhomuto.info
 0.0.0.0 gettruck-autonow.market
@@ -5295,6 +5303,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 innovads-server.poster.appsinnova.com
 0.0.0.0 innovagest2000.com
 0.0.0.0 innovid.com
+0.0.0.0 inoutscripts.com
 0.0.0.0 ins.connatix.com
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insight.ucweb.com
@@ -6811,6 +6820,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 perf.hsforms.com
 0.0.0.0 perfect-cleaner.com
+0.0.0.0 performcb.com
 0.0.0.0 pernakolmino.jp.net
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 perryfinances.com
@@ -7012,6 +7022,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 prf.vagnt.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 primarkenfrance.com
+0.0.0.0 primis.tech
 0.0.0.0 princessoflemnos.gr
 0.0.0.0 princessofsachempond.com
 0.0.0.0 printscr.ga
@@ -7648,6 +7659,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 sdspybot.com
 0.0.0.0 sdtagging.azureedge.net
+0.0.0.0 searchads.apple.com
 0.0.0.0 search.adcaffe.com
 0.0.0.0 search.media.com
 0.0.0.0 searchproducts2017.review
@@ -7673,6 +7685,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 seksburada.net
 0.0.0.0 selcuksprotshd.chatango.com
 0.0.0.0 selectivparfumes.ru
+0.0.0.0 selectmedia.asia
 0.0.0.0 sellarafaeli.com
 0.0.0.0 semasio.com
 0.0.0.0 sempcxjajh.com
@@ -7802,6 +7815,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 slvrlake-denim.com
 0.0.0.0 sm.rtb.mts.ru
 0.0.0.0 sma-norge.no
+0.0.0.0 smaato.com
 0.0.0.0 smaato.net
 0.0.0.0 smaclick.com
 0.0.0.0 smart-data-systems.com
@@ -8465,6 +8479,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 tdid.m.qq.com
 0.0.0.0 teachable.com
 0.0.0.0 teachscape.vo.llnwd.net
+0.0.0.0 teads.com
 0.0.0.0 teads.tv
 0.0.0.0 tealand.cmcm.com
 0.0.0.0 teamclouds.com
@@ -9127,6 +9142,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 uppromote.com
 0.0.0.0 uprav559.ru
+0.0.0.0 uprival.com
 0.0.0.0 ups-west.ksmobile.net
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 upsight.com
@@ -9212,6 +9228,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 varellamotos.com.br
 0.0.0.0 vars.hotjar.com
 0.0.0.0 vasfxpribls.com
+0.0.0.0 vastify.io
 0.0.0.0 vbivaia.site
 0.0.0.0 vbooter.org
 0.0.0.0 vbskcvjdabdp.com
@@ -9571,6 +9588,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 xda-developers.io
 0.0.0.0 xda-developers.us
 0.0.0.0 xdrig.com
+0.0.0.0 xenoss.io
 0.0.0.0 xgctdamahrzy.com
 0.0.0.0 xgfgt.cn
 0.0.0.0 xgfugivkvkak.com
