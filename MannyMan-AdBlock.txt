@@ -262,6 +262,9 @@ pornhub.com###abAlert
 redtube.com###slidePanelContainerAB
 vaughnlive.tv##.abvsDynamic
 # ---- Misc. AdBlock Detection Warning Alerts ----
+||detectadblock.com^
+||188.114.96.2^
+||188.114.97.2^
 0.0.0.0 188.114.96.2 #detectadblock.com
 0.0.0.0 188.114.97.2 #detectadblock.com
 0.0.0.0 adblockanalytics.com
