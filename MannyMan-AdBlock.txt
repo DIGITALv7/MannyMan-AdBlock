@@ -262,11 +262,13 @@ pornhub.com###abAlert
 redtube.com###slidePanelContainerAB
 vaughnlive.tv##.abvsDynamic
 # ---- Misc. AdBlock Detection Warning Alerts ----
+0.0.0.0 adblockanalytics.com
 0.0.0.0 adinserter.pro
 0.0.0.0 ads.js
 0.0.0.0 banner_ad
 0.0.0.0 cdn.jsdelivr.net/npm/blockadblock@3.2.1/blockadblock.min.js
 0.0.0.0 cdnjs.cloudflare.com/ajax/libs/blockadblock/3.2.1/blockadblock.js
+0.0.0.0 detectadblock.com
 0.0.0.0 nativeads-v2.js
 # ◑ ------ Known Malicious Domain/Sub-Domain Extensions ------ ◑
 0.0.0.0 .123
