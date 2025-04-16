@@ -326,6 +326,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .blow
 0.0.0.0 .bomb
 0.0.0.0 .bookmark
+0.0.0.0 .borrow
 0.0.0.0 .box
 0.0.0.0 .boys
 0.0.0.0 .breach
@@ -399,6 +400,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .devicemessage
 0.0.0.0 .devil
 0.0.0.0 .die
+0.0.0.0 .discount
 0.0.0.0 .doge
 0.0.0.0 .donate
 0.0.0.0 .donation
@@ -498,6 +500,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .kink
 0.0.0.0 .kinks
 0.0.0.0 .kinky
+0.0.0.0 .lease
 0.0.0.0 .li
 0.0.0.0 .lie
 0.0.0.0 .login
@@ -608,6 +611,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .removed
 0.0.0.0 .remover
 0.0.0.0 .removing
+0.0.0.0 .rent
 0.0.0.0 .report
 0.0.0.0 .representative
 0.0.0.0 .rewind
@@ -615,6 +619,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .root
 0.0.0.0 .router
 0.0.0.0 .run
+0.0.0.0 .sale
 0.0.0.0 .satan
 0.0.0.0 .save
 0.0.0.0 .savemyinfo
