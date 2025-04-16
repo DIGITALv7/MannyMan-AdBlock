@@ -1485,6 +1485,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 admiralcompressor.ru
 0.0.0.0 admitad.com
 0.0.0.0 admixer.co.kr
+0.0.0.0 admixer.com
 0.0.0.0 admixer.net
 0.0.0.0 admob.com
 0.0.0.0 admob.google.com
@@ -5196,6 +5197,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ibbkuhwgqawhvt.com
 0.0.0.0 ibd-as-api.iq.com
+0.0.0.0 ibillboard.com
 0.0.0.0 ibkbshqqueoij.com
 0.0.0.0 ibtfbbtjktu.com
 0.0.0.0 icadx.cmcm.com
