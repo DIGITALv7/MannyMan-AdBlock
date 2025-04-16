@@ -9053,6 +9053,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 turn.com
 0.0.0.0 tuwuyppwdj.com
 0.0.0.0 tuxbpnne.com
+0.0.0.0 tvads.nationalmediaspots.com
 0.0.0.0 tvaktuality.cz
 0.0.0.0 tvduznfdgim.com
 0.0.0.0 tveta.naver.net
