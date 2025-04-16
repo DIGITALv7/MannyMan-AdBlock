@@ -1094,6 +1094,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 6.theverdictyield.pro
 0.0.0.0 602d76e204c032.com
 0.0.0.0 65nq.com
+0.0.0.0 65r4e98zt7ez65y4e6r5y465er4y98t7u987.s3.us-east-005.backblazeb2.com
 0.0.0.0 6927262.fls.doubleclick.net
 0.0.0.0 6d-antivirus.com
 0.0.0.0 6dad.com
@@ -2804,6 +2805,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 b94.yahoo.co.jp
 0.0.0.0 b99.yahoo.co.jp
 0.0.0.0 back.xiaobao.cmcm.com
+0.0.0.0 backblazeb2.com
 0.0.0.0 backcountrywater.info
 0.0.0.0 bafwpcisfhfvma.com
 0.0.0.0 bakshirostick.com
@@ -3046,6 +3048,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 bs.nakanohito.jp
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bs.yandex.ru
+0.0.0.0 bskarchitects.in
 0.0.0.0 btdciuqcsvjjt.com
 0.0.0.0 btgxicdivmtv.com
 0.0.0.0 btloader.com
@@ -3318,6 +3321,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 chinamajestic.com.au
 0.0.0.0 chochokiw205-015jw.trade
 0.0.0.0 chocolateplatform.com
+0.0.0.0 choiceforindependentlife.jp.net
 0.0.0.0 choicejumpdig.top
 0.0.0.0 choozle.com
 0.0.0.0 choreograph.com
@@ -7559,6 +7563,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 s3-ftzn-szgame.cmcm.com
 0.0.0.0 s3.amazonaws.com
 0.0.0.0 s3.ttpsdk.info
+0.0.0.0 s3.us-east-005.backblazeb2.com
 0.0.0.0 s6.chatango.com
 0.0.0.0 s7.addthis.com
 0.0.0.0 sa.scorpion.co
@@ -9181,6 +9186,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 urrl.herokuapp.com
 0.0.0.0 us-23491-adswizz.attribution.adswizz.com
 0.0.0.0 us-central1-markuphero.cloudfunctions.net
+0.0.0.0 us-east-005.backblazeb2.com
 0.0.0.0 us-east-1.paa-reporting-advertising.amazon
 0.0.0.0 us-events.api.iheart.com
 0.0.0.0 us-tracking.nextdoor.com
