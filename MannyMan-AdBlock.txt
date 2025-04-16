@@ -8,7 +8,7 @@
 # |  •  AUTHOR: DIGITALv7
 # |  •  UPDATED: 04/15/25
 # |  •  TIME: 2:29PM CST, 14:29PM || UTC-6
-# |  •  SIZE: 257KB
+# |  •  SIZE: 258KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
 # |  •  LICENSE-2: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -513,6 +513,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .make
 0.0.0.0 .manipulate
 0.0.0.0 .marketing
+0.0.0.0 .marriage
 0.0.0.0 .master
 0.0.0.0 .measure
 0.0.0.0 .measurement
@@ -659,6 +660,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .stab
 0.0.0.0 .stamina
 0.0.0.0 .stats
+0.0.0.0 .sticky
 0.0.0.0 .stimulus
 0.0.0.0 .stop
 0.0.0.0 .stopwatch
@@ -8266,6 +8268,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 steegheltee.net
 0.0.0.0 stephenfarrell.io
 0.0.0.0 stg-data-collector.playbuzz.com
+0.0.0.0 stickyadstv.com
 0.0.0.0 stikroltiltoowi.net
 0.0.0.0 stimmwissenschaften.de
 0.0.0.0 stingware.com
@@ -8574,6 +8577,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 thegenerouschef.com
 0.0.0.0 theguitareffects.com
 0.0.0.0 thekingofheroes.com
+0.0.0.0 theknot.com
 0.0.0.0 theme.cmcm.com.bsgslb.cn
 0.0.0.0 thenai.org
 0.0.0.0 thenewyorkevening.com
@@ -9447,6 +9451,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 webtracker.apicasystem.com
 0.0.0.0 webtube.land
 0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 weddings.theknot.com
 0.0.0.0 weekenddeals.com
 0.0.0.0 weekenddeals.it
 0.0.0.0 weekenddeals.it.com
