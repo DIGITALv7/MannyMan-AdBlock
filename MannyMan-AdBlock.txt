@@ -472,6 +472,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .immigrant
 0.0.0.0 .immigrants
 0.0.0.0 .immigration
+0.0.0.0 .in
 0.0.0.0 .inbox
 0.0.0.0 .incoming
 0.0.0.0 .install
@@ -561,6 +562,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .online
 0.0.0.0 .open
 0.0.0.0 .order
+0.0.0.0 .out
 0.0.0.0 .outgoing
 0.0.0.0 .paddle
 0.0.0.0 .passport
