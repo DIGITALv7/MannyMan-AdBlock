@@ -599,10 +599,22 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .redeployment
 0.0.0.0 .redeploy
 0.0.0.0 .redirect
+0.0.0.0 .redirect.html
+0.0.0.0 .redirectall
+0.0.0.0 .redirectalways
 0.0.0.0 .redirected
+0.0.0.0 .redirectforever
+0.0.0.0 .redirectgroup
+0.0.0.0 .redirectinfinite
 0.0.0.0 .redirecting
+0.0.0.0 .redirectlifetime
+0.0.0.0 .redirectme
 0.0.0.0 .redirector
 0.0.0.0 .redirects
+0.0.0.0 .redirectthem
+0.0.0.0 .redirectus
+0.0.0.0 .redirectyes
+0.0.0.0 .redirectyou
 0.0.0.0 .religion
 0.0.0.0 .religious
 0.0.0.0 .remember
@@ -2524,6 +2536,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 apaddsp.cmcm.com
 0.0.0.0 apartmentsbaska.com
 0.0.0.0 ape-tagit.timeinc.net
+0.0.0.0 appearhawk.com
 0.0.0.0 aphaupsoowoly.net
 0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 api-a.op-mobile.opera.com
@@ -2829,6 +2842,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 barium.cheezdev.com
 0.0.0.0 barn-tv.se
 0.0.0.0 base.cmcm.com
+0.0.0.0 basebastoning.de
 0.0.0.0 bat.bing.com
 0.0.0.0 bat.bing.net
 0.0.0.0 bathtub.pics
@@ -2953,6 +2967,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 bidswitch.net
 0.0.0.0 bidvertiser.com
 0.0.0.0 bigbootymania.com
+0.0.0.0 biggerated.com
+0.0.0.0 biggerated.de
+0.0.0.0 biggerated.de.com
 0.0.0.0 bigmobileads.com
 0.0.0.0 billigamkvaskarea.se
 0.0.0.0 bilrtklg.com
@@ -2986,6 +3003,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 blog.crystalliax.com
 0.0.0.0 blog-sokuhou.com
 0.0.0.0 blogads.com
+0.0.0.0 bloom-blush.com
 0.0.0.0 blowessillest.com
 0.0.0.0 blowessillest.shop
 0.0.0.0 bluedkoss.top
@@ -3480,6 +3498,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 co.vaicore.xyz
 0.0.0.0 cobalten.com
 0.0.0.0 cobaltwhirl.click
+0.0.0.0 cobarteres.biz
 0.0.0.0 cobolrationumelawrtewarms.com
 0.0.0.0 cocinaturquia.com
 0.0.0.0 cod.bitrec.com
@@ -3534,6 +3553,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 combelgium-architects.com
 0.0.0.0 cominations.org
 0.0.0.0 commerce.bing.com
+0.0.0.0 commerculation.com
 0.0.0.0 commissionfactory.com
 0.0.0.0 common.duapps.com
 0.0.0.0 comms.thewhiskyexchange.com
@@ -3547,7 +3567,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 compu3.com/spyware.html
 0.0.0.0 compulse.com
 0.0.0.0 comscore.com
-0.0.0.0 comtakelink.xyz 
+0.0.0.0 comtakelink.xyz
+0.0.0.0 concenteered.com
+0.0.0.0 concenteered.com.de
+0.0.0.0 concenteered.de
 0.0.0.0 concerningblasphemerollback.com
 0.0.0.0 conduit-services.com
 0.0.0.0 confe.dc.oppomobile.com
@@ -3583,6 +3606,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 constantcontact.com
 0.0.0.0 consult4jobs.com
 0.0.0.0 consumeridentity.com
+0.0.0.0 consumingway.com
 0.0.0.0 contemporaryfineart.com
 0.0.0.0 contentforyoucounter.top
 0.0.0.0 contents-tracking.beop.io
@@ -3952,6 +3976,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 dessy.preprent.nl
 0.0.0.0 detect.rayjump.com
 0.0.0.0 detektivconan-tube.com
+0.0.0.0 detropies.com
 0.0.0.0 deucecitieshenhouse.com
 0.0.0.0 dev.appboy.com
 0.0.0.0 dev.cmcm.com
@@ -4211,6 +4236,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 ecomnia.com
 0.0.0.0 ecxgfgas.com
+0.0.0.0 eduu.hopto.org
+0.0.0.0 eduu.redirectme.net
 0.0.0.0 edduyz.salestraining.com
 0.0.0.0 edduyz.salestraining.eu
 0.0.0.0 edduyz.salestraining.eu.com
