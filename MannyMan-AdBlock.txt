@@ -10074,7 +10074,9 @@ vaughnlive.tv##.abvsDynamic
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
 # ______________________________
-# ||ads.example.com^ @@ads.example.com^
+#
+# (AdBlock/AdBlockPlus & compatible Ad Blockers syntax) •• For blocking = ||ads.example.com^  // For Exceptions (whitelisting) = @@ads.example.com^
+#
 # ◑ ---- Twitch TV / Prevents streamer channel extensions, CheerBits animations & stream player from causing loading errors. Updated as needed. ---- ◑
 ||api.viewerattack.com^
 ||coordinator.ext-twitch.tv^
