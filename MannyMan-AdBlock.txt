@@ -6,8 +6,8 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 04/17/25
-# |  •  TIME: 2:29PM CST, 14:29PM || UTC-6
+# |  •  UPDATED: 04/18/25
+# |  •  TIME: 7:37PM CST, 19:37PM || UTC-6
 # |  •  SIZE: 260KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
@@ -128,6 +128,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.twitch.tv
 0.0.0.0 ads.twitchcdn.net
 0.0.0.0 adserver.com
+0.0.0.0 adstwitch.net
 0.0.0.0 adsystem.cloudfront.net
 0.0.0.0 adsystem.ttvnw.net
 0.0.0.0 adsystem.twitch.tv
@@ -229,6 +230,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracks.twitch.tv
 0.0.0.0 tracks.twitchcdn.net
 0.0.0.0 tungsten-service.prod.na.adsqtungsten.a9.amazon.dev
+0.0.0.0 twitchads.net
 0.0.0.0 twitchadvertising.tv
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 ul.api.c0nnectthed0ts.com
@@ -306,6 +308,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .amberalert
 0.0.0.0 .amor
 0.0.0.0 .amour
+0.0.0.0 .animalabuse
 0.0.0.0 .answer
 0.0.0.0 .answered
 0.0.0.0 .antivirus
@@ -313,6 +316,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .askbar
 0.0.0.0 .attack
 0.0.0.0 .audio
+0.0.0.0 .aunt
+0.0.0.0 .auntie
 0.0.0.0 .badass
 0.0.0.0 .badazz
 0.0.0.0 .bait
@@ -324,7 +329,11 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .bbw
 0.0.0.0 .beta
 0.0.0.0 .bi
+0.0.0.0 .bilingual
+0.0.0.0 .black
+0.0.0.0 .blacks
 0.0.0.0 .blackmarket
+0.0.0.0 .blackpower
 0.0.0.0 .blob
 0.0.0.0 .blow
 0.0.0.0 .bomb
@@ -354,7 +363,14 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .checkip
 0.0.0.0 .checkmyip
 0.0.0.0 .checkout
+0.0.0.0 .child
+0.0.0.0 .childabuse
+0.0.0.0 .childporn
+0.0.0.0 .childpornography
+0.0.0.0 .childpredator
 0.0.0.0 .children
+0.0.0.0 .chink
+0.0.0.0 .chinks
 0.0.0.0 .click
 0.0.0.0 .clicked
 0.0.0.0 .clicker
@@ -375,6 +391,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .cool
 0.0.0.0 .copy
 0.0.0.0 .countdown
+0.0.0.0 .cousin
 0.0.0.0 .create
 0.0.0.0 .creates
 0.0.0.0 .creating
@@ -384,6 +401,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .crush
 0.0.0.0 .customersupport
 0.0.0.0 .cut
+0.0.0.0 .dad
+0.0.0.0 .daddy
 0.0.0.0 .dark
 0.0.0.0 .darkweb
 0.0.0.0 .data
@@ -396,6 +415,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .demon
 0.0.0.0 .deployment
 0.0.0.0 .deploy
+0.0.0.0 .deportation
+0.0.0.0 .deport
 0.0.0.0 .destroy
 0.0.0.0 .destroyed
 0.0.0.0 .destroyer
@@ -458,6 +479,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .gateway
 0.0.0.0 .gay
 0.0.0.0 .girls
+0.0.0.0 .grandma
+0.0.0.0 .granny
 0.0.0.0 .harass
 0.0.0.0 .hardware
 0.0.0.0 .hate
@@ -465,6 +488,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .hit
 0.0.0.0 .horny
 0.0.0.0 .hover
+0.0.0.0 .ice
 0.0.0.0 .idconfirmation
 0.0.0.0 .identifier
 0.0.0.0 .idverification
@@ -474,6 +498,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .immigration
 0.0.0.0 .in
 0.0.0.0 .inbox
+0.0.0.0 .incest
 0.0.0.0 .incoming
 0.0.0.0 .install
 0.0.0.0 .installed
@@ -528,11 +553,15 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .media
 0.0.0.0 .memory
 0.0.0.0 .metrics
+0.0.0.0 .mimaw
 0.0.0.0 .mimic
 0.0.0.0 .mktg
 0.0.0.0 .mms
 0.0.0.0 .mobilemessage
 0.0.0.0 .molest
+0.0.0.0 .mom
+0.0.0.0 .monkeys
+0.0.0.0 .monkey
 0.0.0.0 .monster
 0.0.0.0 .move
 0.0.0.0 .multitab
@@ -549,6 +578,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .newemail
 0.0.0.0 .newmessage
 0.0.0.0 .nigger
+0.0.0.0 .niggers
 0.0.0.0 .notified
 0.0.0.0 .notifier
 0.0.0.0 .notify
@@ -570,7 +600,13 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .paste
 0.0.0.0 .pause
 0.0.0.0 .pawg
+0.0.0.0 .pccheck
+0.0.0.0 .pcscan
+0.0.0.0 .pedobear
 0.0.0.0 .pedo
+0.0.0.0 .pedophile
+0.0.0.0 .pedophiles
+0.0.0.0 .pedophilia
 0.0.0.0 .permit
 0.0.0.0 .phoneconfirmation
 0.0.0.0 .phoneverification
@@ -578,6 +614,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .play
 0.0.0.0 .popup
 0.0.0.0 .porn
+0.0.0.0 .porno
 0.0.0.0 .prayer
 0.0.0.0 .pray
 0.0.0.0 .prejudice
@@ -637,6 +674,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .router
 0.0.0.0 .run
 0.0.0.0 .sale
+0.0.0.0 .sandnigger
+0.0.0.0 .sandniggers
 0.0.0.0 .satan
 0.0.0.0 .save
 0.0.0.0 .savemyinfo
@@ -653,6 +692,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .serve
 0.0.0.0 .server
 0.0.0.0 .sex
+0.0.0.0 .sexoffender
+0.0.0.0 .sexoffenders
 0.0.0.0 .sh
 0.0.0.0 .shipment
 0.0.0.0 .ship
@@ -662,7 +703,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .showed
 0.0.0.0 .showing
 0.0.0.0 .signin
+0.0.0.0 .sister
 0.0.0.0 .skinhead
+0.0.0.0 .skinheads
 0.0.0.0 .slap
 0.0.0.0 .sleep
 0.0.0.0 .sleeper
@@ -676,6 +719,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .software
 0.0.0.0 .spam
 0.0.0.0 .spank
+0.0.0.0 .spick
+0.0.0.0 .spicks
 0.0.0.0 .srch
 0.0.0.0 .srchbar
 0.0.0.0 .srchbr
@@ -689,6 +734,12 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .suck
 0.0.0.0 .suffer
 0.0.0.0 .suffocate
+0.0.0.0 .suga
+0.0.0.0 .sugadaddy
+0.0.0.0 .sugamomma
+0.0.0.0 .sugar
+0.0.0.0 .sugardaddy
+0.0.0.0 .sugarmomma
 0.0.0.0 .swap
 0.0.0.0 .swat
 0.0.0.0 .swats
@@ -715,6 +766,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .toll
 0.0.0.0 .tollpay
 0.0.0.0 .top
+0.0.0.0 .tourist
+0.0.0.0 .tour
+0.0.0.0 .tours
 0.0.0.0 .track
 0.0.0.0 .track.js
 0.0.0.0 .tracked
@@ -726,6 +780,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .trade
 0.0.0.0 .transfer
 0.0.0.0 .trk
+0.0.0.0 .trump
 0.0.0.0 .truth
 0.0.0.0 .try
 0.0.0.0 .tubular
@@ -742,6 +797,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .viewed
 0.0.0.0 .viewer
 0.0.0.0 .viewing
+0.0.0.0 .viral
+0.0.0.0 .viril
 0.0.0.0 .visa
 0.0.0.0 .volumefull
 0.0.0.0 .volumemax
@@ -763,6 +820,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .webview
 0.0.0.0 .wetback
 0.0.0.0 .wetbacks
+0.0.0.0 .white
+0.0.0.0 .whitepower
 0.0.0.0 .widget
 0.0.0.0 .wipe
 0.0.0.0 .wiped
@@ -772,6 +831,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .xex
 0.0.0.0 .xxx
 0.0.0.0 .xyz
+0.0.0.0 .yellows
+0.0.0.0 .yellow
 0.0.0.0 .yourip
 0.0.0.0 ww.*.app
 0.0.0.0 ww.*.biz
@@ -1235,6 +1296,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 abtest.swrve.com
 0.0.0.0 academiademasaj.ro
 0.0.0.0 accentstudio.co.uk
+0.0.0.0 acceptibiotic.com
 0.0.0.0 accessoriesformri.com
 0.0.0.0 accguitar.com
 0.0.0.0 accionmasvida.com.ar
@@ -1373,6 +1435,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ad6media.fr
 0.0.0.0 adadvisor.net
 0.0.0.0 adagioduo.net
+0.0.0.0 adaid.com
+0.0.0.0 adaide.com
 0.0.0.0 adairhomesyakima.com
 0.0.0.0 adamnet.works
 0.0.0.0 adamsmethod.com
@@ -1384,13 +1448,17 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adashx.ut.alibaba.com
 0.0.0.0 adashx4ae.ut.taobao.com
+0.0.0.0 adassistant.com
 0.0.0.0 adatepekarot.com
+0.0.0.0 adattorney.com
 0.0.0.0 adballoon.sooplive.co.kr
 0.0.0.0 adbeat.com
 0.0.0.0 adbert.com
 0.0.0.0 adbert.com.tw
 0.0.0.0 adbert.tw
+0.0.0.0 adbiotic.com
 0.0.0.0 adblade.com
+0.0.0.0 adboss.com
 0.0.0.0 adbrain.com
 0.0.0.0 adbreak.cubecdn.net
 0.0.0.0 adbrite.com
@@ -1417,6 +1485,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 add-aware.com
 0.0.0.0 addapptr.com
 0.0.0.0 addata.mediacategory.com
+0.0.0.0 addemon.com
 0.0.0.0 addiafortcnewtionhcmai.com
 0.0.0.0 addictivetechnologies.net
 0.0.0.0 addrevenue.io
@@ -1457,9 +1526,16 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 adg.kajicam.com
 0.0.0.0 adgear.com
 0.0.0.0 adglare.com
+0.0.0.0 adgod.com
 0.0.0.0 adgrx.com
+0.0.0.0 adguru.com
+0.0.0.0 adhaven.com
 0.0.0.0 adhd-solutions-now.live
 0.0.0.0 adhdtraveler.com
+0.0.0.0 adheaven.com
+0.0.0.0 adhell.com
+0.0.0.0 adhelper.com
+0.0.0.0 adhero.com
 0.0.0.0 adhese.com
 0.0.0.0 adhitzads.com
 0.0.0.0 adhood.com
@@ -1472,14 +1548,17 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 aditmedia.go2affise.com
 0.0.0.0 aditude.com
 0.0.0.0 adj.st
+0.0.0.0 adjudge.com
 0.0.0.0 adjug.com
 0.0.0.0 adjust.com
 0.0.0.0 adkernel.com
+0.0.0.0 adkingdom.com
 0.0.0.0 adkinnovations.com
 0.0.0.0 adkmob.com
 0.0.0.0 adkmob.jp
 0.0.0.0 adkwai.com
 0.0.0.0 adlandpro.com
+0.0.0.0 adlawyer.com
 0.0.0.0 adleads.com
 0.0.0.0 adlibr.com
 0.0.0.0 adlisa.com
@@ -1520,6 +1599,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 adonly.com
 0.0.0.0 adoperator.com
 0.0.0.0 adotmob.com
+0.0.0.0 adparadise.com
 0.0.0.0 adpepper.dk
 0.0.0.0 adpepper.nl
 0.0.0.0 adperium.com
@@ -1995,7 +2075,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 adsmrapi.imbc.com
 0.0.0.0 adsnight.com
 0.0.0.0 adsniper.ru
+0.0.0.0 adspace.com
 0.0.0.0 adspaces.ero-advertising.com
+0.0.0.0 adspammer.com
+0.0.0.0 adspecialist.com
 0.0.0.0 adspeed.com
 0.0.0.0 adspirit.com
 0.0.0.0 adsports.com
@@ -2022,6 +2105,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 adtech.com
 0.0.0.0 adtech.de
 0.0.0.0 adtech.yahooinc.com
+0.0.0.0 adtechnician.com
 0.0.0.0 adteknology.com
 0.0.0.0 adtelligent.com
 0.0.0.0 adtilt.com
@@ -2129,6 +2213,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 adwaretools.com
 0.0.0.0 adwarexeliminator.com
 0.0.0.0 adwarexterminator.com
+0.0.0.0 adwizard.com
 0.0.0.0 adwokatlodz.club
 0.0.0.0 adx-dre.op.hicloud.com
 0.0.0.0 adx-in.ads.heytapmobile.com
@@ -2225,7 +2310,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 alanlindsay.net
 0.0.0.0 alarm.falcon.ksmobile.net
 0.0.0.0 alarmanlage-hannover.de
+0.0.0.0 alburyaccounting.au
 0.0.0.0 alburyaccounting.com.au
+0.0.0.0 alburyaccounting.com
+0.0.0.0 alcobenigma.us.com
 0.0.0.0 alertspy.com
 0.0.0.0 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 0.0.0.0 alexandria.marfeelcdn.com
@@ -2240,6 +2328,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 allfilesdownload.us
 0.0.0.0 alliancrhub.com
 0.0.0.0 allinclusivevacationsfan.com
+0.0.0.0 allowingen.in
+0.0.0.0 allowingen.in.net
+0.0.0.0 allowingen.net
 0.0.0.0 alloutads.com
 0.0.0.0 allume.com
 0.0.0.0 alog.umeng.co
@@ -2900,6 +2991,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 beacon.statful.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.mediamelon.com
+0.0.0.0 beahan.verkelet.com
 0.0.0.0 beam.mjhlifesciences.com
 0.0.0.0 beamanalytics.b-cdn.net
 0.0.0.0 beckercad.com
@@ -3045,6 +3137,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 bqormp.flashoffers.it.com
 0.0.0.0 bqqnngtpc.com
 0.0.0.0 brahe.apptimize.com
+0.0.0.0 brakus.requiremely.org
 0.0.0.0 branch.io
 0.0.0.0 brandbassador.com
 0.0.0.0 brandnexus.com
@@ -4569,6 +4662,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 fingerprinter-production.herokuapp.com
 0.0.0.0 fiona-s.net
 0.0.0.0 fioressence.com
+0.0.0.0 fir.alcobenigma.us.com
 0.0.0.0 firebase.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
@@ -4915,6 +5009,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 googele.com
 0.0.0.0 googie-anaiytics.com
 0.0.0.0 google-analytics.com
+0.0.0.0 google.bavarsi.com.de
 0.0.0.0 google.bavarsi.com.de//redirect.html
 0.0.0.0 google.kircherally.gr.com//redirect.html
 0.0.0.0 google.sylhcw.com//redirect.html
@@ -5337,6 +5432,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 indigocard.com
 0.0.0.0 indoleads.com
 0.0.0.0 indonesia-holiday.com
+0.0.0.0 inferench.de
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 info.analytics-iq.com
 0.0.0.0 info.compulse.com
@@ -5546,6 +5642,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 jjpnveujkk.com
 0.0.0.0 jjpp.lmtjapi.com
 0.0.0.0 jk.biggerated.de.com
+0.0.0.0 jk.socialxusa.com
 0.0.0.0 jk.sufferent.net
 0.0.0.0 jk.totoferrari.com
 0.0.0.0 jkjcoyeeglunz.com
@@ -5560,6 +5657,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 jnrvjpsltf.com
 0.0.0.0 jobsinvestments.com
 0.0.0.0 johncharcol.com
+0.0.0.0 johns.tourpol.com
 0.0.0.0 joi.com
 0.0.0.0 joingekko.com
 0.0.0.0 joinmy.site
@@ -5766,6 +5864,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 leancoding.co
 0.0.0.0 leanplum.com
 0.0.0.0 leaveoperaing.world
+0.0.0.0 ledner.commerculation.com
 0.0.0.0 legalbarcode.com
 0.0.0.0 legendturk.shop
 0.0.0.0 legrouperiendeau.com
@@ -6613,6 +6712,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 nubilespics.com
 0.0.0.0 nulwhbbyfdxy.com
 0.0.0.0 numbers.md
+0.0.0.0 nutriwellcoaching.com
 0.0.0.0 nutscdn.com
 0.0.0.0 nvcwpexqk.com
 0.0.0.0 nvdljujp.com
@@ -7337,6 +7437,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 rasenalong.com
 0.0.0.0 raspiadkwcecz.com
 0.0.0.0 ratespywareremovers.com
+0.0.0.0 rau.requiremely.org
 0.0.0.0 rawactf.xyz
 0.0.0.0 rayem.com
 0.0.0.0 rayem.shop
@@ -7440,6 +7541,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 req.startappservice.com
 0.0.0.0 reqde.sooplive.co.kr
+0.0.0.0 requiremely.org
 0.0.0.0 res-smartd.info
 0.0.0.0 res.rbl.ms
 0.0.0.0 res1.applovin.com
@@ -7561,6 +7663,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 rum.perfops.net
 0.0.0.0 rum.uptime.com
 0.0.0.0 rumstat.cdnvideo.ru
+0.0.0.0 runads.com
 0.0.0.0 runikeipajpsales.party
 0.0.0.0 rusenov.com
 0.0.0.0 rusreise.com
@@ -7628,6 +7731,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 safer-networking.com
 0.0.0.0 safespy.net
 0.0.0.0 safewebsurfer.com
+0.0.0.0 safr.hopto.org
 0.0.0.0 saishonubu.net
 0.0.0.0 sal.gslb.topgslb.com
 0.0.0.0 salegains.com
@@ -7936,6 +8040,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 soc.cmcm.com
 0.0.0.0 socalledthosecare.pro
 0.0.0.0 socdm.com
+0.0.0.0 socialxusa.com
 0.0.0.0 soda.startappservice.com
 0.0.0.0 softperts.com
 0.0.0.0 softsky.com.ua
@@ -8379,6 +8484,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 sufferent.net
 0.0.0.0 sufzmohljbgw.com
 0.0.0.0 sugma.mom
+0.0.0.0 sum.acceptibiotic.com
 0.0.0.0 sumatoad.com
 0.0.0.0 sunbeach.fr
 0.0.0.0 sungokong.my.id
@@ -8770,12 +8876,14 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 topstreaming.us
 0.0.0.0 toptenreviews.com
 0.0.0.0 torials.com
+0.0.0.0 tortdefenders.com
 0.0.0.0 totalav.app
 0.0.0.0 totalav.com
 0.0.0.0 totalav.io
 0.0.0.0 totalpad.com
 0.0.0.0 totoferrari.com
 0.0.0.0 toupai.cmcm.com
+0.0.0.0 tourpol.com
 0.0.0.0 townsquaremediastats.com
 0.0.0.0 tp2p.kg.qq.com
 0.0.0.0 tpbid.com
@@ -9044,6 +9152,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 trc.taboola.com
 0.0.0.0 trckr.contextualadv.com
 0.0.0.0 trclfonj.com
+0.0.0.0 tremblay.requiremely.org
 0.0.0.0 trendcraftleather.com
 0.0.0.0 trends.newsmaxwidget.com
 0.0.0.0 tribedone.org
@@ -9096,6 +9205,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 try.neglectrum.com
 0.0.0.0 try.wurl.com
 0.0.0.0 tryteens.com
+0.0.0.0 tryvigosurge.com
 0.0.0.0 ts.line-apps.com
 0.0.0.0 ts.tradetracker.net
 0.0.0.0 ts3free.top
@@ -9253,6 +9363,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 us-east-1.paa-reporting-advertising.amazon
 0.0.0.0 us-events.api.iheart.com
 0.0.0.0 us-tracking.nextdoor.com
+0.0.0.0 us.com
 0.0.0.0 us.st.dp.ksmobile.com
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 usa.cmcm.com
@@ -9380,8 +9491,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 viphackforum.xyz
 0.0.0.0 viphackforums.xyz
 0.0.0.0 vipicmou.net
+0.0.0.0 viral.com
 0.0.0.0 viral.over-blog.com
 0.0.0.0 viral782.com
+0.0.0.0 virilwood.com
 0.0.0.0 virtualbouncer.com
 0.0.0.0 virusblast.com
 0.0.0.0 virusburst.com
@@ -9508,6 +9621,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 webbug.seatreport.com
 0.0.0.0 webepartners.com
 0.0.0.0 webgains.com
+0.0.0.0 webhosting-providers.com
 0.0.0.0 webmetrics.mayoclinic.org
 0.0.0.0 weborama.com
 0.0.0.0 webpanel.space
@@ -9534,6 +9648,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 weftybaggage.top
 0.0.0.0 weightedcu.be
 0.0.0.0 weightlosstipsforyou.net
+0.0.0.0 weissnat.nutriwellcoaching.com
 0.0.0.0 weknow.ac
 0.0.0.0 welcometowink.com
 0.0.0.0 west.bidtellect.com
@@ -9569,6 +9684,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 wildlink.me
 0.0.0.0 wilkoclosing.com
 0.0.0.0 williepickensjazz.com
+0.0.0.0 willms.allowingen.in.net
 0.0.0.0 win.staticstuff.net
 0.0.0.0 winantispy.com
 0.0.0.0 winantispyware.com
