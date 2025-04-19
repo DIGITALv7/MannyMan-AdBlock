@@ -4107,6 +4107,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 di2xwvxz1jrvu.cloudfront.net
 0.0.0.0 diagnose.igstatic.com
 0.0.0.0 dianomi.com
+0.0.0.0 dianping.com
 0.0.0.0 diaremover.com
 0.0.0.0 dict.ksmobile.net
 0.0.0.0 did.li
@@ -6292,6 +6293,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 message-hub-svc.usw2.cordial.com
 0.0.0.0 message.cmcm.com
 0.0.0.0 metamx.com
+0.0.0.0 meteotrend.com
 0.0.0.0 metok.sys.miui.com
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
