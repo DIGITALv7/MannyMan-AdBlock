@@ -6,7 +6,7 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 04/18/25
+# |  •  UPDATED: 04/19/25
 # |  •  TIME: 7:37PM CST, 19:37PM || UTC-6
 # |  •  SIZE: 263KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
@@ -423,6 +423,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .destroyed
 0.0.0.0 .destroyer
 0.0.0.0 .destroying
+0.0.0.0 .detect
 0.0.0.0 .devicemessage
 0.0.0.0 .devil
 0.0.0.0 .die
@@ -502,6 +503,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .inbox
 0.0.0.0 .incest
 0.0.0.0 .incoming
+0.0.0.0 .ink
 0.0.0.0 .install
 0.0.0.0 .installed
 0.0.0.0 .installer
@@ -3801,6 +3803,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 crosspromo.voodoo.io
 0.0.0.0 crosspromotion-us.avosapps.us
 0.0.0.0 crosspromotion.weplayer.cc
+0.0.0.0 crowdfunding.ink
 0.0.0.0 crowningmomentsdoula.com
 0.0.0.0 crphone.mireene.com
 0.0.0.0 crs-event.line.me
@@ -4545,6 +4548,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 events.tryamped.com
 0.0.0.0 events.tubecup.org
 0.0.0.0 events.tvtime.com
+0.0.0.0 events.ub-analytics.com
 0.0.0.0 events.ubembed.com
 0.0.0.0 events.watchtower.imdbtv.amazon.dev
 0.0.0.0 events.whisk.com
@@ -5406,6 +5410,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 immediate-session-now-high.top
 0.0.0.0 immediateimpropernetworkscanner.top
 0.0.0.0 immeritousscraichingtarumari.monster
+0.0.0.0 immunityboost.com
+0.0.0.0 immunityboost.de
+0.0.0.0 immunityboost.de.com
 0.0.0.0 imp.pvnsolutions.com
 0.0.0.0 imp.startappservice.com
 0.0.0.0 impact.com
@@ -6544,6 +6551,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 mynetprotector.com
 0.0.0.0 mynews-line.com
 0.0.0.0 myntagency.com
+0.0.0.0 myonedayfatremoval.com
 0.0.0.0 myorange.co
 0.0.0.0 myown42.com
 0.0.0.0 mypic.icu
