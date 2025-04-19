@@ -10074,8 +10074,15 @@ vaughnlive.tv##.abvsDynamic
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
 # ______________________________
-#
+# ||ads.example.com^ @@ads.example.com^
 # ◑ ---- Twitch TV / Prevents streamer channel extensions, CheerBits animations & stream player from causing loading errors. Updated as needed. ---- ◑
+||api.viewerattack.com^
+||coordinator.ext-twitch.tv^
+||d3aqoihi2n8ty8.cloudfront.net^
+||extension.streamstickers.com^
+||functions.soundalerts.com^
+||supervisor.ext-twitch.tv^
+||usw23.playlist.ttvnw.net^
 api.viewerattack.com
 coordinator.ext-twitch.tv
 d3aqoihi2n8ty8.cloudfront.net
@@ -10084,11 +10091,16 @@ functions.soundalerts.com
 supervisor.ext-twitch.tv
 usw23.playlist.ttvnw.net
 # ---- Prize Picks (browser version) ----
+||app.prizepicks.com/promotions^
+||prizepicks.com^
+||app.prizepicks.com^
+||auth.split.io^
 app.prizepicks.com/promotions
 prizepicks.com
 app.prizepicks.com
 auth.split.io
 # ---- Reddit ----
+||i.reddit.com^
 i.reddit.com
 #
 # ------ [ < FILTERS END > ] ------
