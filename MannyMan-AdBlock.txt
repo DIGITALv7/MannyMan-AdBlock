@@ -7,7 +7,7 @@
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
 # |  •  UPDATED: 04/19/25
-# |  •  TIME: 6:47PM CST, 18:47PM || UTC-6
+# |  •  TIME: 8:57PM CST, 20:57PM || UTC-6
 # |  •  SIZE: 263KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
@@ -382,6 +382,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .clipboard
 0.0.0.0 .cloak
 0.0.0.0 .close
+0.0.0.0 .club
+0.0.0.0 .clubs
 0.0.0.0 .coinmine
 0.0.0.0 .coinminer
 0.0.0.0 .connect
@@ -401,6 +403,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .creditcard
 0.0.0.0 .creditscore
 0.0.0.0 .crush
+0.0.0.0 .cults
+0.0.0.0 .cult
 0.0.0.0 .customersupport
 0.0.0.0 .cut
 0.0.0.0 .dad
@@ -533,18 +537,24 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .kink
 0.0.0.0 .kinks
 0.0.0.0 .kinky
+0.0.0.0 .land
+0.0.0.0 .landed
+0.0.0.0 .landing
 0.0.0.0 .lease
 0.0.0.0 .li
 0.0.0.0 .lie
 0.0.0.0 .login
 0.0.0.0 .loginsecure
 0.0.0.0 .loginsecurity
+0.0.0.0 .lol
 0.0.0.0 .look
 0.0.0.0 .looked
 0.0.0.0 .looking
 0.0.0.0 .loud
 0.0.0.0 .love
 0.0.0.0 .lucifer
+0.0.0.0 .lul
+0.0.0.0 .lulz
 0.0.0.0 .ly
 0.0.0.0 .make
 0.0.0.0 .manipulate
@@ -687,6 +697,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 .scanip
 0.0.0.0 .scanmyip
 0.0.0.0 .scan
+0.0.0.0 .scanner
+0.0.0.0 .scanning
+0.0.0.0 .scans
 0.0.0.0 .scientology
 0.0.0.0 .sdcard
 0.0.0.0 .sdk
@@ -1114,10 +1127,12 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 2.socalledthosecare.pro
 0.0.0.0 2.theverdictyield.pro
 0.0.0.0 2004spywareremovers.com
+0.0.0.0 2025freescores.com
 0.0.0.0 20gbfree.club
 0.0.0.0 21w1mj0pk2ihn9f3zl4.471zpwcngact2x6d2ib.com.ve
 0.0.0.0 2222yo.com
 0.0.0.0 24-ads.com
+0.0.0.0 24gear.net
 0.0.0.0 247realmedia.com
 0.0.0.0 266-334-951.21w1mj0pk2ihn9f3zl4.471zpwcngact2x6d2ib.com.ve
 0.0.0.0 2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za
@@ -1292,6 +1307,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 about.ads.microsoft.com
 0.0.0.0 aboutads.com
 0.0.0.0 aboutblankremover.com
+0.0.0.0 abouttpl.com
 0.0.0.0 abrahackbugs.xyz
 0.0.0.0 abroad-ad.kingsoft-office-service.com
 0.0.0.0 absvau.top
@@ -2287,6 +2303,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ahoy-internal-ads-hv.b-cdn.net
 0.0.0.0 ahref.tech
 0.0.0.0 ahstrelgnh.com
+0.0.0.0 aikistant.com
+0.0.0.0 aikistant.com.de
+0.0.0.0 aikistant.de
 0.0.0.0 ailalbapt.club
 0.0.0.0 airad.com
 0.0.0.0 airbenzagore.uk
@@ -2317,6 +2336,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 alburyaccounting.au
 0.0.0.0 alburyaccounting.com.au
 0.0.0.0 alburyaccounting.com
+0.0.0.0 alcobenigma.com
+0.0.0.0 alcobenigma.us
 0.0.0.0 alcobenigma.us.com
 0.0.0.0 alertspy.com
 0.0.0.0 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
@@ -2812,6 +2833,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 arfttojxv.com
 0.0.0.0 argos.citruserve.com
 0.0.0.0 ariane.abtasty.com
+0.0.0.0 aryanbrotberhood.com
+0.0.0.0 aryans.com
 0.0.0.0 armor2net.com
 0.0.0.0 armyproxy.com
 0.0.0.0 arnaell.com
@@ -2898,6 +2921,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 axislogger.appspot.com
 0.0.0.0 axonix.com
 0.0.0.0 axtel.net
+0.0.0.0 ayav.net
 0.0.0.0 az.nzn.io
 0.0.0.0 az43064.vo.msecnd.net
 0.0.0.0 az693360.vo.msecnd.net
@@ -2943,6 +2967,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 barn-tv.se
 0.0.0.0 base.cmcm.com
 0.0.0.0 basebastoning.de
+0.0.0.0 basketballcourt.com
+0.0.0.0 basketballcourt.eu
+0.0.0.0 basketballcourt.eu.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bat.bing.net
 0.0.0.0 bathtub.pics
@@ -3201,6 +3228,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 businessupdates.com
 0.0.0.0 businessupdates.eu
 0.0.0.0 buyerforge.com
+0.0.0.0 buygoods.com
 0.0.0.0 buymeacoffee.com
 0.0.0.0 buymedia.biz
 0.0.0.0 buymusclemorexl.com
@@ -3284,6 +3312,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 carolinadriftingsams.com
 0.0.0.0 carolrutgersrealestate.com
 0.0.0.0 carpowersteeringpumps.site
+0.0.0.0 carshieldprotection.com
 0.0.0.0 carsonstreeservices.com
 0.0.0.0 cartionel.club
 0.0.0.0 cartouchespourfondationdesbrules.be
@@ -3427,6 +3456,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 cheapcinema.club
 0.0.0.0 cheapdomains.science
 0.0.0.0 cheapecomm.net
+0.0.0.0 cheaphostsforall.com
 0.0.0.0 check-tcp.rayjump.com
 0.0.0.0 check.rayjump.com
 0.0.0.0 checkflow.com
@@ -3698,6 +3728,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 configure-tcp.rayjump.com
 0.0.0.0 configv2.unityads.unity3d.com
 0.0.0.0 configv2.unityads.unitychina.cn
+0.0.0.0 conn.ayav.net
 0.0.0.0 connect.idocdn.com
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 connext-cdn.azureedge.net
@@ -4374,12 +4405,14 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 eklrohpahufy.com
 0.0.0.0 eksi.firebaseio.com
 0.0.0.0 elanatality.info
+0.0.0.0 elections.com
 0.0.0.0 electroweb.be
 0.0.0.0 elephantdata.net
 0.0.0.0 elevationb2b.com
 0.0.0.0 elincha.com
 0.0.0.0 elitepracticetraining.com
 0.0.0.0 elmfnadgg.com
+0.0.0.0 elonmusk.com
 0.0.0.0 elperiodicodecuba.com
 0.0.0.0 elqsjecdav.com
 0.0.0.0 eltrafiko.com
@@ -4397,6 +4430,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 enbvylulfg.com
 0.0.0.0 encogcfklrcpqw.com
 0.0.0.0 enemiere.com
+0.0.0.0 energybillcalculator.com
 0.0.0.0 engagemarketing.com
 0.0.0.0 engine.fyber.com
 0.0.0.0 engine.mobileapptracking.com
@@ -4676,6 +4710,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 first.eshkol.one
 0.0.0.0 firstpage.kingsoft-office-service.com
 0.0.0.0 firstpremierhomewarranty.com
+0.0.0.0 firstrewardart.com
 0.0.0.0 fitnessandhealthtactics.com
 0.0.0.0 fitnessnutritionals.com
 0.0.0.0 fixerantispy.com
@@ -4779,6 +4814,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 freepornphotos.club
 0.0.0.0 freereadings.org
 0.0.0.0 freeresultsguide.com
+0.0.0.0 freescores.com
+0.0.0.0 freestyle.boats
 0.0.0.0 freewheel.tv
 0.0.0.0 freeze.com
 0.0.0.0 frequentjam.com
@@ -4931,6 +4968,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 getclicky.com
 0.0.0.0 getdailyprosper.com
 0.0.0.0 getforhealth.store
+0.0.0.0 getneuroquiet.com
 0.0.0.0 getpublica.com
 0.0.0.0 getrecharge.com
 0.0.0.0 getrunkhomuto.info
@@ -5165,6 +5203,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 healthtrader.com
 0.0.0.0 healthybodynow.net
 0.0.0.0 healthycomputerclub.com
+0.0.0.0 hear.oriclehearing.com
 0.0.0.0 heartbeatsconsulting.com
 0.0.0.0 heathlylifestyleguide.com
 0.0.0.0 hehraybryciyls.com
@@ -5426,6 +5465,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 impression-east.liftoff.io
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 impression.link
+0.0.0.0 improper-session-immediate-now.top
 0.0.0.0 immqgt.salesbonanza.it.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 in.cuebiq.com
@@ -5810,6 +5850,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ktteklov.com
 0.0.0.0 kueezrtb.com
 0.0.0.0 kueimatyr.com
+0.0.0.0 kukluxklan.com
 0.0.0.0 kulapartners.com
 0.0.0.0 kutjilsi.com
 0.0.0.0 kutlvuitevgw.com
@@ -5877,6 +5918,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ledner.commerculation.com
 0.0.0.0 legalbarcode.com
 0.0.0.0 legendturk.shop
+0.0.0.0 legislanding.com
 0.0.0.0 legrouperiendeau.com
 0.0.0.0 leiarimet.com
 0.0.0.0 lemagfemmes.com
@@ -6494,6 +6536,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 msk.apypxl.com
 0.0.0.0 mssdk-boot.cpacutapi.com
 0.0.0.0 mssdk-va.byteoversea.com
+0.0.0.0 mta03.alcobenigma.com
+0.0.0.0 mta03.alcobenigma.us
+0.0.0.0 mta03.alcobenigma.us.com
+0.0.0.0 mta04.acceptibiotic.com
 0.0.0.0 mt.rtmark.net
 0.0.0.0 mtag.mman.kr
 0.0.0.0 mtbadedrhcx.bid
@@ -6858,7 +6904,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 oreware.com
 0.0.0.0 orgsite.info
 0.0.0.0 orgttpvpglshap.com
+0.0.0.0 oriclehearing.com
 0.0.0.0 originalicons.com
+0.0.0.0 originationinsite.com
 0.0.0.0 os.scmpacdn.com
 0.0.0.0 osb-ussvc.samsungqbe.com
 0.0.0.0 osdiqyuesejd.com
@@ -7209,6 +7257,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 preview-collector.scopely.io
 0.0.0.0 prf.vagnt.com
 0.0.0.0 prg.smartadserver.com
+0.0.0.0 primalgrowpro.com
+0.0.0.0 primalgrowpro101.com
 0.0.0.0 primarkenfrance.com
 0.0.0.0 primis.tech
 0.0.0.0 princessoflemnos.gr
@@ -7411,6 +7461,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 quickmessage.us
 0.0.0.0 quinstreet.net
 0.0.0.0 quit-smoking-today.info
+0.0.0.0 quote.serviceplus.com
 0.0.0.0 qvmnebsl.top
 0.0.0.0 qvmnebsl.top/us
 0.0.0.0 qwvajuyccl.com
@@ -7484,6 +7535,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 receiver.habby.mobi
 0.0.0.0 recommend.apk.v-mate.mobi
 0.0.0.0 recommend.liveme.cmcm.com
+0.0.0.0 recommendednowdetectedadvanced.top
 0.0.0.0 recommendedservicesessiontop.top
 0.0.0.0 record.revenuenetwork.com
 0.0.0.0 recordedthereby.com
@@ -7557,6 +7609,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 res-smartd.info
 0.0.0.0 res.rbl.ms
 0.0.0.0 res1.applovin.com
+0.0.0.0 researchaeopted.lol
 0.0.0.0 resilience.bantinues.org
 0.0.0.0 resolver.gslb.mi-idc.com
 0.0.0.0 responder.wt-safetag.com
@@ -7595,6 +7648,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 richads.com
 0.0.0.0 richlifeads.ru
 0.0.0.0 richpays.com
+0.0.0.0 riggedelections.com
 0.0.0.0 rikiki.net
 0.0.0.0 ritymusccs.com
 0.0.0.0 rizalsoftware.com
@@ -7805,6 +7859,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 scanandrepair.com
 0.0.0.0 scanner.altmaster.net
 0.0.0.0 scanner.cmcm.com
+0.0.0.0 scanneractivitiessoftware.top
 0.0.0.0 scfkfridulshkd.com
 0.0.0.0 scfmfurls.shop
 0.0.0.0 schaudt.eu
@@ -7906,6 +7961,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 service.trustpid.com
 0.0.0.0 servicelamb.com
 0.0.0.0 servicelaptop.eu
+0.0.0.0 serviceplus.com
 0.0.0.0 servicer.adskeeper.com
 0.0.0.0 servicer.mgid.com
 0.0.0.0 serving.pixsense.net
@@ -7996,6 +8052,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 skidpaste.org
 0.0.0.0 skimlinks.com
 0.0.0.0 skin.cmcm.com
+0.0.0.0 skinheads.com
 0.0.0.0 skinhelpsky.pro
 0.0.0.0 skmssc.icu
 0.0.0.0 sknkwpvrkz.com
@@ -8057,6 +8114,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 softperts.com
 0.0.0.0 softsky.com.ua
 0.0.0.0 software4yoursuccess.com
+0.0.0.0 softwareissuehigh.top
 0.0.0.0 softwareoasis.cc
 0.0.0.0 softwareonline.com
 0.0.0.0 softwareprofit.com
@@ -8300,6 +8358,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 starbucksisbadforyou.com
 0.0.0.0 starbucksiswrong.com
 0.0.0.0 stareongroup.com
+0.0.0.0 stark.straygenius.com
 0.0.0.0 stark.timesticedon.com
 0.0.0.0 stark.timesticedon.com/redirect.html
 0.0.0.0 starman.fathomdns.com
@@ -8472,9 +8531,11 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 storesbiz.com
 0.0.0.0 storesbiz4u.com
 0.0.0.0 strackr.com
+0.0.0.0 straticized.club
 0.0.0.0 stratione.info
 0.0.0.0 strawpoll.ga
 0.0.0.0 strawpolll.ga
+0.0.0.0 straygenius.com
 0.0.0.0 stream-log.dditscdn.com
 0.0.0.0 stream.spongead.com
 0.0.0.0 streams.cablecar.sph.com.sg
@@ -9696,7 +9757,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 wildlink.me
 0.0.0.0 wilkoclosing.com
 0.0.0.0 williepickensjazz.com
+0.0.0.0 willms.allowingen.in
 0.0.0.0 willms.allowingen.in.net
+0.0.0.0 willms.allowingen.net
 0.0.0.0 win.staticstuff.net
 0.0.0.0 winantispy.com
 0.0.0.0 winantispyware.com
