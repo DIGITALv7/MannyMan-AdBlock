@@ -179,6 +179,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.ttvnw.net
 0.0.0.0 analytics.twitch.tv
 0.0.0.0 analytics.twitchcdn.net
+0.0.0.0 api.ads.twitchcdn.net
+0.0.0.0 api.ads.ttvnw.net
+0.0.0.0 api.ads.twitch.tv
 0.0.0.0 api.sprig.com
 0.0.0.0 api.twitch.us-east-1.prod.paets.advertising.amazon.dev
 0.0.0.0 api2.branch.io
@@ -2362,6 +2365,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 bakshirostick.com
 0.0.0.0 bakutourism.tk
 0.0.0.0 balcekonspn.com
+0.0.0.0 balmorexpro.com
+0.0.0.0 bam.nr-data.net
 0.0.0.0 bandr.com.ua
 0.0.0.0 bank.reklamstore.com
 0.0.0.0 banner.appsflyer.com
@@ -4168,6 +4173,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 fnrsqrfglixpnt.com
 0.0.0.0 focas.jp
 0.0.0.0 fog.pixual.co
+0.0.0.0 foodblogging.cloud
 0.0.0.0 foogykxlqa.com
 0.0.0.0 foot.wiki
 0.0.0.0 force.cmcm.com
@@ -5121,6 +5127,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 jobsinvestments.com
 0.0.0.0 johncharcol.com
 0.0.0.0 johns.tourpol.com
+0.0.0.0 johnson.requiremely.org
 0.0.0.0 joi.com
 0.0.0.0 joingekko.com
 0.0.0.0 joinmy.site
@@ -5245,6 +5252,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 kntswafuos.com
 0.0.0.0 knullmessengerkvinnor.xyz
 0.0.0.0 kochava.com
+0.0.0.0 koelpin.switchhiker.nl
 0.0.0.0 komoona.com
 0.0.0.0 konbwfktusra.com
 0.0.0.0 kpxbctywsa.com
@@ -5382,6 +5390,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 links.services.disqus.com
 0.0.0.0 links.voyeurweb.com
 0.0.0.0 liofypwnko.com
+0.0.0.0 lipstickshade.com
+0.0.0.0 lipstickshade.us
+0.0.0.0 lipstickshade.us.com
 0.0.0.0 lit.connatix.com
 0.0.0.0 literally-analytics.appspot.com
 0.0.0.0 lithoessa.gr
@@ -5398,6 +5409,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 liveramp.com
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 liveupdt.com
+0.0.0.0 lizbuyshouses.net
 0.0.0.0 lk.ownmyrentals.com
 0.0.0.0 lkddksjgih.com
 0.0.0.0 lkiiwoxjfovcga.com
@@ -6164,6 +6176,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 noxagile.duapp.com
 0.0.0.0 npario-inc.net
 0.0.0.0 npjqjgiskte.com
+0.0.0.0 nr-data.net
 0.0.0.0 nr.bidderstack.com
 0.0.0.0 nr.static.mmcdn.com
 0.0.0.0 nrc.tapas.net
@@ -6737,6 +6750,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 protectorsuite.com
 0.0.0.0 protesidenext.com
 0.0.0.0 proudflex.org
+0.0.0.0 provide-insurance.com
 0.0.0.0 proxy.cmcm.com
 0.0.0.0 proxy.dzeio.com
 0.0.0.0 proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
@@ -8008,6 +8022,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 sweetpacks.com
 0.0.0.0 swelen.com
 0.0.0.0 switchadhub.com
+0.0.0.0 switchhiker.nl
 0.0.0.0 swoop.com
 0.0.0.0 swstkrihg.com
 0.0.0.0 sxrwqytqajwpt.com
@@ -9254,6 +9269,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 wwrpfevyca.com
 0.0.0.0 wwv.trumpmagic.boutique
 0.0.0.0 www-google-analytics.l.google.com
+0.0.0.0 www.crafttraff.com
 0.0.0.0 wwwyoutube.com 
 0.0.0.0 wxapp.cmcm.com
 0.0.0.0 wxbrdppfpr.com
