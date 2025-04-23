@@ -6,7 +6,7 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 04/21/25
+# |  •  UPDATED: 04/23/25
 # |  •  TIME: 8:57PM CST, 20:57PM || UTC-6
 # |  •  SIZE: 256KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
@@ -3567,6 +3567,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 dig.ultimedia.com
 0.0.0.0 digianalytics.airtel.in
 0.0.0.0 digidip.net
+0.0.0.0 digindev.com
 0.0.0.0 diginetz.de
 0.0.0.0 digit.qy4p.906560.com
 0.0.0.0 digitalcaramel.com
@@ -4067,6 +4068,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 fabuloustrack.com
 0.0.0.0 facebookfansandlikes.com
 0.0.0.0 facebooksluts.com
+0.0.0.0 fadel.propertysteady.com.co
 0.0.0.0 fantasticfilms.ru
 0.0.0.0 farvqaxaoid.com
 0.0.0.0 fastclick.net
@@ -5111,8 +5113,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 jjpnveujkk.com
 0.0.0.0 jjpp.lmtjapi.com
 0.0.0.0 jk.biggerated.de.com
+0.0.0.0 jk.digindev.com
 0.0.0.0 jk.socialxusa.com
 0.0.0.0 jk.sufferent.net
+0.0.0.0 jk.suggettysburg.us
 0.0.0.0 jk.totoferrari.com
 0.0.0.0 jkjcoyeeglunz.com
 0.0.0.0 jkjkeithc.com
@@ -6744,6 +6748,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 pronosparadise.com
 0.0.0.0 propelbon.com
 0.0.0.0 propellerads.com
+0.0.0.0 propertysteady.com
+0.0.0.0 propertysteady.com.co
 0.0.0.0 propsid.b-cdn.net
 0.0.0.0 propu.sh
 0.0.0.0 pretectionrequired.com
@@ -7983,6 +7989,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 suewhitehurst.shop
 0.0.0.0 sufferent.net
 0.0.0.0 sufzmohljbgw.com
+0.0.0.0 suggettysburg.us
 0.0.0.0 sugma.mom
 0.0.0.0 sum.acceptibiotic.com
 0.0.0.0 sumatoad.com
@@ -9270,6 +9277,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 wwv.trumpmagic.boutique
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www.crafttraff.com
+0.0.0.0 www.lizbuyshouses.net
 0.0.0.0 wwwyoutube.com 
 0.0.0.0 wxapp.cmcm.com
 0.0.0.0 wxbrdppfpr.com
