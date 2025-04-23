@@ -606,6 +606,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 6.socalledthosecare.pro
 0.0.0.0 6.theverdictyield.pro
 0.0.0.0 602d76e204c032.com
+0.0.0.0 654dza987r65r46ez54te46z5t6ez54tze987t987.s3.us-east-005.backblazeb2.com
 0.0.0.0 65nq.com
 0.0.0.0 65r4e98zt7ez65y4e6r5y465er4y98t7u987.s3.us-east-005.backblazeb2.com
 0.0.0.0 6927262.fls.doubleclick.net
@@ -2517,6 +2518,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 biggerated.de
 0.0.0.0 biggerated.de.com
 0.0.0.0 bigmobileads.com
+0.0.0.0 bikepremier.com
 0.0.0.0 billigamkvaskarea.se
 0.0.0.0 bilrtklg.com
 0.0.0.0 bimagric.com
@@ -3310,6 +3312,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 cws-hulu.conviva.com
 0.0.0.0 cws.conviva.com
 0.0.0.0 cyber-hub.net
+0.0.0.0 cyberchael.com
 0.0.0.0 cyberh1.xyz
 0.0.0.0 cybersecuritiesinc.net
 0.0.0.0 cyclingshorts.uk.com
@@ -3502,6 +3505,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ddnmzrpp.com
 0.0.0.0 ddos.city
 0.0.0.0 ddvqjnbt.com
+0.0.0.0 de.offeestor.org
 0.0.0.0 de.rayjump.com
 0.0.0.0 de01.rayjump.com
 0.0.0.0 dealctr.com
@@ -3539,6 +3543,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 device.zhiliaoapp.com
 0.0.0.0 devlog-upload-os.hoyoverse.com
 0.0.0.0 dewgnvonohak.com
+0.0.0.0 dewisi.wirednature.st
 0.0.0.0 dex50.deteql.net
 0.0.0.0 dfanalytics.dealerfire.com
 0.0.0.0 dfapvmql-q.global.ssl.fastly.net
@@ -4379,6 +4384,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 germanyenergy.online
 0.0.0.0 gestreifthelle.site
 0.0.0.0 get-spybot.com
+0.0.0.0 get-synoshi.com
 0.0.0.0 get.hundredpercentmargin.com
 0.0.0.0 get.impact.com
 0.0.0.0 getadmiral.com
@@ -4624,6 +4630,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 healthtrader.com
 0.0.0.0 healthybodynow.net
 0.0.0.0 healthycomputerclub.com
+0.0.0.0 healthyjointaid.com
 0.0.0.0 hear.oriclehearing.com
 0.0.0.0 heartbeatsconsulting.com
 0.0.0.0 heathlylifestyleguide.com
@@ -4739,9 +4746,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 httpdns.bilivideo.com
 0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 httpool.com
+0.0.0.0 https//654DZA987R65R46EZ54TE46Z5T6EZ54TZE987T987.s3.us-east-005.backblazeb2.com
 0.0.0.0 https-filtering-check.adtidy.org
-0.0.0.0 hubvotrpjios.com
-0.0.0.0 hueadsxml.com
 0.0.0.0 huhkfzino.com
 0.0.0.0 humpqretttg.com
 0.0.0.0 huntmad.com
@@ -4806,6 +4812,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 icalcoveningsp.org/landing?tag_id=1148910&sub_id=[SUBID]&click_id=600570684785280323&app=[APP]
 0.0.0.0 icanhazip.com
 0.0.0.0 ichannel.isnssdk.com
+0.0.0.0 ichernhang.info
 0.0.0.0 iclbkrgjdstqt.com
 0.0.0.0 icmlfqdb.com
 0.0.0.0 iconadserver.com
@@ -4923,6 +4930,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 init.startappservice.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 inityhntee.com
+0.0.0.0 injuryclaims.com
 0.0.0.0 inmense.site
 0.0.0.0 inmobi.cn
 0.0.0.0 inmobi.com
@@ -5801,6 +5809,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 metro-ads.co
 0.0.0.0 metro-ads.co.in
 0.0.0.0 metro-ads.in
+0.0.0.0 mex.com
 0.0.0.0 mezlsx.cf
 0.0.0.0 mfadsrvr.com
 0.0.0.0 mfileshare.com
@@ -5829,6 +5838,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 minenumerousdue.pro
 0.0.0.0 minhmui.com
 0.0.0.0 minisrclink.cool
+0.0.0.0 miniveral.com
 0.0.0.0 minor-api-os.hoyoverse.com
 0.0.0.0 mintegral.com
 0.0.0.0 mintegral.net
@@ -5934,6 +5944,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 morrity.com
 0.0.0.0 mosspf.com
 0.0.0.0 mossru.com
+0.0.0.0 mothetic.com
 0.0.0.0 motoronter.com
 0.0.0.0 motorpasionmotos.com
 0.0.0.0 mototech.co.il
@@ -6024,6 +6035,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 mymediasearchnow.com
 0.0.0.0 mymediasearchnowone.com
 0.0.0.0 mymediasearchnowtwo.com
+0.0.0.0 mymsb.ichernhang.info
+0.0.0.0 mymsb.solarcrestx.com
+0.0.0.0 mymsb.unicolate.com
 0.0.0.0 mynet.com
 0.0.0.0 mynetprotector.com
 0.0.0.0 mynews-line.com
@@ -6238,9 +6252,11 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 oevqxivhquovq.com
 0.0.0.0 ofefrsdtops.info
 0.0.0.0 ofexmskz.com
+0.0.0.0 offeestor.org
 0.0.0.0 offer.5kfunds.com
 0.0.0.0 offer.perryfinances.com
 0.0.0.0 offer.safeopt.com
+0.0.0.0 offerdsnofwse.pro
 0.0.0.0 offergold.online
 0.0.0.0 offertrends.com
 0.0.0.0 offertrends.it
@@ -6706,6 +6722,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 private-alert.com
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 privatexmpp.me
+0.0.0.0 prizecosmosmy.ma
 0.0.0.0 prizenotice28.us
 0.0.0.0 prntcrs.com
 0.0.0.0 prntsc.cf
@@ -6968,6 +6985,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 receiver.habby.mobi
 0.0.0.0 recommend.apk.v-mate.mobi
 0.0.0.0 recommend.liveme.cmcm.com
+0.0.0.0 recommended-network-now-leak.top
 0.0.0.0 recommendednowdetectedadvanced.top
 0.0.0.0 recommendedservicesessiontop.top
 0.0.0.0 record.revenuenetwork.com
@@ -7357,6 +7375,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.merchantadvantage.com
 0.0.0.0 secure.quantserve.com
+0.0.0.0 seconomeryarch.mex.com
+0.0.0.0 secureecommerce.su
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securesearchnow.com
 0.0.0.0 securestudies.com
@@ -7553,6 +7573,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 softwareprofit.com
 0.0.0.0 soicos.com
 0.0.0.0 sojern.com
+0.0.0.0 solarcrestx.com
 0.0.0.0 solidlabs.com
 0.0.0.0 solutions.invocacdn.com
 0.0.0.0 solvusoft.com
@@ -7958,6 +7979,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 stopify.co
 0.0.0.0 stopin.pl
 0.0.0.0 stopitblockit.com
+0.0.0.0 storage.googleapis.com/dsfcdefde/sdfsfs.html#/redirect.html?od=1syx6809065204a01_vl_pickvl_1f01.26twmn.C0000rh5rk12f5m00m_xf1836.h5rk1MDF4N3RqLTB2YmNsbnI0s5tng
 0.0.0.0 store-real-mall.info
 0.0.0.0 store2.live.ksmobile.net
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
@@ -7981,6 +8003,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 studiolegalelarosabambaci.it
 0.0.0.0 su.addthis.com
 0.0.0.0 sub.cobarteres.biz
+0.0.0.0 sub.cyberchael.com
 0.0.0.0 subtitleseeker.com
 0.0.0.0 successalert.com
 0.0.0.0 sudburyautoglass.ca
@@ -8105,6 +8128,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 t.tmdn2015x9.com
 0.0.0.0 t2.t2b.click
 0.0.0.0 t3.linkloot.su
+0.0.0.0 t4.secureecommerce.su
 0.0.0.0 t7z.cupid.iqiyi.com
 0.0.0.0 taberei.services
 0.0.0.0 taboola.com
@@ -8826,6 +8850,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 undertone.com
 0.0.0.0 unemploymentbenefitsguide.com
 0.0.0.0 ungads.com
+0.0.0.0 unicolate.com
 0.0.0.0 unicume.com
 0.0.0.0 unigraphix.co
 0.0.0.0 unintentionallyintent.com
@@ -8875,6 +8900,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 us.st.dp.ksmobile.com
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 usa.cmcm.com
+0.0.0.0 usa.offeestor.org
 0.0.0.0 usaassistanceguide.com
 0.0.0.0 usage.influxdata.com
 0.0.0.0 usahacmyhl.com
@@ -9209,6 +9235,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 winsos.com
 0.0.0.0 winwithoptimal.com
 0.0.0.0 winworker.club
+0.0.0.0 wirednature.st
 0.0.0.0 wizzay.com
 0.0.0.0 wl-pixel.index.digital
 0.0.0.0 wl1xbet.adsrv.eacdn.com
@@ -9276,8 +9303,12 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 wwrpfevyca.com
 0.0.0.0 wwv.trumpmagic.boutique
 0.0.0.0 www-google-analytics.l.google.com
+0.0.0.0 www.654dza987r65r46ez54te46z5t6ez54tze987t987.s3.us-east-005.backblazeb2.com
+0.0.0.0 www.65r4e98zt7ez65y4e6r5y465er4y98t7u987.s3.us-east-005.backblazeb2.com
 0.0.0.0 www.crafttraff.com
+0.0.0.0 www.https//654DZA987R65R46EZ54TE46Z5T6EZ54TZE987T987.s3.us-east-005.backblazeb2.com
 0.0.0.0 www.lizbuyshouses.net
+0.0.0.0 www.storage.googleapis.com/dsfcdefde/sdfsfs.html#/redirect.html?od=1syx6809065204a01_vl_pickvl_1f01.26twmn.C0000rh5rk12f5m00m_xf1836.h5rk1MDF4N3RqLTB2YmNsbnI0s5tng
 0.0.0.0 wwwyoutube.com 
 0.0.0.0 wxapp.cmcm.com
 0.0.0.0 wxbrdppfpr.com
@@ -9312,6 +9343,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 xda-developers.io
 0.0.0.0 xda-developers.us
 0.0.0.0 xdrig.com
+0.0.0.0 xegu.prizecosmosmy.ma
 0.0.0.0 xenoss.io
 0.0.0.0 xgctdamahrzy.com
 0.0.0.0 xgfgt.cn
