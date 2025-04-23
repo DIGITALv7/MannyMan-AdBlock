@@ -4622,6 +4622,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 hbotv.co
 0.0.0.0 hbtzzlcxfijk.com
 0.0.0.0 hck.lfp.mybluehost.me
+0.0.0.0 hctra-ex.top
+0.0.0.0 hctra-ex.top/us
 0.0.0.0 hdblog.tech
 0.0.0.0 hdeslibzcv.com
 0.0.0.0 hdringtones.com
@@ -7471,8 +7473,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 shoppingoptimization.it
 0.0.0.0 shoppingoptimization.it.com
 0.0.0.0 shorte.st
+0.0.0.0 shorturl.at/66H0C?BvP=Ft3Ta6
 0.0.0.0 shorturl.at/d73Py?PpO=Eo9Ws5t
 0.0.0.0 shorturl.at/kH8ar?IVT=4636mzzd
+0.0.0.0 shorturl.at
 0.0.0.0 showmeboobs.xyz
 0.0.0.0 shparxvyhrwgsl.com
 0.0.0.0 shrekis.life
