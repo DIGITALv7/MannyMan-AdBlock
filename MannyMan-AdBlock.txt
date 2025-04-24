@@ -6,8 +6,8 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 04/23/25
-# |  •  TIME: 8:57PM CST, 20:57PM || UTC-6
+# |  •  UPDATED: 04/24/25
+# |  •  TIME: 3:14PM CST, 15:14PM || UTC-6
 # |  •  SIZE: 257KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
@@ -3512,6 +3512,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 deapi.sooplive.co.kr
 0.0.0.0 debojuagug1sf.cloudfront.net
 0.0.0.0 decide.mixpanel.com
+0.0.0.0 decreaterine.com
 0.0.0.0 deepthroats.com
 0.0.0.0 defeatspyware.org
 0.0.0.0 degreesnap.com
@@ -3621,6 +3622,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 disqusads.com
 0.0.0.0 distantsettlethat.pro
 0.0.0.0 distillery.wistia.com
+0.0.0.0 distributionrot.com
+0.0.0.0 distributionrot.gr
+0.0.0.0 distributionrot.gr.com
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 dithodackee.com
 0.0.0.0 divineenterprises.net
@@ -5250,6 +5254,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 kjkwrmwdyhi.com
 0.0.0.0 kjrjvvxcg.com
 0.0.0.0 kkkjjskrtsjvx.com
+0.0.0.0 klein.verkelet.com
 0.0.0.0 klinikangka.org
 0.0.0.0 klrmgu.freegiftoffers.com
 0.0.0.0 klrmgu.freegiftoffers.it
@@ -5725,6 +5730,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mc183.com
 0.0.0.0 mcafee-home.7eer.net
+0.0.0.0 mcafee.distributionrot.gr.com
 0.0.0.0 mcameraonline.club
 0.0.0.0 mcanism.com
 0.0.0.0 mcoreads.com
@@ -6124,6 +6130,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 network-n.com
 0.0.0.0 networkadvertising.org
 0.0.0.0 networkdynamicscorp.com
+0.0.0.0 networknowimproperverified.top
 0.0.0.0 networksdk.ssacdn.com
 0.0.0.0 networkstresser.com
 0.0.0.0 networld.hk
@@ -7317,6 +7324,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 scfmfurls.shop
 0.0.0.0 schaudt.eu
 0.0.0.0 scheme.mobpowertech.com
+0.0.0.0 schuster.decreaterine.com
 0.0.0.0 sciathdedans.shop
 0.0.0.0 sciencefuture.tk
 0.0.0.0 scorecardresearch.com
@@ -7967,6 +7975,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 stephenfarrell.io
 0.0.0.0 stg-data-collector.playbuzz.com
 0.0.0.0 stickyadstv.com
+0.0.0.0 stiedemann.straygenius.com
 0.0.0.0 stikroltiltoowi.net
 0.0.0.0 stimmwissenschaften.de
 0.0.0.0 stingware.com
@@ -7984,6 +7993,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 stopin.pl
 0.0.0.0 stopitblockit.com
 0.0.0.0 storage.googleapis.com/dsfcdefde/sdfsfs.html#/redirect.html?od=1syx6809065204a01_vl_pickvl_1f01.26twmn.C0000rh5rk12f5m00m_xf1836.h5rk1MDF4N3RqLTB2YmNsbnI0s5tng
+0.0.0.0 storage.googleapis.com/xcxdsc/Google.html#/redirect.html?od=1syv68091974a8a53_vl_choicestvl_1i72.19qk4ki.C0000rh0pwl2dq800m_wx1951.h0pwlbTkxMTktMThnZTQwag0p49bd
 0.0.0.0 store-real-mall.info
 0.0.0.0 store2.live.ksmobile.net
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
@@ -9180,6 +9190,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 webtube.land
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 weddings.theknot.com
+0.0.0.0 weedkillerclaim.com
 0.0.0.0 weekenddeals.com
 0.0.0.0 weekenddeals.it
 0.0.0.0 weekenddeals.it.com
