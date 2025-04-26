@@ -199,7 +199,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 geomobileservices-pa.googleapis.com
 0.0.0.0 hls.ttvnw.net
-0.0.0.0 k.twitchcdn.net
 0.0.0.0 marketingcloudapis.com
 0.0.0.0 mcj1c6g4t3mmt8-1gnb6653vzxgm.device.marketingcloudapis.com
 0.0.0.0 optimizationguide-pa.googleapis.com
