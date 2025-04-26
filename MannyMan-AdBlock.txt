@@ -6,7 +6,7 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 04/24/25
+# |  •  UPDATED: 04/25/25
 # |  •  TIME: 3:14PM CST, 15:14PM || UTC-6
 # |  •  SIZE: 258KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
@@ -5183,6 +5183,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 julianas-travelgram.com
 0.0.0.0 jump4lovescam.com
 0.0.0.0 jumpfly.com
+0.0.0.0 jumprope.com
+0.0.0.0 jumprope.us
+0.0.0.0 jumprope.us.com
 0.0.0.0 junghwa.co
 0.0.0.0 junglebee.com
 0.0.0.0 jusrlkubhjnr.com
