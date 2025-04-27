@@ -6,7 +6,7 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 04/25/25
+# |  •  UPDATED: 04/26/25
 # |  •  TIME: 3:14PM CST, 15:14PM || UTC-6
 # |  •  SIZE: 258KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
@@ -549,6 +549,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 24-ads.com
 0.0.0.0 24gear.net
 0.0.0.0 247realmedia.com
+0.0.0.0 257232.cc
 0.0.0.0 266-334-951.21w1mj0pk2ihn9f3zl4.471zpwcngact2x6d2ib.com.ve
 0.0.0.0 2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za
 0.0.0.0 2barazi.com
@@ -2528,8 +2529,6 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 bisrtb.vidazoo.com
 0.0.0.0 bit.do
 0.0.0.0 bit.ly
-0.0.0.0 bit.ly/2XpSHrW
-0.0.0.0 bit.ly/3DXXCq4?Ttf=tljL2Rvntp
 0.0.0.0 bitly-bot.com
 0.0.0.0 biturl.io
 0.0.0.0 biuro-adwokackie.pl
