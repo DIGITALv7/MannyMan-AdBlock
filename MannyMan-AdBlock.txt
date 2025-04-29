@@ -6,8 +6,8 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 04/28/25
-# |  •  TIME: 3:14PM CST, 15:14PM || UTC-6
+# |  •  UPDATED: 04/29/25
+# |  •  TIME: 5:05PM CST, 17:05PM || UTC-6
 # |  •  SIZE: 258KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
@@ -625,6 +625,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 7gzn.com
 0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
 0.0.0.0 7wind.ru
+0.0.0.0 7yucca158.net
 0.0.0.0 8-crm.com
 0.0.0.0 8.socalledthosecare.pro
 0.0.0.0 8.theverdictyield.pro
@@ -1679,6 +1680,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 aerokits.net
 0.0.0.0 aff-policy.lbesecapi.com
 0.0.0.0 aff-report.lbesecapi.com
+0.0.0.0 affarinesses.online
 0.0.0.0 affilae.com
 0.0.0.0 affiliate-api.raptive.com
 0.0.0.0 affiliate.com
@@ -2730,6 +2732,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 carolinadriftingsams.com
 0.0.0.0 carolrutgersrealestate.com
 0.0.0.0 carpowersteeringpumps.site
+0.0.0.0 carristians.com
 0.0.0.0 carshieldprotection.com
 0.0.0.0 carsonstreeservices.com
 0.0.0.0 cartionel.club
@@ -3125,6 +3128,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 concerningblasphemerollback.com
 0.0.0.0 conduit-services.com
 0.0.0.0 confe.dc.oppomobile.com
+0.0.0.0 confederably.de
 0.0.0.0 conference.cmcm.com
 0.0.0.0 conff.dc.oppomobile.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
@@ -4056,6 +4060,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 exportnews.eu
 0.0.0.0 exportnews.eu.com
 0.0.0.0 expread.io
+0.0.0.0 extantially.org
 0.0.0.0 extcoolff.com
 0.0.0.0 extenze-review.ca
 0.0.0.0 external-api.impression-neo.naver.com
@@ -4416,6 +4421,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ghpnc1.appspot.com
 0.0.0.0 ghvmjvkpapct.com
 0.0.0.0 gi-client-tracking.goodgamestudios.com
+0.0.0.0 gibson.iwerkshi.com
 0.0.0.0 gift-claim.bid
 0.0.0.0 giftaddigital.com
 0.0.0.0 ginedis.com
@@ -4486,9 +4492,11 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 googie-anaiytics.com
 0.0.0.0 google-analytics.com
 0.0.0.0 google.bavarsi.com.de
-0.0.0.0 google.bavarsi.com.de//redirect.html
-0.0.0.0 google.kircherally.gr.com//redirect.html
-0.0.0.0 google.sylhcw.com//redirect.html
+0.0.0.0 google.bavarsi.com.de
+0.0.0.0 google.kircherally.gr.com
+0.0.0.0 google.saxonomy.jp.net
+0.0.0.0 google.saxonomy.net
+0.0.0.0 google.sylhcw.com
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
@@ -5081,6 +5089,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 iview.cmcm.com
 0.0.0.0 ivjkdyrjjgxhch.com
 0.0.0.0 ivmi-motors.ru
+0.0.0.0 iwerkshi.com
 0.0.0.0 iwkrvexersoof.com
 0.0.0.0 iyes.youku.com
 0.0.0.0 iyfnzgb.com
@@ -5146,6 +5155,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 johncharcol.com
 0.0.0.0 johns.tourpol.com
 0.0.0.0 johnson.requiremely.org
+0.0.0.0 johnston.ayav.net
 0.0.0.0 joi.com
 0.0.0.0 joingekko.com
 0.0.0.0 joinmy.site
@@ -5154,6 +5164,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 jotjdn1.appspot.com
 0.0.0.0 journalatenewsite.com
 0.0.0.0 journaldesvoisins.com
+0.0.0.0 journey.mystarthealth.com
 0.0.0.0 jp.bloom-blush.com
 0.0.0.0 jp.net
 0.0.0.0 jphlsnzlxdz.com
@@ -5208,6 +5219,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 kangyulai.com
 0.0.0.0 kankandm.com
 0.0.0.0 kargo.com
+0.0.0.0 kartinbravo.com
 0.0.0.0 kaspi.tk
 0.0.0.0 kayzen.com
 0.0.0.0 kayzen.io
@@ -5701,6 +5713,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 martiniquegolf.com
 0.0.0.0 martuz.cnadsports.in
 0.0.0.0 mas.nth.ch
+0.0.0.0 mask.distributionrot.gr.com
 0.0.0.0 masqu3rade.com
 0.0.0.0 massive.boats
 0.0.0.0 massive.mom
@@ -6067,6 +6080,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 myspyprotector.com
 0.0.0.0 myspywarecleaner.com/sc/
 0.0.0.0 myspywarescan.com
+0.0.0.0 mystarthealth.con
 0.0.0.0 mysteryboxshop.cc
 0.0.0.0 mytubefire.com
 0.0.0.0 myutilitydomain.com
@@ -6539,6 +6553,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 pgeejqisao.com
 0.0.0.0 pglstatp-toutiao.com
 0.0.0.0 phluant.com
+0.0.0.0 phonescannerrealtimebusinesses.top
 0.0.0.0 photogrid.cmcm.com
 0.0.0.0 photovault.pics
 0.0.0.0 pi.ispot.tv
@@ -6713,6 +6728,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 presage.io
 0.0.0.0 pressizer.net
 0.0.0.0 preview-collector.scopely.io
+0.0.0.0 prf.hn
 0.0.0.0 prf.vagnt.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 primalgrowpro.com
@@ -6966,6 +6982,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 rawactf.xyz
 0.0.0.0 rayem.com
 0.0.0.0 rayem.shop
+0.0.0.0 rayseuv.com
 0.0.0.0 razespyware.com
 0.0.0.0 razespyware.net
 0.0.0.0 rb-rrr.com
@@ -7302,6 +7319,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 samuraispy.com
 0.0.0.0 san-fernando.es
 0.0.0.0 san.myadssupport.com
+0.0.0.0 sanbaata.com
+0.0.0.0 sanbaata.com.de
+0.0.0.0 sanbaata.de
 0.0.0.0 sanctumware.net
 0.0.0.0 sandbox.googleanalytics.com
 0.0.0.0 sanjaagiin.info
@@ -7309,6 +7329,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 sarahlovenpresets.com
 0.0.0.0 saskya.com.br
 0.0.0.0 saveclip.net
+0.0.0.0 saxonomy.jp
+0.0.0.0 saxonomy.jp.net
 0.0.0.0 saymedia.com
 0.0.0.0 sayyac.com
 0.0.0.0 sb.scorecard.research.com
@@ -7325,6 +7347,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 scanneractivitiessoftware.top
 0.0.0.0 scfkfridulshkd.com
 0.0.0.0 scfmfurls.shop
+0.0.0.0 schaden.decreaterine.com
 0.0.0.0 schaudt.eu
 0.0.0.0 scheme.mobpowertech.com
 0.0.0.0 schuster.decreaterine.com
@@ -7997,6 +8020,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 stopin.pl
 0.0.0.0 stopitblockit.com
 0.0.0.0 storage.googleapis.com/dsfcdefde/sdfsfs.html#/redirect.html?od=1syx6809065204a01_vl_pickvl_1f01.26twmn.C0000rh5rk12f5m00m_xf1836.h5rk1MDF4N3RqLTB2YmNsbnI0s5tng
+0.0.0.0 storage.googleapis.com/pedri/Googlee.html#/redirect.html?od=1syv68113ccd71e5f_vl_choicestvl_1i72.19qk4ki.C0000rh0rcx2fua00m_wx1951.h0rcxbTkxMTktMTJrMGQ4Yg0z7eDn
 0.0.0.0 storage.googleapis.com/xcxdsc/Google.html#/redirect.html?od=1syv68091974a8a53_vl_choicestvl_1i72.19qk4ki.C0000rh0pwl2dq800m_wx1951.h0pwlbTkxMTktMThnZTQwag0p49bd
 0.0.0.0 store-real-mall.info
 0.0.0.0 store2.live.ksmobile.net
@@ -8430,6 +8454,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 totalav.app
 0.0.0.0 totalav.com
 0.0.0.0 totalav.io
+0.0.0.0 totaldrive.com
 0.0.0.0 totalpad.com
 0.0.0.0 totoferrari.com
 0.0.0.0 toupai.cmcm.com
@@ -8772,6 +8797,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 turizdoma.ru
 0.0.0.0 turkey-loan.com
 0.0.0.0 turkospicos.online
+0.0.0.0 turner.confederably.de
 0.0.0.0 turn.com
 0.0.0.0 tuwuyppwdj.com
 0.0.0.0 tuxbpnne.com
