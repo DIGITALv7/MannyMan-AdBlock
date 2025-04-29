@@ -6,7 +6,7 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 04/26/25
+# |  •  UPDATED: 04/28/25
 # |  •  TIME: 3:14PM CST, 15:14PM || UTC-6
 # |  •  SIZE: 258KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
@@ -3044,6 +3044,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 cnyc99.com
 0.0.0.0 co.akisinn.info
 0.0.0.0 co.dewrain.life
+0.0.0.0 co.il
 0.0.0.0 co.vaicore.site
 0.0.0.0 co.vaicore.xyz
 0.0.0.0 cobalten.com
@@ -4462,6 +4463,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 go.oclasrv.com
 0.0.0.0 go.onclasrv.com
 0.0.0.0 go.padstm.com
+0.0.0.0 go.skimresources.com
 0.0.0.0 go.sparkpostmail2.com
 0.0.0.0 go.teletracking.com
 0.0.0.0 go.trafficrouter.io
@@ -7517,6 +7519,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 skarabeos-shop.de
 0.0.0.0 skidpaste.org
 0.0.0.0 skimlinks.com
+0.0.0.0 skimresources.com
 0.0.0.0 skin.cmcm.com
 0.0.0.0 skinheads.com
 0.0.0.0 skinhelpsky.pro
@@ -9126,6 +9129,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 wadefamilytree.org
 0.0.0.0 waframedia20.com
 0.0.0.0 waiads.com
+0.0.0.0 walla.co.il
 0.0.0.0 wallpaperup.cmcm.com
 0.0.0.0 waloofficials.com
 0.0.0.0 wangzizhe.com.cn
