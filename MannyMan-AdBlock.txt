@@ -486,6 +486,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 97.79.237.171
 0.0.0.0 98.129.229.200
 # ◑ --------------------------- ◐
+0.0.0.0 143-198-128-155.cprapid.com
 0.0.0.0 0.probablyfreegut.pro
 0.0.0.0 0.socalledthosecare.pro
 0.0.0.0 0.theverdictyield.pro
@@ -733,6 +734,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtest.swrve.com
 0.0.0.0 academiademasaj.ro
+0.0.0.0 accelebrainent.com
 0.0.0.0 accentstudio.co.uk
 0.0.0.0 acceptibiotic.com
 0.0.0.0 accessoriesformri.com
@@ -740,6 +742,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 accionmasvida.com.ar
 0.0.0.0 account.paypal-inc.tribesiren.com
 0.0.0.0 accscdn.m.taobao.com
+0.0.0.0 accumoslac.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ace.naver.com
 0.0.0.0 acenar.com
@@ -757,6 +760,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 acteongruop.com
 0.0.0.0 acthosting.net
 0.0.0.0 actiglob.net
+0.0.0.0 action-safe-data-detected.top
 0.0.0.0 actionexcellents.top
 0.0.0.0 actionissuedetectedinfo.top
 0.0.0.0 actionmobilemarine.net
@@ -1722,6 +1726,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ahoy-internal-ads-hv.b-cdn.net
 0.0.0.0 ahref.tech
 0.0.0.0 ahstrelgnh.com
+0.0.0.0 ahwarranty.net
 0.0.0.0 aikistant.com
 0.0.0.0 aikistant.com.de
 0.0.0.0 aikistant.de
@@ -1729,6 +1734,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 airad.com
 0.0.0.0 airbenzagore.uk
 0.0.0.0 airlytics.airlock.twcmobile.weather.com
+0.0.0.0 airpurifier.life
 0.0.0.0 airtory.com
 0.0.0.0 aitassoalra.com
 0.0.0.0 ajc1.cn
@@ -1781,6 +1787,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 alog.umeng.com
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 alogs.umengcloud.com
+0.0.0.0 alparator.com
 0.0.0.0 alpenolazia.com
 0.0.0.0 alphonso.tv
 0.0.0.0 alt-ad.mail.ru
@@ -2248,6 +2255,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 arakelyan.email
 0.0.0.0 arbawijlgq.com
 0.0.0.0 arccdyvgh.com
+0.0.0.0 archlief.com
 0.0.0.0 arcspire.io
 0.0.0.0 arfttojxv.com
 0.0.0.0 argos.citruserve.com
@@ -2257,7 +2265,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 armor2net.com
 0.0.0.0 armyproxy.com
 0.0.0.0 arnaell.com
+0.0.0.0 arrationshing.com
 0.0.0.0 arraypot.xyz
+0.0.0.0 arrowlends.com
 0.0.0.0 artdebt.top
 0.0.0.0 arthistoryunstuffed.com
 0.0.0.0 artificialgrasslive.online
@@ -2292,6 +2302,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 athena.api.kwalee.com
 0.0.0.0 athena.cmcm.com
 0.0.0.0 athivision.com
+0.0.0.0 athomedaily.com
 0.0.0.0 atlanticcustombrokers.com
 0.0.0.0 atpqczsqjsxvln.com
 0.0.0.0 atpzzj.limitedoffers.com
@@ -2301,6 +2312,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 atti.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 attributiontrackingga.googlecode.com
+0.0.0.0 au.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 audid-api.taobao.com
 0.0.0.0 audience.newscgp.com
@@ -2318,10 +2330,12 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 auto-able.com
+0.0.0.0 auto-pijac.com
 0.0.0.0 auto.search.msn.com
 0.0.0.0 autobars.co.uk
 0.0.0.0 autodealsnearyou.com
 0.0.0.0 autolinkmaker.itunes.apple.com
+0.0.0.0 autoquoteweb.com
 0.0.0.0 autoremarketing.com
 0.0.0.0 autotrack.studyquicks.com
 0.0.0.0 avatars.mds.yandex.net
@@ -2413,6 +2427,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 bckmtidcnrobwh.bid
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bcuchargers.com
+0.0.0.0 bcy7yshk.commercegeorgiarealestate.com
 0.0.0.0 bcytoplay.info
 0.0.0.0 bd1.guancha.cn
 0.0.0.0 bd2.guancha.cn
@@ -2458,6 +2473,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 behaku.faith
 0.0.0.0 behance.vo.llnwd.net
 0.0.0.0 behybmunweid.com
+0.0.0.0 beier.pairies.in.net
 0.0.0.0 beijingguidebook.com
 0.0.0.0 belboon.com
 0.0.0.0 belsimpel.nl
@@ -2477,6 +2493,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 bestcardshuffler.icu
 0.0.0.0 bestdatingonline.date
 0.0.0.0 bestfuckapps.com
+0.0.0.0 bestfunfly.com
 0.0.0.0 bestguardplatinum.com
 0.0.0.0 bestrewardcardforrestaurantsin.icu
 0.0.0.0 bestsellers.com
@@ -2506,6 +2523,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 bi.manhuaren.com
 0.0.0.0 bi.medscape.com
 0.0.0.0 bi.yeshen.com
+0.0.0.0 biavernus.sbs
 0.0.0.0 bid.contextweb.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 bidder.mdspinc.com
@@ -2617,6 +2635,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bs.yandex.ru
 0.0.0.0 bskarchitects.in
+0.0.0.0 btc-net.bg
 0.0.0.0 btdciuqcsvjjt.com
 0.0.0.0 btgxicdivmtv.com
 0.0.0.0 btloader.com
@@ -2718,6 +2737,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 campaignstrategy.de.com
 0.0.0.0 campbellcontracting.nz
 0.0.0.0 campstrategwer.com
+0.0.0.0 canalyzing.us
 0.0.0.0 capaciousdrewreligion.com
 0.0.0.0 capsnbboxmail.top
 0.0.0.0 capterra.com
@@ -2848,6 +2868,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 cedexis.com
 0.0.0.0 celtra.com
 0.0.0.0 cemalsenay.com
+0.0.0.0 censuitary.in.net
 0.0.0.0 centenarulromaniei.ro
 0.0.0.0 centerforworklife.com
 0.0.0.0 ceoillwdcc.com
@@ -2865,6 +2886,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 cgicounter.oneandone.co.uk
 0.0.0.0 cgicounter.puretec.de
 0.0.0.0 chainbit.club
+0.0.0.0 champlin.iwerkshi.com
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 chango.com
 0.0.0.0 channelfactory.com
@@ -2908,6 +2930,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 cklvpsjtbwf.com
 0.0.0.0 ckyxscaeockj.bid
 0.0.0.0 cl-ad.x-flow.app
+0.0.0.0 claimprocess.eu.com
 0.0.0.0 claritas.com
 0.0.0.0 claritybt.freshmarketer.com
 0.0.0.0 clarium.global.ssl.fastly.net
@@ -2972,6 +2995,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 clicksapp.net
 0.0.0.0 clicksgear.com
 0.0.0.0 clickspring.net
+0.0.0.0 clickthrough.us.com
+0.0.0.0 clickthroughus.com
+0.0.0.0 clickthroughyou.com
 0.0.0.0 clicktracker.com
 0.0.0.0 clicktracker.iscan.nl
 0.0.0.0 clickus.com
@@ -3037,6 +3063,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 cmspoddbak.com
 0.0.0.0 cmtel.ksmobile.com
 0.0.0.0 cmyzmrgrtyrkt.com
+0.0.0.0 cn.com
 0.0.0.0 cn.cmcm.com
 0.0.0.0 cn.libra.cmcm.com
 0.0.0.0 cngxkybnoawhxt.com
@@ -3048,6 +3075,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 co.akisinn.info
 0.0.0.0 co.dewrain.life
 0.0.0.0 co.il
+0.0.0.0 co.th
 0.0.0.0 co.vaicore.site
 0.0.0.0 co.vaicore.xyz
 0.0.0.0 cobalten.com
@@ -3063,6 +3091,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 codigoamigo.com.br
 0.0.0.0 coffee-samples-deal.live
 0.0.0.0 cognitiv.ai
+0.0.0.0 coinbase-signin.143-198-128-155.cprapid.com
 0.0.0.0 coinhive.com
 0.0.0.0 coinis.com
 0.0.0.0 collect-ap2.attraqt.io
@@ -3107,6 +3136,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 combelgium-architects.com
 0.0.0.0 cominations.org
 0.0.0.0 commerce.bing.com
+0.0.0.0 commercegeorgiarealestate.com
 0.0.0.0 commerculation.com
 0.0.0.0 commissionfactory.com
 0.0.0.0 common.duapps.com
@@ -3169,6 +3199,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 contextualadv.com
 0.0.0.0 continuum.dds.microsoft.com
 0.0.0.0 contra-virus.com
+0.0.0.0 convergrounami.com
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 conversions.appsflyersdk.com
 0.0.0.0 conversions.genieventures.co.uk
@@ -3197,6 +3228,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 correalty.ru
 0.0.0.0 cos.coolinational.de
 0.0.0.0 cosmeticsrc.com
+0.0.0.0 cosmotry.com
 0.0.0.0 costco-adbutler.com
 0.0.0.0 count-server.sharethis.com
 0.0.0.0 count.asnetworks.de
@@ -3224,6 +3256,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 counters.freewebs.com
 0.0.0.0 countly.globaldelight.net
 0.0.0.0 courtneygreenrealtor.com
+0.0.0.0 covid.com
+0.0.0.0 covid.net
+0.0.0.0 covid.org
 0.0.0.0 covenantfinancial.org
 0.0.0.0 coverwhelm.tk
 0.0.0.0 covid19-info.online
@@ -3466,6 +3501,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 data.circulate.com
 0.0.0.0 data.datadoghq.com
 0.0.0.0 data.digitalks.az
+0.0.0.0 data.distributionrot.gr.com
 0.0.0.0 data.eetech.com
 0.0.0.0 data.embeddables.com
 0.0.0.0 data.flurry.com
@@ -3508,6 +3544,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ddnmzrpp.com
 0.0.0.0 ddos.city
 0.0.0.0 ddvqjnbt.com
+0.0.0.0 de.com
 0.0.0.0 de.offeestor.org
 0.0.0.0 de.rayjump.com
 0.0.0.0 de01.rayjump.com
@@ -3522,6 +3559,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 deinjagdvideo.at
 0.0.0.0 delgets.com
 0.0.0.0 delhibellyindian.com.au
+0.0.0.0 deliberateinfoasmfoundation.info
 0.0.0.0 delightchat.io
 0.0.0.0 delijn-aanpassingen.be
 0.0.0.0 delivery-cdn-cf.adswizz.com
@@ -3574,6 +3612,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 dietlens.com
 0.0.0.0 dig.bdurl.net
 0.0.0.0 dig.ultimedia.com
+0.0.0.0 digdirectproonboard.top
 0.0.0.0 digianalytics.airtel.in
 0.0.0.0 digidip.net
 0.0.0.0 digindev.com
@@ -3594,6 +3633,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 directadvlink.com
 0.0.0.0 directagents.com
 0.0.0.0 directtrack.com
+0.0.0.0 disagreek.uk.com
 0.0.0.0 discord.kim
 0.0.0.0 discordcrypt.xyz
 0.0.0.0 discountclick.com
@@ -3623,6 +3663,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 displayio.cloud
 0.0.0.0 disqus.com
 0.0.0.0 disqusads.com
+0.0.0.0 distakes.com
 0.0.0.0 distantsettlethat.pro
 0.0.0.0 distillery.wistia.com
 0.0.0.0 distributionrot.com
@@ -3798,6 +3839,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ecgfj.live
 0.0.0.0 eclicklink.com
 0.0.0.0 ecnworld.com
+0.0.0.0 ecom.lifelinescreening.com
 0.0.0.0 ecomm.events
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 ecomnia.com
@@ -3854,12 +3896,14 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 emediate.eu
 0.0.0.0 emediate.se
 0.0.0.0 emmarelief.com
+0.0.0.0 emphibition.de
 0.0.0.0 emvdlnwph.com
 0.0.0.0 emxdnfvdnwzx.com
 0.0.0.0 emxyuehfnlssg.com
 0.0.0.0 en.blendee.com
 0.0.0.0 enbvylulfg.com
 0.0.0.0 encogcfklrcpqw.com
+0.0.0.0 endzone.click
 0.0.0.0 enemiere.com
 0.0.0.0 energybillcalculator.com
 0.0.0.0 engagemarketing.com
@@ -3923,6 +3967,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ets.easybrain.com
 0.0.0.0 eu-ad.sam4m.com
 0.0.0.0 eu-mobile.events.data.microsoft.com
+0.0.0.0 eu.com
 0.0.0.0 eu.cmcm.com
 0.0.0.0 eu.vilitram.com
 0.0.0.0 euadsapi.manhuaren.com
@@ -4081,6 +4126,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 fabuloustrack.com
 0.0.0.0 facebookfansandlikes.com
 0.0.0.0 facebooksluts.com
+0.0.0.0 facefitnesscenterrewiew.info
 0.0.0.0 fadel.propertysteady.com.co
 0.0.0.0 fantasticfilms.ru
 0.0.0.0 farvqaxaoid.com
@@ -4095,6 +4141,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fcmatch.youtube.com
 0.0.0.0 fdmtoyfpjk.com
+0.0.0.0 fdsfsf.mrarsh.net
 0.0.0.0 fdufault.com
 0.0.0.0 fdxdjkswppg.com
 0.0.0.0 featured.perfectionholic.com
@@ -4144,6 +4191,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 firstpage.kingsoft-office-service.com
 0.0.0.0 firstpremierhomewarranty.com
 0.0.0.0 firstrewardart.com
+0.0.0.0 fit-panda.gr
 0.0.0.0 fitnessandhealthtactics.com
 0.0.0.0 fitnessnutritionals.com
 0.0.0.0 fixerantispy.com
@@ -4191,6 +4239,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 foodblogging.cloud
 0.0.0.0 foogykxlqa.com
 0.0.0.0 foot.wiki
+0.0.0.0 footnote.com
+0.0.0.0 footnote.eu
+0.0.0.0 footnote.eu.com
 0.0.0.0 force.cmcm.com
 0.0.0.0 fore.crimitate.com
 0.0.0.0 fore.crimitate.com.de
@@ -4198,6 +4249,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 forecastinghelp.com
 0.0.0.0 forecastinghelp.de
 0.0.0.0 forecastinghelp.de.com
+0.0.0.0 foreclosurecleanerandhandyman.de
+0.0.0.0 form.help.law
 0.0.0.0 formanth.win
 0.0.0.0 fortmyers-mortgage.com
 0.0.0.0 fortnight.space
@@ -4256,10 +4309,12 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 freshmarketer.com
 0.0.0.0 fresnel-events.vimeocdn.com
 0.0.0.0 fresnel.vimeocdn.com
+0.0.0.0 frgwpaol.commercegeorgiarealestate.com
 0.0.0.0 frhoobwj.com
 0.0.0.0 friendlyduck.com
 0.0.0.0 frog.editorx.com
 0.0.0.0 frontier100-toutiao-lf.fqnovel.com
+0.0.0.0 frontinued.similands.com
 0.0.0.0 frpguidmetp.com
 0.0.0.0 frpiksdeygy.com
 0.0.0.0 frzynewnpg.com
