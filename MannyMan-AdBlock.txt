@@ -1682,6 +1682,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 aeolustyreindia.com
 0.0.0.0 aerofilter.eu
 0.0.0.0 aerokits.net
+0.0.0.0 aetherhub.com
 0.0.0.0 aff-policy.lbesecapi.com
 0.0.0.0 aff-report.lbesecapi.com
 0.0.0.0 affarinesses.online
@@ -1733,6 +1734,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ailalbapt.club
 0.0.0.0 airad.com
 0.0.0.0 airbenzagore.uk
+0.0.0.0 airforce.shawinc.com
 0.0.0.0 airlytics.airlock.twcmobile.weather.com
 0.0.0.0 airpurifier.life
 0.0.0.0 airtory.com
@@ -4420,6 +4422,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 gegto.shop
 0.0.0.0 geico.com.ssl.sc.omtrdc.net
 0.0.0.0 gemini.yahoo.com
+0.0.0.0 genergical.online
 0.0.0.0 genericscanner.com
 0.0.0.0 genesis.malwarebytes.com
 0.0.0.0 geniusmonkey.com
@@ -4451,19 +4454,23 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 get.hundredpercentmargin.com
 0.0.0.0 get.impact.com
 0.0.0.0 getadmiral.com
-0.0.0.0 getadmiral.com/pb/?utm_source=www.khou.com&utm_medium=pb&utm_campaign=e&session=5-e89afc04a9d93959953d66da06476046-6763652d75732d63656e7472616c31-3
+0.0.0.0 getairphysio.io
 0.0.0.0 getambassador.com
 0.0.0.0 getamone.com
 0.0.0.0 getcake.com
 0.0.0.0 getclicky.com
 0.0.0.0 getdailyprosper.com
 0.0.0.0 getforhealth.store
+0.0.0.0 getinstahardnow.com
+0.0.0.0 getinstantfund.com
+0.0.0.0 getmetalroofinginnovations.com
 0.0.0.0 getneuroquiet.com
 0.0.0.0 getpublica.com
 0.0.0.0 getrecharge.com
 0.0.0.0 getrunkhomuto.info
 0.0.0.0 gettruck-autonow.market
 0.0.0.0 getvantagedeals.com
+0.0.0.0 getwhispeara.com
 0.0.0.0 getyourguide.com
 0.0.0.0 gfe.nvidia.com
 0.0.0.0 gfnewsfr.pro
@@ -4532,12 +4539,14 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 go.ts-tracker.me
 0.0.0.0 go.vrvm.com
 0.0.0.0 go2affise.com
+0.0.0.0 go2cloud.org
 0.0.0.0 goat.hepicgamerz.com
 0.0.0.0 goat.nhimmeo.cf
 0.0.0.0 goat.skeetstats.xyz
 0.0.0.0 goat.tailspace.net
 0.0.0.0 goggle.com
 0.0.0.0 gohindidatingindiafed.live
+0.0.0.0 gojdqgdaytvmglxtxtcypcbz.us
 0.0.0.0 goldensurveyrewards.com
 0.0.0.0 goldmaileasybin.top
 0.0.0.0 golinkapp.com
@@ -4594,6 +4603,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 gray-vomkleinenhirten.de
 0.0.0.0 greataudiosdownloads.com
 0.0.0.0 greatdebtconsolidationpro.com
+0.0.0.0 greathomeimprovementloansearch.info
 0.0.0.0 greatnewplaces.com
 0.0.0.0 greatvideosdownloads.com
 0.0.0.0 green-griffin-860.appspot.com
@@ -4606,6 +4616,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 groukmout.live
 0.0.0.0 groundtruth.com
 0.0.0.0 groupm.com
+0.0.0.0 groups.google.com/d/msgid/nomaan01d/aafca19f-4a46-491f-bd1b-43d3bb7ea6fcn%40googlegroups.com?utm_medium=email&utm_source=footer
+0.0.0.0 groups.google.com/d/msgid/nomaanweb11/b4e1e645-32ea-4632-926e-7b874048b82an%40googlegroups.com?utm_medium=email&utm_source=footer
 0.0.0.0 grs.hicloud.com
 0.0.0.0 grtbzrsndrrtsb.com
 0.0.0.0 gseyriwpozfxf.com
@@ -4627,6 +4639,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 gumgum.com
 0.0.0.0 gurrfwsscwda.com
 0.0.0.0 gusikowski.equacult.com
+0.0.0.0 guttersavior.com
 0.0.0.0 guvenlinet.org
 0.0.0.0 gvtawzpydsujep.com
 0.0.0.0 gw.conversionsapigateway.com
@@ -4646,6 +4659,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 gyazoo.ga
 0.0.0.0 gyazoo.xyz
 0.0.0.0 gyazos.com
+0.0.0.0 gymtrainer.com
+0.0.0.0 gymtrainer.eu
+0.0.0.0 gymtrainer.eu.com
 0.0.0.0 gynax.com
 0.0.0.0 gyoajmeq.com
 0.0.0.0 h-adashx.ut.alibaba.com
@@ -4707,6 +4723,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 hellay.net
 0.0.0.0 hello.staticstuff.net
 0.0.0.0 hellobar.com
+0.0.0.0 help.law
 0.0.0.0 help.unemploymentbenefitsguide.com
 0.0.0.0 helpbattery1.ksmobile.com
 0.0.0.0 helpcmgamesdk1.ksmobile.com
@@ -4716,7 +4733,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 helpliebao1.ksmobile.com
 0.0.0.0 helpwithedu.com
 0.0.0.0 hemailaccessonline.com
+0.0.0.0 hepi.cosmotry.com
 0.0.0.0 herokuapp.com
+0.0.0.0 hesistand.us
 0.0.0.0 het-wittehuis.nl
 0.0.0.0 hey.hellobar.com
 0.0.0.0 heyacan.tk
@@ -4768,13 +4787,16 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 holidaysales.de
 0.0.0.0 holidaysales.de.com
 0.0.0.0 hollylsmith.com
+0.0.0.0 holmnas.com
 0.0.0.0 home.cmcm.com
+0.0.0.0 home.distributionrot.gr.com
 0.0.0.0 home.neustar
 0.0.0.0 home.yieldkit.com
 0.0.0.0 homeguideplan.com
 0.0.0.0 homeguidetoday.net
 0.0.0.0 homepage.t-online.de
 0.0.0.0 homesweeklies.com
+0.0.0.0 hometopoffers.com
 0.0.0.0 homsoocmouhoa.net
 0.0.0.0 hondachat.com
 0.0.0.0 hondapons.com
@@ -4817,6 +4839,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 httpool.com
 0.0.0.0 https//654DZA987R65R46EZ54TE46Z5T6EZ54TZE987T987.s3.us-east-005.backblazeb2.com
 0.0.0.0 https-filtering-check.adtidy.org
+0.0.0.0 hubfreedom.com
 0.0.0.0 huhkfzino.com
 0.0.0.0 humpqretttg.com
 0.0.0.0 huntmad.com
@@ -4966,6 +4989,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 immqgt.salesbonanza.it.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 in.cuebiq.com
+0.0.0.0 in.net
 0.0.0.0 in.treasuredata.com
 0.0.0.0 in.tubecorporate.com
 0.0.0.0 inapps.appsflyer.com
@@ -4975,6 +4999,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 inclk.com
 0.0.0.0 incluster.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 increasurember.us
 0.0.0.0 indexexchange.com
 0.0.0.0 indigocard.com
 0.0.0.0 indoleads.com
@@ -5151,6 +5176,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 jackmedway.co.uk
 0.0.0.0 jackpotcruise.ru
 0.0.0.0 jadserve.postrelease.com
+0.0.0.0 jakubowski.politicalleyuk.net
 0.0.0.0 jakzxxzrymhz.com
 0.0.0.0 jambocom.xyz
 0.0.0.0 jameskellywnid.net
@@ -5160,6 +5186,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 jas.indeednps.com
 0.0.0.0 jasonmartin.xyz
 0.0.0.0 javascriptcounter.appspot.com
+0.0.0.0 jaxcgc6o.nlgistictransport.com
 0.0.0.0 jbbqwmnrkpi.com
 0.0.0.0 jbdpdr.exclusivebargains.com
 0.0.0.0 jbdpdr.exclusivebargains.eu
@@ -5191,8 +5218,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 jjpnveujkk.com
 0.0.0.0 jjpp.lmtjapi.com
 0.0.0.0 jk.biggerated.de.com
+0.0.0.0 jk.convergrounami.com
 0.0.0.0 jk.digindev.com
 0.0.0.0 jk.socialxusa.com
+0.0.0.0 jk.stellasbarn.com
 0.0.0.0 jk.sufferent.net
 0.0.0.0 jk.suggettysburg.us
 0.0.0.0 jk.totoferrari.com
@@ -5221,7 +5250,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 journaldesvoisins.com
 0.0.0.0 journey.mystarthealth.com
 0.0.0.0 jp.bloom-blush.com
+0.0.0.0 jp.emphibition.de
 0.0.0.0 jp.net
+0.0.0.0 jp.seconomeryarch.mex.com
 0.0.0.0 jphlsnzlxdz.com
 0.0.0.0 jpush.io
 0.0.0.0 jpzzsmshop.com
@@ -5309,6 +5340,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 killersoftware.com
 0.0.0.0 killspy.net
 0.0.0.0 killssource.com
+0.0.0.0 kindness.hesistand.us
 0.0.0.0 kindredmarketingagency.com
 0.0.0.0 kingfamilyphotoalbum.com
 0.0.0.0 kingtrck1.com
@@ -5384,6 +5416,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 l0-secure.videohub.tv
 0.0.0.0 l2.io
 0.0.0.0 l3op.info
+0.0.0.0 l8omdi6k.nlgistictransport.com
 0.0.0.0 label.cmcm.com
 0.0.0.0 lacunads.com
 0.0.0.0 laenergiadeltrigo.com
@@ -5419,6 +5452,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 leadc6.icu
 0.0.0.0 leads.su
 0.0.0.0 leadsmarket.com
+0.0.0.0 leadtime.com
+0.0.0.0 leadtime.de
+0.0.0.0 leadtime.de.com
 0.0.0.0 leadtracking.plumvoice.com
 0.0.0.0 leakforum.ga
 0.0.0.0 leakverifiedimmediatenow.top
@@ -5433,6 +5469,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 leiarimet.com
 0.0.0.0 lemagfemmes.com
 0.0.0.0 lemaitre-france.fr
+0.0.0.0 lemonade.com
 0.0.0.0 lepodownload.mediatek.com
 0.0.0.0 letshareus.com
 0.0.0.0 levanta.io
@@ -5445,6 +5482,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 lhzbdvm.com
 0.0.0.0 lidian.info
 0.0.0.0 lifeimpressions.net
+0.0.0.0 lifelinescreening.com
 0.0.0.0 lifergames.website
 0.0.0.0 lift.acquia.com
 0.0.0.0 liftoff-creatives.io
@@ -5504,14 +5542,17 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 lkiiwoxjfovcga.com
 0.0.0.0 lklwrb.shoppingoptimization.it.com
 0.0.0.0 lllkotiocpjfb.com
+0.0.0.0 llsa.go2cloud.org
 0.0.0.0 lma.npaw.com
 0.0.0.0 lmheeproc.com
 0.0.0.0 lndvtedtayqy.com
 0.0.0.0 lnueliai.com
 0.0.0.0 loader-cdn.azureedge.net
+0.0.0.0 loadingformoreinfoss.cc
 0.0.0.0 loadingscripts.com
 0.0.0.0 loadsource.org
 0.0.0.0 loadus.exelator.com
+0.0.0.0 loanassist-usa.com
 0.0.0.0 loaptoostah.net
 0.0.0.0 localbestdating1.com
 0.0.0.0 localytics.com
@@ -5650,6 +5691,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 loopme.com
 0.0.0.0 loorotaute.net
 0.0.0.0 loox.io
+0.0.0.0 lop.quantumluxex.com
+0.0.0.0 loresented.com
+0.0.0.0 loresented.uk
+0.0.0.0 loresented.uk.com
 0.0.0.0 lotame.com
 0.0.0.0 loungesrc.net
 0.0.0.0 lousecn.cn
