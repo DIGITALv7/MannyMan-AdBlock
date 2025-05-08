@@ -6,9 +6,9 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 04/29/25
+# |  •  UPDATED: 05/07/25
 # |  •  TIME: 5:05PM CST, 17:05PM || UTC-6
-# |  •  SIZE: 259KB
+# |  •  SIZE: 262KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
 # |  •  LICENSE-2: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3342,6 +3342,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 customfingerprints.bablosoft.com
 0.0.0.0 cute.euphorine.com
 0.0.0.0 cutt.ly
+0.0.0.0 cutt.ly/RrlcVE7O?ghHz=pbdDs
 0.0.0.0 cutt.ly/xrtBGTZC?amE=0fxojS7vbk
 0.0.0.0 cv51u10hubcc73bnn1eg.alphaloopconnect.com
 0.0.0.0 cvlqivkartyki.com
@@ -3619,6 +3620,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 digidip.net
 0.0.0.0 digindev.com
 0.0.0.0 diginetz.de
+0.0.0.0 digistore.com
+0.0.0.0 digistore24.com
+0.0.0.0 digistore101.com
 0.0.0.0 digit.qy4p.906560.com
 0.0.0.0 digitalcaramel.com
 0.0.0.0 digitalchallenger.com
@@ -5794,6 +5798,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 manager.cheetahgo.cmcm.com
 0.0.0.0 mani-festo.com
 0.0.0.0 manifest.auditude.com
+0.0.0.0 mante.decreaterine.com
 0.0.0.0 mapper.info
 0.0.0.0 mappufusion.site
 0.0.0.0 mapsgalaxy.com
@@ -5803,6 +5808,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 market.android.com
 0.0.0.0 marketing.mangacopy.com
 0.0.0.0 marketing.rakuten.com
+0.0.0.0 marketingtancs.com
 0.0.0.0 marketplace.appdirect.com
 0.0.0.0 marketplace.stripe.com
 0.0.0.0 markleppke.com
@@ -5833,7 +5839,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 maxprivacyprotector.com
 0.0.0.0 maxtheater.com
 0.0.0.0 mayantial.jp.bloom-blush.com
+0.0.0.0 mayantial.jp.emphibition.de
+0.0.0.0 mayantial.jp.seconomeryarch.mex.com
 0.0.0.0 mayer.taggerhaps.com.de
+0.0.0.0 mayert.politicalleyuk.net
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mbctxigml.com
 0.0.0.0 mbcv.co.il
@@ -5849,6 +5858,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 mcafee.distributionrot.gr.com
 0.0.0.0 mcameraonline.club
 0.0.0.0 mcanism.com
+0.0.0.0 mclaughlin.politicalleyuk.net
 0.0.0.0 mcoreads.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.tiktokw.us
@@ -5957,6 +5967,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 mid-coast-tire.com
 0.0.0.0 midagihead.eu
 0.0.0.0 mikkymax.com
+0.0.0.0 milestonegoldcard.com
 0.0.0.0 mimicromax.com
 0.0.0.0 minecraft-skins.xyz
 0.0.0.0 minenumerousdue.pro
@@ -6028,6 +6039,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 mobileoffers.com
 0.0.0.0 mobilephonepost.com
 0.0.0.0 mobileplay.mobi
+0.0.0.0 mobilesion.com
 0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 mobilethemenow.cmcm.com
 0.0.0.0 mobondhrd.appspot.com
@@ -6035,6 +6047,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 mobpowertech.com
 0.0.0.0 modbati.site
 0.0.0.0 moengage.com
+0.0.0.0 moez.frontinued.similands.com
 0.0.0.0 mofox.com
 0.0.0.0 mok55.com
 0.0.0.0 mokmhp.com
@@ -6059,6 +6072,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 monsetting.toutiao.com
 0.0.0.0 monsoniq.us
 0.0.0.0 mookas.com
+0.0.0.0 moon.arrationshing.com
 0.0.0.0 mopub-win-us-east.bksn.se
 0.0.0.0 morenewmedianow.com
 0.0.0.0 moreniche.com
@@ -6084,6 +6098,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 mr6plw.loan
 0.0.0.0 mrantispy.com
+0.0.0.0 mrarsh.net
 0.0.0.0 mrge.com
 0.0.0.0 ms-trackingapi.phenompeople.com
 0.0.0.0 ms.applovin.com
@@ -6281,6 +6296,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 nitrous-analytics.s3.amazonaws.com
 0.0.0.0 nkis.nikkei.com
 0.0.0.0 nkjssnadxejm.com
+0.0.0.0 nlgistictransport.com
 0.0.0.0 nlog.droid4x.cn
 0.0.0.0 nmrlcnuok.com
 0.0.0.0 nmywwgnnkmud.com
@@ -6302,6 +6318,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 nontoxic-internet.com
 0.0.0.0 noodshare.pics
 0.0.0.0 noracora.com
+0.0.0.0 norma.appearhawk.com
 0.0.0.0 north-america.pool.ntp.org
 0.0.0.0 northstar.cmcm.com
 0.0.0.0 norwide.top
@@ -6365,6 +6382,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 oafoocmisa.net
 0.0.0.0 oaxpcohp.com
 0.0.0.0 ob.leap.app
+0.0.0.0 oberbrunner.pairies.in.net
 0.0.0.0 obnyujeibv.com
 0.0.0.0 observe-nexus.pointandplace.com
 0.0.0.0 observer.ip-label.net
@@ -6556,6 +6574,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 pagesense-collect.zoho.com
 0.0.0.0 pagesocket.glam.com
 0.0.0.0 paidonresults.com
+0.0.0.0 pairies.in.net
 0.0.0.0 palsol.biz
 0.0.0.0 palsol.com
 0.0.0.0 palsol.net
@@ -6586,6 +6605,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 partners.etoro.com
 0.0.0.0 partners.propellerads.com
 0.0.0.0 partnerstack.com
+0.0.0.0 partnertrackers.net
 0.0.0.0 pasta.esfile.duapps.com
 0.0.0.0 pathfinder.analytics.komoot.net
 0.0.0.0 pathmonk.com
@@ -6653,6 +6673,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 pgeejqisao.com
 0.0.0.0 pglstatp-toutiao.com
 0.0.0.0 phluant.com
+0.0.0.0 phoneprivacydata.top
 0.0.0.0 phonescannerrealtimebusinesses.top
 0.0.0.0 photogrid.cmcm.com
 0.0.0.0 photovault.pics
@@ -6766,6 +6787,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 policiesreview.com
 0.0.0.0 policy-tcp.rayjump.com
 0.0.0.0 policy.rayjump.com
+0.0.0.0 politicalleyuk.net
 0.0.0.0 politicaltraining.com
 0.0.0.0 politicaltraining.eu
 0.0.0.0 politicaltraining.eu.com
@@ -6832,6 +6854,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 prf.vagnt.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 primalgrowpro.com
+0.0.0.0 primalgrowpro24.com
 0.0.0.0 primalgrowpro101.com
 0.0.0.0 primarkenfrance.com
 0.0.0.0 primis.tech
@@ -6872,6 +6895,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 profiler-collector.wshareit.com
 0.0.0.0 profitshare.bg
 0.0.0.0 profitshare.ro
+0.0.0.0 profityxpath.com
 0.0.0.0 profootballacademy.eu
 0.0.0.0 profunda.org
 0.0.0.0 progaming.monster
@@ -6898,6 +6922,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 propsid.b-cdn.net
 0.0.0.0 propu.sh
 0.0.0.0 pretectionrequired.com
+0.0.0.0 protection-scanner-verified-now.top
 0.0.0.0 protectorsuite.com
 0.0.0.0 protesidenext.com
 0.0.0.0 proudflex.org
@@ -7025,9 +7050,11 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 qttbfdygj.com
 0.0.0.0 qttmjwno.com
 0.0.0.0 qualityclick.com
+0.0.0.0 qualitywindowsdirect.com
 0.0.0.0 quantcast.com
 0.0.0.0 quantcount.com
 0.0.0.0 quantserve.com
+0.0.0.0 quantumluxex.com
 0.0.0.0 qubitanalytics.appspot.com
 0.0.0.0 query.cmcm.com
 0.0.0.0 query1.petametrics.com
@@ -7078,6 +7105,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 rasenalong.com
 0.0.0.0 raspiadkwcecz.com
 0.0.0.0 ratespywareremovers.com
+0.0.0.0 rath.iwerkshi.com
 0.0.0.0 rau.requiremely.org
 0.0.0.0 rawactf.xyz
 0.0.0.0 rayem.com
@@ -7169,6 +7197,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 removespyware.com
 0.0.0.0 removespyware.ru
 0.0.0.0 rencontreangers.tk
+0.0.0.0 renewalbyandersen.com
 0.0.0.0 replicasderelogiosaa.com.br
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-stats.ad.jiguang.cn
@@ -7183,6 +7212,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 reports.hibu.com
 0.0.0.0 reports.sdiapi.com
 0.0.0.0 reportwest-midas.codmwest.com
+0.0.0.0 repressionist.net
 0.0.0.0 req.startappservice.com
 0.0.0.0 reqde.sooplive.co.kr
 0.0.0.0 requiremely.org
@@ -7207,6 +7237,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 revenuads.com
 0.0.0.0 revenuehits.com
 0.0.0.0 revenuenetwork.com
+0.0.0.0 reversemortgageassist.com
 0.0.0.0 revieweasy.com
 0.0.0.0 revieweasy.com/spy/
 0.0.0.0 revive-adserver.com
@@ -7242,6 +7273,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 rlomivunesqal.com
 0.0.0.0 rm-nl.aarki.netrm.aarki.net
 0.0.0.0 rm.aarki.net
+0.0.0.0 rmstrong.zenfusionnowhub.info
 0.0.0.0 rmtwnrwnhu.com
 0.0.0.0 rnxffkxddyobny.com
 0.0.0.0 ro-casinogames.com
@@ -7311,9 +7343,11 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 runads.com
 0.0.0.0 runikeipajpsales.party
+0.0.0.0 rus.com
 0.0.0.0 rusenov.com
 0.0.0.0 rusreise.com
 0.0.0.0 rusreise.de
+0.0.0.0 russel.censuitary.in.net
 0.0.0.0 russianporn.tv
 0.0.0.0 ruuaqkw.com
 0.0.0.0 ruuwkftrtegqj.com
@@ -8932,6 +8966,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 tyndallbank.eu.com
 0.0.0.0 tynt.com
 0.0.0.0 u-ad.info
+0.0.0.0 u.to
 0.0.0.0 u21drwj6mp.com
 0.0.0.0 uaid.vtwenty.com
 0.0.0.0 ub-xjp.vvbrd.com
@@ -8977,6 +9012,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ujuqvalvvvof.com
 0.0.0.0 ujxogbsw.com
 0.0.0.0 uk-script.dotmetrics.net
+0.0.0.0 uk.com
 0.0.0.0 ukvjkqhmkowc.com
 0.0.0.0 ukyyjicbqdx.com
 0.0.0.0 ulngtppm.com
@@ -8998,6 +9034,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 unicume.com
 0.0.0.0 unigraphix.co
 0.0.0.0 unintentionallyintent.com
+0.0.0.0 unitedroofingexperts.com
 0.0.0.0 units.knotch.it
 0.0.0.0 unityads.com
 0.0.0.0 unityads.unity3d.com
@@ -9174,6 +9211,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 viral782.com
 0.0.0.0 virilwood.com
 0.0.0.0 virtualbouncer.com
+0.0.0.0 virtualhomeownernetwork.info
 0.0.0.0 virusblast.com
 0.0.0.0 virusburst.com
 0.0.0.0 virusguard.com
@@ -9185,6 +9223,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 viva.api.xiaoying.co
 0.0.0.0 vivamariapizza.com
 0.0.0.0 vivianhan.com
+0.0.0.0 vivintoffers.com
 0.0.0.0 vjsticdegj.com
 0.0.0.0 vjsxvihazrwypb.com
 0.0.0.0 vjuvorqe.com
@@ -9263,6 +9302,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 wapstart.ru
 0.0.0.0 war1418.com
 0.0.0.0 wareout.com
+0.0.0.0 warfarersuk.com
 0.0.0.0 watchabc.go.com
 0.0.0.0 watchdog-samsunggoodbyeads
 0.0.0.0 watchdog.goodbyeads
@@ -9270,6 +9310,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 watchgallery.pro
 0.0.0.0 watchtower.graindata.com
 0.0.0.0 waterbottlecheap.cc
+0.0.0.0 waterinkride.com
 0.0.0.0 waters.commerculation.com
 0.0.0.0 wawpklaws.com
 0.0.0.0 waytogypts.xyz
@@ -9277,6 +9318,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 wclkmumbolsmqd.com
 0.0.0.0 wco.crownpeak.com
 0.0.0.0 wcpkhkyuzp.com
+0.0.0.0 wcxsbbqp.commercegeorgiarealestate.com
 0.0.0.0 wcyrjlszoo.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 wd.adcolony.xyz
@@ -9327,6 +9369,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 weekenddeals.it.com
 0.0.0.0 weftybaggage.top
 0.0.0.0 weightedcu.be
+0.0.0.0 weightlosspell.com
 0.0.0.0 weightlosstipsforyou.net
 0.0.0.0 weissnat.nutriwellcoaching.com
 0.0.0.0 weknow.ac
@@ -9336,7 +9379,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 wetouth.bid
 0.0.0.0 weuztuwxue.com
 0.0.0.0 wfear.com
+0.0.0.0 wfuv.com
 0.0.0.0 wfuv.mayantial.jp.bloom-blush.com
+0.0.0.0 wfuv.mayantial.jp.emphibition.de
+0.0.0.0 wfuv.mayantial.jp.seconomeryarch.mex.com
 0.0.0.0 wgaycnmfz.com
 0.0.0.0 wgimuuqvlumvyy.com
 0.0.0.0 wgpsethooknqv.com
@@ -9397,12 +9443,14 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 wlthebetend.adsrv.eacdn.com
 0.0.0.0 wlzdghlzjewbwv.com
 0.0.0.0 wm-reviews.ca
+0.0.0.0 wmmmsbx7.weightlosspell.com
 0.0.0.0 wmniqkqrr.com
 0.0.0.0 wndyip.discountspree.com
 0.0.0.0 wndyip.discountspree.de
 0.0.0.0 wndyip.discountspree.de.com
 0.0.0.0 wnfjzjmc.com
 0.0.0.0 wodemind.net
+0.0.0.0 wolf.pairies.in.net
 0.0.0.0 wompanalytics.azurewebsites.net
 0.0.0.0 woodpecker.uc.cn
 0.0.0.0 wordego.com
@@ -9517,6 +9565,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 xml.kds.media
 0.0.0.0 xml.pdn-4.com
 0.0.0.0 xmlformats.com
+0.0.0.0 xmr3.com
 0.0.0.0 xmtrk.com
 0.0.0.0 xmzbsjgv.icu
 0.0.0.0 xn--battl-b0a.net
@@ -9689,6 +9738,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 zekcgykv.com
 0.0.0.0 zemanta.com
 0.0.0.0 zendmedia.com
+0.0.0.0 zenfusionnowhub.info
 0.0.0.0 zeqtblok.com
 0.0.0.0 zeropark.com
 0.0.0.0 zetaglobal.com
