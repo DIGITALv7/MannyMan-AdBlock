@@ -7530,6 +7530,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 sdspybot.com
 0.0.0.0 sdtagging.azureedge.net
+0.0.0.0 seamazingreward.com
 0.0.0.0 searchads.apple.com
 0.0.0.0 search.adcaffe.com
 0.0.0.0 search.media.com
@@ -7540,12 +7541,13 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 seasonalsales.it.com
 0.0.0.0 seatreport.com
 0.0.0.0 sebeagnjowtg.com
+0.0.0.0 seconomeryarch.mex.com
 0.0.0.0 secure-ds.serving-sys.com
 0.0.0.0 secure-stats.pingdom.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.merchantadvantage.com
 0.0.0.0 secure.quantserve.com
-0.0.0.0 seconomeryarch.mex.com
+0.0.0.0 securebuyhub.su
 0.0.0.0 secureecommerce.su
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securesearchnow.com
@@ -7553,6 +7555,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 securetactics.com
 0.0.0.0 securityiguard.com
 0.0.0.0 seg.sharethis.com
+0.0.0.0 segaleinseservices.info
 0.0.0.0 sehabinden.com
 0.0.0.0 seiinmovimento.it
 0.0.0.0 seksburada.net
@@ -7564,6 +7567,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 sempcxjajh.com
 0.0.0.0 semrush.com
 0.0.0.0 sendlane.com
+0.0.0.0 seniortimesharerelief.com
 0.0.0.0 sensors.larkplayerapp.com
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
@@ -7624,6 +7628,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 shaseltolkuukos.com
 0.0.0.0 shauncvar.com
 0.0.0.0 shaunuftast.com
+0.0.0.0 shawinc.com
 0.0.0.0 sheingivesback.com
 0.0.0.0 sheriffcash.com
 0.0.0.0 sherrypetersphoto.com
@@ -7641,14 +7646,13 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 shoppingoptimization.it
 0.0.0.0 shoppingoptimization.it.com
 0.0.0.0 shorte.st
-0.0.0.0 shorturl.at/66H0C?BvP=Ft3Ta6
-0.0.0.0 shorturl.at/d73Py?PpO=Eo9Ws5t
-0.0.0.0 shorturl.at/kH8ar?IVT=4636mzzd
 0.0.0.0 shorturl.at
+0.0.0.0 showdown.de.com
 0.0.0.0 showmeboobs.xyz
 0.0.0.0 shparxvyhrwgsl.com
 0.0.0.0 shrekis.life
 0.0.0.0 shulives.com
+0.0.0.0 shutterstockes.com
 0.0.0.0 shvana.com
 0.0.0.0 sia.internet.apps.samsung.com
 0.0.0.0 sideoutfit.com
@@ -7657,7 +7661,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 sigrjorpzhte.com
 0.0.0.0 silknet.com
 0.0.0.0 silvermob.com
+0.0.0.0 similands.com
 0.0.0.0 simonbutcherphotography.com
+0.0.0.0 simplebloodsugarfix.com
 0.0.0.0 simpli.fi
 0.0.0.0 simulmedia.com
 0.0.0.0 sinyfqrmiqgd.com
@@ -7686,6 +7692,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 skypecracker.xyz
 0.0.0.0 skypegrab.net
 0.0.0.0 slackb.com
+0.0.0.0 sleekends.net
 0.0.0.0 slickfluide.com
 0.0.0.0 slimshield.com
 0.0.0.0 slotslights.net
@@ -7990,6 +7997,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 stark.timesticedon.com/redirect.html
 0.0.0.0 starman.fathomdns.com
 0.0.0.0 starmediasearcher.com
+0.0.0.0 start.getmetalroofinginnovations.com
 0.0.0.0 start.io
 0.0.0.0 startappexchange.com
 0.0.0.0 startappservice.com
@@ -8133,6 +8141,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 steamcommumity.com
 0.0.0.0 steamtools.co
 0.0.0.0 steegheltee.net
+0.0.0.0 stellasbarn.com
 0.0.0.0 stephenfarrell.io
 0.0.0.0 stg-data-collector.playbuzz.com
 0.0.0.0 stickyadstv.com
@@ -8153,9 +8162,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 stopify.co
 0.0.0.0 stopin.pl
 0.0.0.0 stopitblockit.com
-0.0.0.0 storage.googleapis.com/dsfcdefde/sdfsfs.html#/redirect.html?od=1syx6809065204a01_vl_pickvl_1f01.26twmn.C0000rh5rk12f5m00m_xf1836.h5rk1MDF4N3RqLTB2YmNsbnI0s5tng
-0.0.0.0 storage.googleapis.com/pedri/Googlee.html#/redirect.html?od=1syv68113ccd71e5f_vl_choicestvl_1i72.19qk4ki.C0000rh0rcx2fua00m_wx1951.h0rcxbTkxMTktMTJrMGQ4Yg0z7eDn
-0.0.0.0 storage.googleapis.com/xcxdsc/Google.html#/redirect.html?od=1syv68091974a8a53_vl_choicestvl_1i72.19qk4ki.C0000rh0pwl2dq800m_wx1951.h0pwlbTkxMTktMThnZTQwag0p49bd
+0.0.0.0 storage.googleapis.com
 0.0.0.0 store-real-mall.info
 0.0.0.0 store2.live.ksmobile.net
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
@@ -8171,6 +8178,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 stream.spongead.com
 0.0.0.0 streams.cablecar.sph.com.sg
 0.0.0.0 stresser.science
+0.0.0.0 stretchyourtruthwithkarynruth.info
 0.0.0.0 stripe.com
 0.0.0.0 sts.applovin.com
 0.0.0.0 sts.batmobi.net
@@ -8178,6 +8186,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 studiolegalecipriano.com
 0.0.0.0 studiolegalelarosabambaci.it
 0.0.0.0 su.addthis.com
+0.0.0.0 sub01.disagreek.uk.com
+0.0.0.0 sub02.alcobenigma.us.com
+0.0.0.0 sub03.sleekends.net
+0.0.0.0 sub04.alparator.com
 0.0.0.0 sub.cobarteres.biz
 0.0.0.0 sub.cyberchael.com
 0.0.0.0 subtitleseeker.com
@@ -8304,6 +8316,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 t.tmdn2015x9.com
 0.0.0.0 t2.t2b.click
 0.0.0.0 t3.linkloot.su
+0.0.0.0 t4.securebuyhub.su
 0.0.0.0 t4.secureecommerce.su
 0.0.0.0 t7z.cupid.iqiyi.com
 0.0.0.0 taberei.services
@@ -8343,6 +8356,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 takyake.ru
 0.0.0.0 taljnpgg.com
 0.0.0.0 tamhdxkh.com
+0.0.0.0 tanphysics.com
 0.0.0.0 taozgpkjzpdtgr.com
 0.0.0.0 tap-nexus.appspot.com
 0.0.0.0 tapad.com
@@ -8467,6 +8481,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 thenewyorkevening.com
 0.0.0.0 thenyherald.com
 0.0.0.0 theorg.com
+0.0.0.0 therapysession.de.com
 0.0.0.0 thesandyfeet.com
 0.0.0.0 theseoffersforyou.com
 0.0.0.0 theshopontop.com
@@ -8492,7 +8507,12 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 thogethoffic.co
 0.0.0.0 thomann.clickfire.de
 0.0.0.0 thomasregisterdirectory.com
+0.0.0.0 thompson.canalyzing.us
+0.0.0.0 thompson.seconomeryarch.mex.com
 0.0.0.0 thqwivyhdpoem.com
+0.0.0.0 thumbprint.com
+0.0.0.0 thumbprint.eu
+0.0.0.0 thumbprint.eu.com
 0.0.0.0 thumbvista.com
 0.0.0.0 tib.cdn-serveri2345-ns.shop/foppish.xll
 0.0.0.0 tib.cdn-serveri2345-ns.shop
@@ -8504,6 +8524,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 time.samsungcloudsolution.com
 0.0.0.0 timejs.game.163.com
 0.0.0.0 timeliotelsman.com
+0.0.0.0 timemanagement.cfd
 0.0.0.0 timeonegroup.com
 0.0.0.0 timesticedon.com
 0.0.0.0 timgorichanaz.com
@@ -8592,6 +8613,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 totalpad.com
 0.0.0.0 totoferrari.com
 0.0.0.0 toupai.cmcm.com
+0.0.0.0 touratech.co
+0.0.0.0 touratech.co.th
+0.0.0.0 touratech.th
 0.0.0.0 tourpol.com
 0.0.0.0 townsquaremediastats.com
 0.0.0.0 tp2p.kg.qq.com
@@ -8648,6 +8672,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 track.emerse.com
 0.0.0.0 track.extra.app
 0.0.0.0 track.fabuloustrack.com
+0.0.0.0 track.getinstantfund.com
 0.0.0.0 track.getoffers.top
 0.0.0.0 track.hk01.com
 0.0.0.0 track.hubspot.com
@@ -8885,6 +8910,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 trk.warn-owner-disappear-studied.run
 0.0.0.0 trk2-wtb.swaven.com
 0.0.0.0 trk2.pinterest.com
+0.0.0.0 trkio.com
 0.0.0.0 trkkn.com
 0.0.0.0 trkmyclk.xyz
 0.0.0.0 trkucibqy.com
@@ -8911,6 +8937,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 trx-cdn.zip.co
 0.0.0.0 trx.zip.co
 0.0.0.0 try.abtasty.com
+0.0.0.0 try.mobilesion.com
 0.0.0.0 try.neglectrum.com
 0.0.0.0 try.wurl.com
 0.0.0.0 tryteens.com
@@ -8928,6 +8955,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 tummiarunzpf.com
 0.0.0.0 tunein.adswizz.com
 0.0.0.0 tunion-api.m.taobao.com
+0.0.0.0 tupitea.com
 0.0.0.0 turizdoma.ru
 0.0.0.0 turkey-loan.com
 0.0.0.0 turkospicos.online
