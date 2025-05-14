@@ -403,6 +403,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 213.229.190.154
 0.0.0.0 216.117.183.143
 0.0.0.0 216.170.118.183
+0.0.0.0 216.177.189.133
 0.0.0.0 216.185.44.105
 0.0.0.0 216.37.42.32
 0.0.0.0 217.12.204.238
@@ -533,6 +534,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 1fwjpdwguvqs.com
 0.0.0.0 1minutelifehack.com
 0.0.0.0 1mp.mobi
+0.0.0.0 1nxjeeav.daydmsnightthings.com
 0.0.0.0 1spywarekiller.com
 0.0.0.0 1stantivirus.com
 0.0.0.0 1virusyakalandi.xyz
@@ -566,6 +568,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 3.socalledthosecare.pro
 0.0.0.0 3.theverdictyield.pro
 0.0.0.0 33across.com
+0.0.0.0 35-88-210-91.cprapid.com
 0.0.0.0 360.jarakadvertising.com
 0.0.0.0 360yield.com
 0.0.0.0 36c4.net
@@ -587,6 +590,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 471zpwcngact2x6d2ib.ve
 0.0.0.0 4bikebg.com
 0.0.0.0 4dsply.com
+0.0.0.0 4kqt3pas.imperialeserestaurant.com
 0.0.0.0 4seeresults.com
 0.0.0.0 5.gp
 0.0.0.0 5.socalledthosecare.pro
@@ -618,6 +622,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 7.ly
 0.0.0.0 7.socalledthosecare.pro
 0.0.0.0 7.theverdictyield.pro
+0.0.0.0 73oaunvb.dgljsemi.com
 0.0.0.0 760tv.com
 0.0.0.0 77tracking.com
 0.0.0.0 7adpower.com
@@ -638,6 +643,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 8baa6f385c8982067bae766e6eb7a65e.api.appsee.com
 0.0.0.0 8forum-bahis.com
 0.0.0.0 8fvchzuz.myutilitydomain.com
+0.0.0.0 8owfohjo.verieinteriors.com
 0.0.0.0 9.socalledthosecare.pro
 0.0.0.0 9.theverdictyield.pro
 0.0.0.0 906560.com
@@ -645,6 +651,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 92by17snes4.cc
 0.0.0.0 95277h.com
 0.0.0.0 97fn1ej0.myutilitydomain.com
+0.0.0.0 98d5tzem.rodfmanrealestate.com
 0.0.0.0 99.socalledthosecare.pro
 0.0.0.0 991mostfm.co.id
 0.0.0.0 991z7fol.com
@@ -654,6 +661,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 9a24a1b3dcd5f4.com
 0.0.0.0 9gzo.com
 0.0.0.0 9stoneinvestments.com
+0.0.0.0 9vghghrz.organizadelbiencomun.com
 0.0.0.0 9w2zed1szg.execute-api.us-east-1.amazonaws.com
 0.0.0.0 a-m-a-z-o-n.godaddysites.com
 0.0.0.0 a-v2.presage.io
@@ -1829,6 +1837,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 amqcdbles.com
 0.0.0.0 ams-pageview-public.s3.amazonaws.com
 0.0.0.0 ams.apypxl.com
+0.0.0.0 amt3.com
 0.0.0.0 an.batmobi.net
 0.0.0.0 an.facebook.com
 0.0.0.0 an.yandex.ru
@@ -2184,6 +2193,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 apm-log-upload-os.hoyoverse.com
 0.0.0.0 apns.ksmobile.com
 0.0.0.0 apns.ksmobile.net
+0.0.0.0 apocannabis24.de
 0.0.0.0 apolloniadentalllc.com
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app-analytics-services.com
@@ -2272,6 +2282,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 arrowlends.com
 0.0.0.0 artdebt.top
 0.0.0.0 arthistoryunstuffed.com
+0.0.0.0 articles.thequadairdrone.com
+0.0.0.0 articles.thesonicglowbrush.com
 0.0.0.0 artificialgrasslive.online
 0.0.0.0 artoninvoicing.com
 0.0.0.0 aruljohn.com
@@ -2305,6 +2317,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 athena.cmcm.com
 0.0.0.0 athivision.com
 0.0.0.0 athomedaily.com
+0.0.0.0 ationdentistrynovato.info
 0.0.0.0 atlanticcustombrokers.com
 0.0.0.0 atpqczsqjsxvln.com
 0.0.0.0 atpzzj.limitedoffers.com
@@ -2357,11 +2370,13 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 axonix.com
 0.0.0.0 axtel.net
 0.0.0.0 ayav.net
+0.0.0.0 ayh4stna.edmadultentertainment.com
 0.0.0.0 az.nzn.io
 0.0.0.0 az43064.vo.msecnd.net
 0.0.0.0 az693360.vo.msecnd.net
 0.0.0.0 azbelgium.com
 0.0.0.0 azites.info
+0.0.0.0 azuravitalbalance.com
 0.0.0.0 azuviraza.com
 0.0.0.0 azyda.ru
 0.0.0.0 b-coresalon.com
@@ -2402,6 +2417,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 barefoot.pics
 0.0.0.0 barium.cheezdev.com
 0.0.0.0 barn-tv.se
+0.0.0.0 barttlawfirmct.com
 0.0.0.0 base.cmcm.com
 0.0.0.0 basebastoning.de
 0.0.0.0 basketballcourt.com
@@ -2513,10 +2529,12 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 betsonsport.ru
 0.0.0.0 betterinstaller.com
 0.0.0.0 bewareadware.com
+0.0.0.0 beyondtrendshop.com
 0.0.0.0 bezcmsrzx.com
 0.0.0.0 bf-games.net
 0.0.0.0 bfezsiok.com
 0.0.0.0 bfmio.com
+0.0.0.0 bg.en.presgera.com
 0.0.0.0 bgkxbknajdn.com
 0.0.0.0 bgzdrgliwew.com
 0.0.0.0 bh.contextweb.com
@@ -2580,6 +2598,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 bluehost.in
 0.0.0.0 blutitutipokldu.com
 0.0.0.0 blyjh.com
+0.0.0.0 bmn7yoo1.organizadelbiencomun.com
 0.0.0.0 bmrg.reflected.net
 0.0.0.0 bmwforum.co
 0.0.0.0 bodybuilding.co.uk
@@ -2593,6 +2612,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 bonfire.spklw.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 books-analytics-events.news.apple-dns.net
+0.0.0.0 booliver.com
 0.0.0.0 boostads.net
 0.0.0.0 boostiny.com
 0.0.0.0 boot4free.com
@@ -2668,6 +2688,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 businessofapps.com
 0.0.0.0 businessupdates.com
 0.0.0.0 businessupdates.eu
+0.0.0.0 buvomi.cosmotry.com
 0.0.0.0 buyerforge.com
 0.0.0.0 buygoods.com
 0.0.0.0 buymeacoffee.com
