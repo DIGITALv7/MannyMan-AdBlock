@@ -2732,6 +2732,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 c0l3s.un4am0r3d3ls4b0r.xyz
 0.0.0.0 c1.popads.net
 0.0.0.0 c2.popads.net
+0.0.0.0 c2aoobri.dgljsemi.com
 0.0.0.0 c2i.startappnetwork.com
 0.0.0.0 c2s.startappnetwork.com
 0.0.0.0 c3metrics.medifast1.com
@@ -2743,6 +2744,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 cactusmedia.ae
 0.0.0.0 cactusmedia.com
 0.0.0.0 cad.youku.com
+0.0.0.0 cadangan2.online
 0.0.0.0 cadentalimplantspage.com
 0.0.0.0 cads.scalemonk.com
 0.0.0.0 caerulus.io
@@ -2761,6 +2763,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 campbellcontracting.nz
 0.0.0.0 campstrategwer.com
 0.0.0.0 canalyzing.us
+0.0.0.0 candidaizzeria.incandidaizzeria.info
 0.0.0.0 capaciousdrewreligion.com
 0.0.0.0 capsnbboxmail.top
 0.0.0.0 capterra.com
@@ -2770,6 +2773,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 cardealsnearyou.com
 0.0.0.0 cardvalet.top
 0.0.0.0 careers.hotjar.com
+0.0.0.0 carentaombined.info
 0.0.0.0 carfax.sc.omtrdc.net
 0.0.0.0 carlocksmithservice.bid
 0.0.0.0 carolinadriftingsams.com
@@ -2796,6 +2800,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 catsnthings.com
 0.0.0.0 catsnthings.fun
 0.0.0.0 cb.ksmobile.com
+0.0.0.0 cbdfedbillcompliant.info
 0.0.0.0 cbeyywbfm.com
 0.0.0.0 cbiknyhztow.com
 0.0.0.0 cbsnews.us
@@ -2902,6 +2907,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 cf-ads.pinger.com
 0.0.0.0 cf-pixelfront-analytics.widencdn.net
 0.0.0.0 cf.overblog.com
+0.0.0.0 cfeywcue.sinkeadjusting.com
 0.0.0.0 cfg.cml.ksmobile.com
 0.0.0.0 cfzskkkmjg.com
 0.0.0.0 cgart.ir
@@ -2913,6 +2919,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 chango.com
 0.0.0.0 channelfactory.com
+0.0.0.0 charityfreewillbaptistchurch.info
 0.0.0.0 charmhealingcarla.com
 0.0.0.0 chartbeat.net
 0.0.0.0 chartboost.com
@@ -2935,10 +2942,15 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 chiangmaihotels.co
 0.0.0.0 chicagocutsteakhouse.com
 0.0.0.0 chicory.co
+0.0.0.0 chinamajestic.au
 0.0.0.0 chinamajestic.com.au
+0.0.0.0 chinamajestic.com
+0.0.0.0 chinavationrentals.info
 0.0.0.0 chochokiw205-015jw.trade
 0.0.0.0 chocolateplatform.com
+0.0.0.0 choiceforindependentlife.jp
 0.0.0.0 choiceforindependentlife.jp.net
+0.0.0.0 choiceforindependentlife.net
 0.0.0.0 choicejumpdig.top
 0.0.0.0 choozle.com
 0.0.0.0 choreograph.com
@@ -2948,12 +2960,18 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 cineconchile.com
 0.0.0.0 cityads.com
 0.0.0.0 citylandvideo.de
+0.0.0.0 citywaterandhealthsolutions.info
 0.0.0.0 cj.com
 0.0.0.0 ck.connatix.com
 0.0.0.0 cklvpsjtbwf.com
 0.0.0.0 ckyxscaeockj.bid
 0.0.0.0 cl-ad.x-flow.app
+0.0.0.0 claimadjuster.com
+0.0.0.0 claimadjuster.de
+0.0.0.0 claimadjuster.de.com
+0.0.0.0 claimprocess.com
 0.0.0.0 claimprocess.eu.com
+0.0.0.0 claimprocess.eu
 0.0.0.0 claritas.com
 0.0.0.0 claritybt.freshmarketer.com
 0.0.0.0 clarium.global.ssl.fastly.net
@@ -3040,6 +3058,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 clientlogsf.music.163.com
 0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 clientmetrics.kik.com
+0.0.0.0 clincaganceclaims.info
 0.0.0.0 clinic.cmcm.com
 0.0.0.0 clipsold.com
 0.0.0.0 clk.apxadtracking.net
