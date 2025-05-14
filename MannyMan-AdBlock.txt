@@ -3311,6 +3311,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 cpdafetdjtdsy.com
 0.0.0.0 cpm20.com
 0.0.0.0 cpmstar.com
+0.0.0.0 cprapid.com
 0.0.0.0 cpx.to
 0.0.0.0 cpybdylh.icu
 0.0.0.0 cqaiylftp.com
@@ -3329,6 +3330,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 criteo.net
 0.0.0.0 critical-boot.com
 0.0.0.0 criticalltech.com
+0.0.0.0 crlc8tm0.sinkeadjusting.com
 0.0.0.0 crms.org.sg
 0.0.0.0 crossboardmobile.com
 0.0.0.0 crosspromo.voodoo.io
@@ -3389,9 +3391,11 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 cvmdpz.gamefeedback.com
 0.0.0.0 cvmdpz.gamefeedback.eu
 0.0.0.0 cvmdpz.gamefeedback.eu.com
+0.0.0.0 cwd4khmt.sinkeadjusting.com
 0.0.0.0 cwmycjoddoq.com
 0.0.0.0 cws-hulu.conviva.com
 0.0.0.0 cws.conviva.com
+0.0.0.0 cxmkaxnw.isabelclarkpaintings.com
 0.0.0.0 cyber-hub.net
 0.0.0.0 cyberchael.com
 0.0.0.0 cyberh1.xyz
