@@ -3400,6 +3400,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 cyberchael.com
 0.0.0.0 cyberh1.xyz
 0.0.0.0 cybersecuritiesinc.net
+0.0.0.0 cyberstore.com
+0.0.0.0 cyberstore.de
+0.0.0.0 cyberstore.de.com
 0.0.0.0 cyclingshorts.uk.com
 0.0.0.0 cyufjpvzaf.com
 0.0.0.0 czerwo.ru
@@ -3440,6 +3443,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 d1k8sb4xbepqao.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1n00d49gkbray.cloudfront.net
+0.0.0.0 d1nxsmfp.sinkeadjusting.com
 0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
 0.0.0.0 d1qnmu4nrib73p.cloudfront.net
 0.0.0.0 d1r27qvpjiaqj3.cloudfront.net
@@ -3573,13 +3577,16 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 datasig.io
 0.0.0.0 datauth.io
 0.0.0.0 datax.cmcm.com
+0.0.0.0 date4sex.pro
 0.0.0.0 dateing.club
 0.0.0.0 datingzap.tk
 0.0.0.0 datk.bridgeoos.com
 0.0.0.0 datonics.com
+0.0.0.0 daydmsnightthings.com
 0.0.0.0 dc1199.com
 0.0.0.0 dc8na2hxrj29i.cloudfront.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
+0.0.0.0 dccannabisvisitorscenter.info
 0.0.0.0 dccqzsmabz.com
 0.0.0.0 dcinfos-cache.abtasty.com
 0.0.0.0 dcs-spotify.megaphone.fm
@@ -3595,9 +3602,12 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 de.offeestor.org
 0.0.0.0 de.rayjump.com
 0.0.0.0 de01.rayjump.com
+0.0.0.0 deadwoodrtymanagers.info
 0.0.0.0 dealctr.com
+0.0.0.0 dealhuntbargain.com
 0.0.0.0 deapi.sooplive.co.kr
 0.0.0.0 debojuagug1sf.cloudfront.net
+0.0.0.0 decadesveclothingofut.info
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 decreaterine.com
 0.0.0.0 deepthroats.com
@@ -3618,6 +3628,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 demandbase.com
 0.0.0.0 demdex.net
 0.0.0.0 dep.hmgroup.com
+0.0.0.0 desinvestigators.com
 0.0.0.0 dessy.preprent.nl
 0.0.0.0 detect.rayjump.com
 0.0.0.0 detektivconan-tube.com
@@ -3644,6 +3655,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 dgetrightinthehead.us.com
 0.0.0.0 dgfufcaxzdzenb.com
 0.0.0.0 dggaenaawxe8z.cloudfront.net
+0.0.0.0 dgljsemi.com
 0.0.0.0 dh0c1bz67fuho.cloudfront.net
 0.0.0.0 dhansz.xyz
 0.0.0.0 dhenktvqqmbcnj.bid
@@ -3682,6 +3694,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 direct.adsrvr.org
 0.0.0.0 directadvlink.com
 0.0.0.0 directagents.com
+0.0.0.0 directmeds.com
+0.0.0.0 directorresasmadrid.info
 0.0.0.0 directtrack.com
 0.0.0.0 disagreek.uk.com
 0.0.0.0 discord.kim
@@ -3720,15 +3734,18 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 distributionrot.gr
 0.0.0.0 distributionrot.gr.com
 0.0.0.0 dit.whatsapp.net
+0.0.0.0 ditchingmentrental.info
 0.0.0.0 dithodackee.com
 0.0.0.0 divineenterprises.net
 0.0.0.0 divorcesols.co.uk
 0.0.0.0 djaxadserver.com
 0.0.0.0 djturntableparts.site
+0.0.0.0 dkjds4we.restaurantlagueuledebois.net
 0.0.0.0 dkmdklhu.com
 0.0.0.0 dkqtxx.bundlestorm.com
 0.0.0.0 dkqtxx.bundlestorm.it
 0.0.0.0 dkqtxx.bundlestorm.it.com
+0.0.0.0 dkukr1vu.sinkeadjusting.com
 0.0.0.0 dkupaw9ae63a8.cloudfront.net
 0.0.0.0 dl-adx.op-mobile.opera.com
 0.0.0.0 dl.cm.ksmobile.com
@@ -3805,6 +3822,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 drivethelife.com
 0.0.0.0 drivoferreira.com
 0.0.0.0 drizey.live
+0.0.0.0 drogaefanaoinfobinam.info
 0.0.0.0 dropbox.desi
 0.0.0.0 dropboxx.cf
 0.0.0.0 dropboxx.ga
@@ -3823,6 +3841,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 dt.beyla.site
 0.0.0.0 dtalk.top
 0.0.0.0 dtcpdvnojquf.com
+0.0.0.0 dtennjyo.verieinteriors.com
 0.0.0.0 dtnzlmwgujhgmj.bid
 0.0.0.0 dts.innovid.com
 0.0.0.0 dts.startappservice.com
@@ -3836,6 +3855,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 dump.cb.ksmobile.com
 0.0.0.0 duoyelou.com
 0.0.0.0 duu8lzqdm8tsz.cloudfront.net
+0.0.0.0 duvallogsbenavidestx.info
 0.0.0.0 duwomuonxosyjf.com
 0.0.0.0 dvvkdxejwh.com
 0.0.0.0 dw.com.com
@@ -3844,6 +3864,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 dxb-rep.com
 0.0.0.0 dxkhboqrrimy.bid
 0.0.0.0 dxnglrimuuucmr.com
+0.0.0.0 dxoqeqiy.organizadelbiencomun.com
 0.0.0.0 dxrbc.cn
 0.0.0.0 dy2xcjk8s1dbz.cloudfront.net
 0.0.0.0 dynamic.criteo.com
@@ -3894,6 +3915,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 ecomnia.com
 0.0.0.0 ecxgfgas.com
+0.0.0.0 edmadultentertainment.com
 0.0.0.0 eduu.hopto.org
 0.0.0.0 eduu.redirectme.net
 0.0.0.0 edduyz.salestraining.com
@@ -3902,6 +3924,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 edge.adobedc.net
 0.0.0.0 edm.cmcm.com
+0.0.0.0 edmadultentertainment.com
 0.0.0.0 edmanalytics.pandahall.com
 0.0.0.0 edrgvzhpqrdnj.com
 0.0.0.0 edusecuritywatch.com
@@ -3925,6 +3948,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 eileenlazazzera.com
 0.0.0.0 ejartistic.com
 0.0.0.0 ejrhtmwm.com
+0.0.0.0 ek4e2u4j.sinkeadjusting.com
 0.0.0.0 eklrohpahufy.com
 0.0.0.0 eksi.firebaseio.com
 0.0.0.0 elanatality.info
@@ -3945,16 +3969,20 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 emarketer.com
 0.0.0.0 emediate.eu
 0.0.0.0 emediate.se
+0.0.0.0 emergencicedentists.info
 0.0.0.0 emmarelief.com
 0.0.0.0 emphibition.de
+0.0.0.0 emprendeexitososcr.info
 0.0.0.0 emvdlnwph.com
 0.0.0.0 emxdnfvdnwzx.com
 0.0.0.0 emxyuehfnlssg.com
 0.0.0.0 en.blendee.com
+0.0.0.0 en.presgera.com
 0.0.0.0 enbvylulfg.com
 0.0.0.0 encogcfklrcpqw.com
 0.0.0.0 endzone.click
 0.0.0.0 enemiere.com
+0.0.0.0 energybillcalculation.com
 0.0.0.0 energybillcalculator.com
 0.0.0.0 engagemarketing.com
 0.0.0.0 engine.fyber.com
@@ -4025,10 +4053,12 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 euc.adserver.snapads.com
 0.0.0.0 eunow4u.com
 0.0.0.0 euphorine.com
+0.0.0.0 eura13istanbul.de
 0.0.0.0 eutdrjvsrmav.com
 0.0.0.0 euw-ice.360yield.com
 0.0.0.0 euw.adserver.snapads.com
 0.0.0.0 ev.moneymade.io
+0.0.0.0 ev.refrdittamy.top
 0.0.0.0 ev.stellarlabs.ai
 0.0.0.0 evadav.com
 0.0.0.0 evcknbym.com
@@ -4129,6 +4159,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 evt.houzz.com
 0.0.0.0 evt.mxplay.com
 0.0.0.0 evykfczgpwbvd.com
+0.0.0.0 ewabeacharyrealtor.info
 0.0.0.0 ewitsorrgm.com
 0.0.0.0 ewpqmptpavn.com
 0.0.0.0 ewsawnbf.com
@@ -4139,6 +4170,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 exclusivebargains.com
 0.0.0.0 exclusivebargains.eu
 0.0.0.0 exclusivebargains.eu.com
+0.0.0.0 exclusivzdetailing.info
 0.0.0.0 exe.bid
 0.0.0.0 exec-true.eu
 0.0.0.0 exelator.com
@@ -4162,6 +4194,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 extyoasigus.com
 0.0.0.0 exwcadanpfc.com
+0.0.0.0 eyc9uqbv.imperialeserestaurant.com
+0.0.0.0 eycvflwz.leipzig-online.com
 0.0.0.0 eye.targetads.io
 0.0.0.0 eyebager.site
 0.0.0.0 eyeota.com
