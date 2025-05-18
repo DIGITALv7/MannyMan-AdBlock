@@ -1,14 +1,14 @@
 # ----»» [ 🛡 MannyMan's Ad Block 🛡 | Optimized & Constantly Updated ] ««----
 #
 # |  •  TITLE: MannyMan-AdBlock
-# |  •  LIST TYPE: Supplementary block list for: ads, trackers, malwares, analytics, telemetries & web annoyances
+# |  •  LIST TYPE: Supplementary block list for: ads, trackers, malwares, scams, analytics, telemetries & web annoyances
 # |  •  COMPATIBILITY: Mobile / PC
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 9000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 05/07/25
+# |  •  UPDATED: 05/18/25
 # |  •  TIME: 5:05PM CST, 17:05PM || UTC-6
-# |  •  SIZE: 263KB
+# |  •  SIZE: 266KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
 # |  •  LICENSE-2: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -4212,15 +4212,19 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 facebooksluts.com
 0.0.0.0 facefitnesscenterrewiew.info
 0.0.0.0 fadel.propertysteady.com.co
+0.0.0.0 familydelafayettein.info
 0.0.0.0 fantasticfilms.ru
+0.0.0.0 fapnwsax.verieinteriors.com
 0.0.0.0 farvqaxaoid.com
 0.0.0.0 fastclick.net
 0.0.0.0 fastlink2.com
+0.0.0.0 fastnerveblueprint.com
 0.0.0.0 fatehmechanicalworks.com.au
 0.0.0.0 fatrjjcm.com
 0.0.0.0 favicon.yandex.net
 0.0.0.0 favourite-vol-ctrl-search.top
 0.0.0.0 favouritevolctrlsearch.top
+0.0.0.0 fay.inspiredwater.org
 0.0.0.0 fbbkavxqzy.com
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fcmatch.youtube.com
@@ -4234,6 +4238,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 fehsnwiem.com
 0.0.0.0 feileholmming.science
 0.0.0.0 fejwbcvvzclz.com
+0.0.0.0 femafloorancequotes.info
 0.0.0.0 femmesmures.date
 0.0.0.0 fetchageneraleducation.com
 0.0.0.0 ffhwzaenzoue.com
@@ -4263,10 +4268,12 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 financialhealth.net
 0.0.0.0 find-girls-now.com
 0.0.0.0 find.usaassistanceguide.com
+0.0.0.0 findmyroofingpro.com
 0.0.0.0 finestherbalist.com
 0.0.0.0 fingerprinter-production.herokuapp.com
 0.0.0.0 fiona-s.net
 0.0.0.0 fioressence.com
+0.0.0.0 fioridarrtmentrome.info
 0.0.0.0 fir.alcobenigma.us.com
 0.0.0.0 firebase.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
@@ -4279,6 +4286,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 fitnessandhealthtactics.com
 0.0.0.0 fitnessnutritionals.com
 0.0.0.0 fixerantispy.com
+0.0.0.0 fixitfastoutlet.store
+0.0.0.0 fixyourficechaos.info
 0.0.0.0 fizzyclicks.com
 0.0.0.0 fkjmjybn.com
 0.0.0.0 fkp.samsungcloudsolution.com
@@ -4334,6 +4343,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 forecastinghelp.de
 0.0.0.0 forecastinghelp.de.com
 0.0.0.0 foreclosurecleanerandhandyman.de
+0.0.0.0 forensiacilities.info
 0.0.0.0 form.help.law
 0.0.0.0 formanth.win
 0.0.0.0 fortmyers-mortgage.com
@@ -4342,6 +4352,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 fortnitechat.site
 0.0.0.0 fortressnutrition.com
 0.0.0.0 fortt-rade.com
+0.0.0.0 fortuneildersscam.info
+0.0.0.0 fortythrghtchoices.info
 0.0.0.0 forum-interactive.com
 0.0.0.0 forum.cmcm.com
 0.0.0.0 forum.ksmobile.com
@@ -4351,6 +4363,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 fotocerdas.com
 0.0.0.0 foundationk.com
 0.0.0.0 foundmoneyguide.com
+0.0.0.0 founiongrouting.com
 0.0.0.0 fourmtagservices.appspot.com
 0.0.0.0 fourthelre.com
 0.0.0.0 fourthelre.com/redirect.html
@@ -4362,6 +4375,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 fqwerz.cn
 0.0.0.0 fqwrluzjti.com
 0.0.0.0 frame.hosting
+0.0.0.0 franksfeandfantastics.info
 0.0.0.0 fraud.adjoe.zone
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 frbyvuxzvmqpb.com
@@ -4416,6 +4430,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 fuhankangmei.com
 0.0.0.0 fukuyama-joho.com
 0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 funthingstodoinnorthernvirginia.info
 0.0.0.0 furtherne.com
 0.0.0.0 fusionadvisors.in
 0.0.0.0 future-fie-assets.co.uk
@@ -4501,6 +4516,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 gedichten-voor-iedereen.com
 0.0.0.0 geede.info
 0.0.0.0 geeksforgeekss.com
+0.0.0.0 gefsonteogysolutions.info
 0.0.0.0 gegto.shop
 0.0.0.0 geico.com.ssl.sc.omtrdc.net
 0.0.0.0 gemini.yahoo.com
@@ -4539,9 +4555,11 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 getairphysio.io
 0.0.0.0 getambassador.com
 0.0.0.0 getamone.com
+0.0.0.0 getaudienatom.io
 0.0.0.0 getcake.com
 0.0.0.0 getclicky.com
 0.0.0.0 getdailyprosper.com
+0.0.0.0 getdermaclearskinnow.com
 0.0.0.0 getforhealth.store
 0.0.0.0 getinstahardnow.com
 0.0.0.0 getinstantfund.com
@@ -4554,6 +4572,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 getvantagedeals.com
 0.0.0.0 getwhispeara.com
 0.0.0.0 getyourguide.com
+0.0.0.0 gfb5um1i.webuusescedarhill.com
 0.0.0.0 gfe.nvidia.com
 0.0.0.0 gfnewsfr.pro
 0.0.0.0 gg146.bet
@@ -4627,6 +4646,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 goat.skeetstats.xyz
 0.0.0.0 goat.tailspace.net
 0.0.0.0 goggle.com
+0.0.0.0 gohaikbl.isabelclarkpaintings.com
 0.0.0.0 gohindidatingindiafed.live
 0.0.0.0 gojdqgdaytvmglxtxtcypcbz.us
 0.0.0.0 goldensurveyrewards.com
@@ -4649,6 +4669,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 googleadservices.com
 0.0.0.0 googleanalytics.com
 0.0.0.0 googleanalytlcs.net
+0.0.0.0 googleapis.com
 0.0.0.0 googlec.om
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
@@ -4689,6 +4710,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 greatnewplaces.com
 0.0.0.0 greatvideosdownloads.com
 0.0.0.0 green-griffin-860.appspot.com
+0.0.0.0 greenbemusings.info
 0.0.0.0 grilxn.brandnexus.com
 0.0.0.0 grilxn.brandnexus.it
 0.0.0.0 grilxn.brandnexus.it.com
@@ -4717,6 +4739,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 gts-ads.twistbox.com
 0.0.0.0 guardbar.com
 0.0.0.0 guardwall.com
+0.0.0.0 gudoyi.wirednature.stq
 0.0.0.0 gumblar.cn
 0.0.0.0 gumgum.com
 0.0.0.0 gurrfwsscwda.com
@@ -4749,6 +4772,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 h-adashx.ut.alibaba.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 h.trustedfundingcorp.com
+0.0.0.0 h0pqiias.barttlawfirmct.com
 0.0.0.0 h5.isnssdk.com
 0.0.0.0 h5game.cmcm.com
 0.0.0.0 h5game.ksmobile.com
@@ -4772,16 +4796,20 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 haggler-mopub664-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub670-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub686-us-e-ec2.liftoff.io
+0.0.0.0 hatemsaikokullari.info
 0.0.0.0 halt-spyware.com
 0.0.0.0 haltspyware.info
 0.0.0.0 hamarisafalta.com
 0.0.0.0 hanacbclbrdjon.com
+0.0.0.0 handmadeharbor.info
+0.0.0.0 handwerrtausch.info
 0.0.0.0 happen.spkt.io
 0.0.0.0 hardyload.com
 0.0.0.0 haremarianne.com
 0.0.0.0 harvest.graindata.com
 0.0.0.0 havasedge.com
 0.0.0.0 haveadentalimplantsshop.com
+0.0.0.0 hayalinganizasyon.info
 0.0.0.0 hb.rayjump.com
 0.0.0.0 hb.vhsrv.com
 0.0.0.0 hbotv.co
@@ -4816,6 +4844,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 helpwithedu.com
 0.0.0.0 hemailaccessonline.com
 0.0.0.0 hepi.cosmotry.com
+0.0.0.0 hermimaremprenedorsdigitals.info
 0.0.0.0 herokuapp.com
 0.0.0.0 hesistand.us
 0.0.0.0 het-wittehuis.nl
@@ -4823,6 +4852,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 heyacan.tk
 0.0.0.0 heymistr.com
 0.0.0.0 heyzap.com
+0.0.0.0 hfloridacollections.info
 0.0.0.0 hfxofvdykkmq.com
 0.0.0.0 hgk.biz
 0.0.0.0 hgyvbfmffvmho.com
@@ -4870,6 +4900,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 holidaysales.de.com
 0.0.0.0 hollylsmith.com
 0.0.0.0 holmnas.com
+0.0.0.0 home-19.35-88-210-91.cprapid.com
 0.0.0.0 home.cmcm.com
 0.0.0.0 home.distributionrot.gr.com
 0.0.0.0 home.neustar
@@ -4883,12 +4914,14 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 hondachat.com
 0.0.0.0 hondapons.com
 0.0.0.0 hongkongtower-kanglong.com
+0.0.0.0 hoosiersphotography.info
 0.0.0.0 hop.clickbank.net
 0.0.0.0 hopto.org
 0.0.0.0 hostingcloud.racing
 0.0.0.0 hostingcloud.science
 0.0.0.0 hostingonline.desi
 0.0.0.0 hotapi-va.isnssdk.com
+0.0.0.0 hotsalesvideos.com
 0.0.0.0 hotsgolfexport.loan
 0.0.0.0 hotspecials.com
 0.0.0.0 hotspecials.it
@@ -4903,6 +4936,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 hq1.appsflyer.com
 0.0.0.0 hqkoismxnocd.com
 0.0.0.0 href.li
+0.0.0.0 hruz8pfq.rodfmanrealestate.com
 0.0.0.0 hs.groundtruth.com
 0.0.0.0 hs.vc
 0.0.0.0 hsdwgz.discussionguides.com
@@ -4923,12 +4957,14 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 https-filtering-check.adtidy.org
 0.0.0.0 hubfreedom.com
 0.0.0.0 huhkfzino.com
+0.0.0.0 humantrmationprocess.info
 0.0.0.0 humpqretttg.com
 0.0.0.0 huntmad.com
 0.0.0.0 husetdmrejiyjy.bid
 0.0.0.0 hustlea.com
 0.0.0.0 hvfzshrpfueb.com
 0.0.0.0 hw-ot-ad.a.yximgs.com
+0.0.0.0 hwgru0a7.weightlosspell.com
 0.0.0.0 hwhssc.cn
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 hxbvxmyldlt.com
@@ -5285,8 +5321,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 jdwxjtwue.com
 0.0.0.0 jeanharris.com
 0.0.0.0 jeenustootepsou.net
+0.0.0.0 jelire.whitematterlog.com
 0.0.0.0 jeppes.info
 0.0.0.0 jeqixokniyny.com
+0.0.0.0 jeruze.wirednature.st
 0.0.0.0 jeshnpdqy.com
 0.0.0.0 jevqbzflcbcpz.com
 0.0.0.0 jfiqsfsh.com
@@ -5317,6 +5355,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 jmykbogg.com
 0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 jnrvjpsltf.com
+0.0.0.0 jobbing.snabdhava.shop
 0.0.0.0 jobsinvestments.com
 0.0.0.0 johncharcol.com
 0.0.0.0 johns.tourpol.com
@@ -5327,6 +5366,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 joinmy.site
 0.0.0.0 jojoy.com
 0.0.0.0 jojoy.info
+0.0.0.0 josephnceriversiinfo.info
 0.0.0.0 jotjdn1.appspot.com
 0.0.0.0 journalatenewsite.com
 0.0.0.0 journaldesvoisins.com
@@ -5372,6 +5412,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 justtroll.it
 0.0.0.0 juzdqtmyo.com
 0.0.0.0 jvcwtqqkackdn.com
+0.0.0.0 jw944h3w.mywosteracademy.com
+0.0.0.0 jwfviexm.theurgroundphd.com
 0.0.0.0 jwzuohydf.com
 0.0.0.0 jxswwvvejwzdd.com
 0.0.0.0 k.keyade.com
@@ -5416,6 +5458,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 khewwakrywmgxr.com
 0.0.0.0 kho088.com
 0.0.0.0 khzbeucrltin.com
+0.0.0.0 kickstart.com
+0.0.0.0 kickstart.de.com
+0.0.0.0 kickstart.de
 0.0.0.0 killallspyware.com
 0.0.0.0 killandclean.com
 0.0.0.0 killercash.com
@@ -5437,6 +5482,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 kjfxjsqmn.com
 0.0.0.0 kjkwrmwdyhi.com
 0.0.0.0 kjrjvvxcg.com
+0.0.0.0 kkk.com
+0.0.0.0 kkk.biz
+0.0.0.0 kkk.net
+0.0.0.0 kkk.org
 0.0.0.0 kkkjjskrtsjvx.com
 0.0.0.0 klein.verkelet.com
 0.0.0.0 klinikangka.org
@@ -5474,6 +5523,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ktteklov.com
 0.0.0.0 kueezrtb.com
 0.0.0.0 kueimatyr.com
+0.0.0.0 kuixyshopworld.com
 0.0.0.0 kukluxklan.com
 0.0.0.0 kulapartners.com
 0.0.0.0 kutjilsi.com
@@ -5504,6 +5554,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 laenergiadeltrigo.com
 0.0.0.0 lambda-url.eu-west-1.on.aws
 0.0.0.0 landes-terroir.com
+0.0.0.0 landpesdirectuk.com
 0.0.0.0 langhort.com
 0.0.0.0 lapalabradelobos.com
 0.0.0.0 lappas.com.gr
@@ -5549,6 +5600,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 legislanding.com
 0.0.0.0 legrouperiendeau.com
 0.0.0.0 leiarimet.com
+0.0.0.0 leipzig-online.com
 0.0.0.0 lemagfemmes.com
 0.0.0.0 lemaitre-france.fr
 0.0.0.0 lemonade.com
@@ -5574,6 +5626,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 lijzkjtk.com
 0.0.0.0 likaraoke.com
 0.0.0.0 likesurfing.com
+0.0.0.0 limbpreservationalliance.info
 0.0.0.0 limelight.inc
 0.0.0.0 limitedoffers.com
 0.0.0.0 limitedoffers.eu
@@ -5789,8 +5842,11 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 lp4.io
 0.0.0.0 lpgiguere.com
 0.0.0.0 lptag.liveperson.net
+0.0.0.0 lq.pelletslibbed.top
 0.0.0.0 lqm.io
 0.0.0.0 lqpkjasgqjve.com
+0.0.0.0 lrbgthwt.commercegeorgiarealestate.com
+0.0.0.0 lsaftucw.rodfmanrealestate.com
 0.0.0.0 ls.srvcs.tumblr.com
 0.0.0.0 lucid.mjhassoc.com
 0.0.0.0 luckyforworlds.com
@@ -5798,6 +5854,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 luckypushh.com
 0.0.0.0 ludevu.shopnwinrewards.com
 0.0.0.0 lumomongoose.com
+0.0.0.0 lungreset.com
 0.0.0.0 luvasti.com
 0.0.0.0 luvkkodlpxou.bid
 0.0.0.0 luvnrybocrcgl.com
@@ -5825,6 +5882,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 m.vpadn.com
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 m3.wtf
+0.0.0.0 m6bg1aoe.isabelclarkpaintings.com
 0.0.0.0 m6c8a.mobzaz.com
 0.0.0.0 ma.logsss.com
 0.0.0.0 maahouse.com
@@ -6023,6 +6081,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 metro-ads.in
 0.0.0.0 mex.com
 0.0.0.0 mezlsx.cf
+0.0.0.0 mezuniyfotografim.info
 0.0.0.0 mfadsrvr.com
 0.0.0.0 mfileshare.com
 0.0.0.0 mfjegjqb.com
@@ -6052,6 +6111,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 minhmui.com
 0.0.0.0 minisrclink.cool
 0.0.0.0 miniveral.com
+0.0.0.0 minnesolthmarketplace.info
 0.0.0.0 minor-api-os.hoyoverse.com
 0.0.0.0 mintegral.com
 0.0.0.0 mintegral.net
@@ -6146,6 +6206,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 monitor.music.qq.com
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
 0.0.0.0 monitoring.iraiser.eu
+0.0.0.0 money.com
 0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 monsetting.toutiao.com
 0.0.0.0 monsoniq.us
@@ -6167,6 +6228,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 mountain.com
 0.0.0.0 moupdate1.kingsoft-office-service.com
 0.0.0.0 mouseflow.com
+0.0.0.0 movies-top123.org
 0.0.0.0 movip.wps.com
 0.0.0.0 mp.cm.ksmobile.com
 0.0.0.0 mpianalytics.com
@@ -6269,6 +6331,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 mypromediastoretwo.com
 0.0.0.0 myqcloud.com
 0.0.0.0 mysearch.com
+0.0.0.0 mysecreocietyhiv.info
 0.0.0.0 myspyfreepc.com
 0.0.0.0 myspyprotector.com
 0.0.0.0 myspywarecleaner.com/sc/
@@ -6277,6 +6340,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 mysteryboxshop.cc
 0.0.0.0 mytubefire.com
 0.0.0.0 myutilitydomain.com
+0.0.0.0 mywosteracademy.com
 0.0.0.0 mzaugggxs.com
 0.0.0.0 mzrhjbbikqm.com
 0.0.0.0 mzvwhksbwnj.com
@@ -6531,6 +6595,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 onlinepcfix.com
 0.0.0.0 onlinesdeals.org
 0.0.0.0 onlinesly.com
+0.0.0.0 onmicrosoft.com
 0.0.0.0 onthe.io
 0.0.0.0 ooaihyyrvflmz.com
 0.0.0.0 ooczhygehw.com
@@ -6566,10 +6631,12 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 optrffaeh8sm485e78mckfl6h.stream
 0.0.0.0 opyyykrdyuum.com
 0.0.0.0 opzdbhjvd.com
+0.0.0.0 oquzmwyd.souzaiya-yatchan.com
 0.0.0.0 orangebooks.tk
 0.0.0.0 orboot.pw
 0.0.0.0 orcahub.com
 0.0.0.0 oreware.com
+0.0.0.0 organizadelbiencomun.com
 0.0.0.0 orgsite.info
 0.0.0.0 orgttpvpglshap.com
 0.0.0.0 oriclehearing.com
@@ -6609,6 +6676,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ovmzlptjfci.com
 0.0.0.0 ovrmxaqfashion.xyz
 0.0.0.0 ovtkwzyowci.com
+0.0.0.0 owefxhjr.sinkeadjusting.com
 0.0.0.0 ownerfifteencurtain.pro
 0.0.0.0 owneriq.com
 0.0.0.0 ownmyrentals.com
@@ -6631,6 +6699,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 p.statp.com
 0.0.0.0 p.typekit.net
 0.0.0.0 p.yotpo.com
+0.0.0.0 p0t9tu9n.dgljsemi.com
 0.0.0.0 p1-lm.adukwai.com
 0.0.0.0 p16-ad-sg.ibyteimg.com
 0.0.0.0 p16-ad.byteoversea.com
@@ -6690,6 +6759,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 patita.tk
 0.0.0.0 patrickmurphy.me
 0.0.0.0 patriot.cs.pp.cn
+0.0.0.0 patvoe7q.sinkeadjusting.com
 0.0.0.0 pausebas.xyz
 0.0.0.0 pavoshare.com
 0.0.0.0 pawgcentral.com
@@ -6721,12 +6791,14 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 pebblepost.com
 0.0.0.0 pegasi.ksmobile.net
 0.0.0.0 pegasus.unifygroup.com
+0.0.0.0 pelletslibbed.top
 0.0.0.0 pennzxycrdmw.com
 0.0.0.0 pentlyconger.com
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 perf.hsforms.com
 0.0.0.0 perfect-cleaner.com
 0.0.0.0 performcb.com
+0.0.0.0 perfumedeals.info
 0.0.0.0 pernakolmino.jp.net
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 perryfinances.com
@@ -6926,6 +6998,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 premiumsales.eu.com
 0.0.0.0 preprent.nl
 0.0.0.0 presage.io
+0.0.0.0 presgera.com
 0.0.0.0 pressizer.net
 0.0.0.0 preview-collector.scopely.io
 0.0.0.0 prf.hn
@@ -7078,6 +7151,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 px.ucweb.com
 0.0.0.0 pxjttrrk.com
 0.0.0.0 pxjzhqcmuaa.com
+0.0.0.0 pxk8hgfy.sinkeadjusting.com
 0.0.0.0 pxl.connexity.net
 0.0.0.0 pxlgnpgecom-a.akamaihd.net
 0.0.0.0 pxlqyrteuuh.com
@@ -7095,6 +7169,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 qbddhjrwe.com
 0.0.0.0 qbittorrent.com
 0.0.0.0 qbkzvophvva.com
+0.0.0.0 qe0nl5ii.sinkeadjusting.com
 0.0.0.0 qexegqtytk.bid
 0.0.0.0 qfigzwpgzzkf.com
 0.0.0.0 qfwjclpckrdehi.com
@@ -7125,9 +7200,12 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 qslychhjeo.com
 0.0.0.0 qsng.cn
 0.0.0.0 qspyware.com
+0.0.0.0 qszahc4t.souzaiya-yatchan.com
 0.0.0.0 qttbfdygj.com
 0.0.0.0 qttmjwno.com
 0.0.0.0 qualityclick.com
+0.0.0.0 qualityhealing--news.com
+0.0.0.0 qualityhealingnews.com
 0.0.0.0 qualitywindowsdirect.com
 0.0.0.0 quantcast.com
 0.0.0.0 quantcount.com
@@ -7145,6 +7223,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 quinstreet.net
 0.0.0.0 quit-smoking-today.info
 0.0.0.0 quote.serviceplus.com
+0.0.0.0 quotewizard.com
 0.0.0.0 qvmnebsl.top
 0.0.0.0 qvmnebsl.top/us
 0.0.0.0 qwvajuyccl.com
@@ -9148,6 +9227,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 unruly.co
 0.0.0.0 unspypc.com
 0.0.0.0 untdd.com
+0.0.0.0 unveilingmerveille.club
 0.0.0.0 unyhjoehc.com
 0.0.0.0 uoej.net
 0.0.0.0 uoijjkkkc.com
@@ -9278,6 +9358,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 venuschicago.com
 0.0.0.0 venuspo.icu
 0.0.0.0 vercel-vitals.axiom.co
+0.0.0.0 verieinteriors.com
 0.0.0.0 verkelet.com
 0.0.0.0 versamarketinginc.com
 0.0.0.0 verticaladsgroup.com
@@ -9318,6 +9399,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 virilwood.com
 0.0.0.0 virtualbouncer.com
 0.0.0.0 virtualhomeownernetwork.info
+0.0.0.0 virtualsmallbusinessnetwork.info
 0.0.0.0 virusblast.com
 0.0.0.0 virusburst.com
 0.0.0.0 virusguard.com
@@ -9374,6 +9456,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 vriwjpzvh.com
 0.0.0.0 vrizead.com
 0.0.0.0 vrsngcuwiiiho.com
+0.0.0.0 vrt0lbvk.wec-wongs.com
 0.0.0.0 vs-api.voodoo-tech.io
 0.0.0.0 vserv.mobi
 0.0.0.0 vskqupvddkko.com
@@ -9390,7 +9473,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 vwuyuahqf.com
 0.0.0.0 vxrpmslex.com
 0.0.0.0 vycgbo.businessupdates.eu.com
+0.0.0.0 vyqt9wwh.mywosteracademy.com
 0.0.0.0 vzcljugmtuno.com
+0.0.0.0 vzp1ugvq.mywosteracademy.com
 0.0.0.0 vzsuiuamhuozw.com
 0.0.0.0 w.cm.ksmobile.com
 0.0.0.0 w1.luckyorange.com
@@ -9652,6 +9737,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 xhjtggrtkzo.com
 0.0.0.0 xhkuhzqvtcadz.com
 0.0.0.0 xiaobao.cmcm.com
+0.0.0.0 xictwb0f.weightlosspell.com
+0.0.0.0 xiiraufj.organizadelbiencomun.com
 0.0.0.0 ximad.com
 0.0.0.0 xjqbftcstq.com
 0.0.0.0 xkxddhpx.com
@@ -9728,6 +9815,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 xtjmmnjr.com
 0.0.0.0 xtremeinnovations.net
 0.0.0.0 xtydt.icu
+0.0.0.0 xufjoier.mywosteracademy.com
 0.0.0.0 xufubo.widgetsworlda.com
 0.0.0.0 xunkhuczqnuf.com
 0.0.0.0 xupjsw.icu
@@ -9807,8 +9895,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 youutube.gq
 0.0.0.0 youyield.com
 0.0.0.0 yovoads.com
+0.0.0.0 ypf6epus.sinkeadjusting.com
 0.0.0.0 yqmmjmjxdigdak.com
 0.0.0.0 ys-log-upload-os.hoyoverse.com
+0.0.0.0 ys8crec6.nlgistictransport.com
 0.0.0.0 yssemk.com
 0.0.0.0 yt118.comadsports.in
 0.0.0.0 ythingy.com
@@ -9897,7 +9987,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 zrosbqwecw.com
 0.0.0.0 zrvnhlwypqpwjw.com
 0.0.0.0 zshbpcqbm.com
+0.0.0.0 zsjm4vpm.founiongrouting.com
 0.0.0.0 zsxqjjobfb.com
+0.0.0.0 zt235euq.organizadelbiencomun.com
 0.0.0.0 ztevents.zaloapp.com
 0.0.0.0 zvkytbjimbhk.com
 0.0.0.0 zwzfujusmwsbun.com
