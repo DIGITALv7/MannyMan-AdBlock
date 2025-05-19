@@ -5050,6 +5050,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 iiripeedqfj.com
 0.0.0.0 iixecczxqzy.com
 0.0.0.0 ikealcmavhpk.com
+0.0.0.0 ikm0zeum.weightlosspell.com
 0.0.0.0 ikwyd.com
 0.0.0.0 ikxgvhdw.com
 0.0.0.0 ilepioexi.com
@@ -5085,6 +5086,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 imgurl.us
 0.0.0.0 imgx.jampp.com
 0.0.0.0 imho2.ru
+0.0.0.0 imidtoag.top
 0.0.0.0 immediate-session-now-high.top
 0.0.0.0 immediateimpropernetworkscanner.top
 0.0.0.0 immeritousscraichingtarumari.monster
@@ -5097,6 +5099,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 impactlc.net
 0.0.0.0 impactprintingdenver.com
 0.0.0.0 impacts.alliancehub.com
+0.0.0.0 imperialeserestaurant.com
 0.0.0.0 importadosoriginaisfx.tk
 0.0.0.0 imprdom.com
 0.0.0.0 impress.vcita.com
@@ -5114,6 +5117,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 inbound-analytics.pixlee.co
 0.0.0.0 incalltest.ksmobile.com
+0.0.0.0 incandidaizzeria.info
 0.0.0.0 inclk.com
 0.0.0.0 incluster.com
 0.0.0.0 incoming.telemetry.mozilla.org
@@ -5133,6 +5137,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 infopi.co
 0.0.0.0 informer.yandex.ru
 0.0.0.0 infosystemsllc.com
+0.0.0.0 infoworngamerica.info
 0.0.0.0 ingamesads.gameloft.com
 0.0.0.0 ingenioustechnologies.com
 0.0.0.0 ingest.make.rvapps.io
@@ -5157,6 +5162,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 innovagest2000.com
 0.0.0.0 innovid.com
 0.0.0.0 inoutscripts.com
+0.0.0.0 inpermeabilizacionesterraza.info
 0.0.0.0 ins.connatix.com
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insight.ucweb.com
@@ -5170,11 +5176,14 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 inspirationhistorical.com
 0.0.0.0 inspiratorfreak.com
 0.0.0.0 inspired-housewife.com
+0.0.0.0 inspiredwater.org
 0.0.0.0 inspiring-sustainability.com
 0.0.0.0 installatron.com
 0.0.0.0 installer.betterinstaller.com
 0.0.0.0 installtracker.com
 0.0.0.0 installtracker.unityads.unity3d.com
+0.0.0.0 insuranceagencyrecruitment.info
+0.0.0.0 insurancesavenow.com
 0.0.0.0 int.akisinn.info
 0.0.0.0 int.akisinn.me
 0.0.0.0 int.akisinn.site
@@ -5275,8 +5284,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 iranact.com
 0.0.0.0 irqtkzvyhmmtyw.com
 0.0.0.0 is-tracking-pixel-api-prod.appspot.com
+0.0.0.0 isabelclarkpaintings.com
 0.0.0.0 isawthenews.com
 0.0.0.0 isekvtjiahm.com
+0.0.0.0 iseraqec.theurgroundphd.com
 0.0.0.0 isfxsiooyjad.com
 0.0.0.0 isitforreal.club
 0.0.0.0 islaminfo.fr
@@ -5284,6 +5295,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 itdsmr.com
 0.0.0.0 itmedia.xyz
 0.0.0.0 itopc.cmcm.com
+0.0.0.0 iupwlmml.mywosteracademy.com
 0.0.0.0 iview.cmcm.com
 0.0.0.0 ivjkdyrjjgxhch.com
 0.0.0.0 ivmi-motors.ru
@@ -6348,6 +6360,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 mzyfkfj.com
 0.0.0.0 n152adserv.com
 0.0.0.0 n4403ad.doubleclick.net
+0.0.0.0 n8ju1gpz.southampermatologist.com
 0.0.0.0 na4.docusign.net
 0.0.0.0 na4.docusign.net/Signing/Error.aspx?scope=0590ea43-2d8a-4e73-b478-511ec0496336
 0.0.0.0 naapvraf.com
@@ -6372,6 +6385,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 nativex.com
 0.0.0.0 nativo.com
 0.0.0.0 naturallyearthfriendly.com
+0.0.0.0 natural-pain-relief.com
 0.0.0.0 naverpa-phinf.pstatic.net
 0.0.0.0 nbcollect.kugou.com
 0.0.0.0 nbcollectretry.kugou.com
@@ -6401,6 +6415,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 netseer.com
 0.0.0.0 netshelter.net
 0.0.0.0 netspyprotector.com
+0.0.0.0 networthlog.us.com
 0.0.0.0 network-n.com
 0.0.0.0 networkadvertising.org
 0.0.0.0 networkdynamicscorp.com
@@ -6445,6 +6460,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 nnmssc.cn
 0.0.0.0 no-spy-ware.com
 0.0.0.0 no-spybot.com
+0.0.0.0 no1bqxlw.mywosteracademy.com
 0.0.0.0 noa.yahoo.com
 0.0.0.0 noadware.com
 0.0.0.0 node.aibeacon.jp
@@ -6463,6 +6479,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 norma.appearhawk.com
 0.0.0.0 north-america.pool.ntp.org
 0.0.0.0 northstar.cmcm.com
+0.0.0.0 northwoodspondhockeyclassic.info
 0.0.0.0 norwide.top
 0.0.0.0 nospyware.info
 0.0.0.0 nospywaresoft.com
@@ -6496,6 +6513,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ntlzbnmyukos.com
 0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 ntube.party
+0.0.0.0 ntwu1ur5.edmadultentertainment.com
 0.0.0.0 nubilespics.com
 0.0.0.0 nulwhbbyfdxy.com
 0.0.0.0 numbers.md
@@ -7243,6 +7261,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 r.mail.ru
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 r.skimresources.com
+0.0.0.0 r.v2i8b.com
 0.0.0.0 r0.mail.ru
 0.0.0.0 r0.mradx.net
 0.0.0.0 r01phra.matchesmingle.com
@@ -7292,7 +7311,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 realbridge.xyz
 0.0.0.0 realestatecallsagency.com
 0.0.0.0 realm.hearst3pcc.com
+0.0.0.0 realprize.com
 0.0.0.0 realtime.luckyorange.com
+0.0.0.0 realtortorealtorreferralnetwork.info
 0.0.0.0 reamproperty.com
 0.0.0.0 receive.wmcdp.io
 0.0.0.0 receiver-metis.infeng.site
@@ -7330,6 +7351,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 referralsales.eu.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 refersion.com
+0.0.0.0 refrdittamy.top
 0.0.0.0 refpalps.top
 0.0.0.0 regfreeze.com
 0.0.0.0 regfreeze.net
@@ -7355,6 +7377,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 removespyware.ru
 0.0.0.0 rencontreangers.tk
 0.0.0.0 renewalbyandersen.com
+0.0.0.0 repetitivenesssketching.info
 0.0.0.0 replicasderelogiosaa.com.br
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-stats.ad.jiguang.cn
@@ -7384,6 +7407,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 rest.wildstar-online.com
 0.0.0.0 restartad.com
 0.0.0.0 restauracenanove.cz
+0.0.0.0 restaurantlagueuledebois.net
 0.0.0.0 restresser.com
 0.0.0.0 retargeting.newsmanapp.com
 0.0.0.0 reteuomomondoforus.jp
@@ -7420,6 +7444,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 rikiki.net
 0.0.0.0 ritymusccs.com
 0.0.0.0 rizalsoftware.com
+0.0.0.0 rj1fjhhx.landpesdirectuk.com
 0.0.0.0 rjtcrxzd.com
 0.0.0.0 rjzwheddxjuk.com
 0.0.0.0 rkauzlyh.com
@@ -7432,12 +7457,14 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 rm.aarki.net
 0.0.0.0 rmstrong.zenfusionnowhub.info
 0.0.0.0 rmtwnrwnhu.com
+0.0.0.0 rnqvfdjlpxcvrcxfyostbroe.us
 0.0.0.0 rnxffkxddyobny.com
 0.0.0.0 ro-casinogames.com
 0.0.0.0 robberscull.com
 0.0.0.0 rocketreach.co
 0.0.0.0 rodeonlinesurveys.co.za
 0.0.0.0 rodeostampedehack.pro
+0.0.0.0 rodfmanrealestate.com
 0.0.0.0 rogermccay.org
 0.0.0.0 roiads.com
 0.0.0.0 roletaryk.info
@@ -7489,6 +7516,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 rtwvnrgn.com
 0.0.0.0 rtxpx-a.akamaihd.net
 0.0.0.0 rtyoue.info
+0.0.0.0 rul8smya.theruitingjournal.com
 0.0.0.0 rum.azion.com
 0.0.0.0 rum.azioncdn.net
 0.0.0.0 rum.corewebvitals.io
@@ -7506,6 +7534,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 rusreise.de
 0.0.0.0 russel.censuitary.in.net
 0.0.0.0 russianporn.tv
+0.0.0.0 rustyspklevintage.info
 0.0.0.0 ruuaqkw.com
 0.0.0.0 ruuwkftrtegqj.com
 0.0.0.0 rvqfpfgzmw.com
