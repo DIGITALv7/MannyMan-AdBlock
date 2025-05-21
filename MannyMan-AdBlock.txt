@@ -4926,6 +4926,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 hotspecials.com
 0.0.0.0 hotspecials.it
 0.0.0.0 hotspecials.it.com
+0.0.0.0 hotsalesvideos.com
 0.0.0.0 hotwinupdates.com
 0.0.0.0 houseads-prod.elasticbeanstalk.com
 0.0.0.0 houseads.ttpsdk.info
@@ -8502,8 +8503,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 t.tmdn2015x9.com
 0.0.0.0 t2.t2b.click
 0.0.0.0 t3.linkloot.su
+0.0.0.0 t4.kuixyshopworld.com
 0.0.0.0 t4.securebuyhub.su
 0.0.0.0 t4.secureecommerce.su
+0.0.0.0 t5.secureecommerce.su
 0.0.0.0 t7z.cupid.iqiyi.com
 0.0.0.0 taberei.services
 0.0.0.0 taboola.com
@@ -8529,6 +8532,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 taggerhaps.com
 0.0.0.0 taggerhaps.com.de
 0.0.0.0 taggerhaps.de
+0.0.0.0 tagline.com
+0.0.0.0 tagline.eu.com
+0.0.0.0 tagline.eu
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.catapultx.com
 0.0.0.0 tags.creditkarma.com
@@ -8564,6 +8570,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 targetspot.com
 0.0.0.0 tasteoftheoldcountry.activehosted.com
 0.0.0.0 tathli.com
+0.0.0.0 tatiyutycosmetics.de
 0.0.0.0 tatrack.thinkyeah.com
 0.0.0.0 taurus.cmcm.com
 0.0.0.0 taurus.iad.appboy.com
@@ -8588,6 +8595,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 tec35.com
 0.0.0.0 techbar.me
 0.0.0.0 techbazaar88.com
+0.0.0.0 techcart.st
 0.0.0.0 techcityconnect.ltd
 0.0.0.0 techniche.org.in
 0.0.0.0 technologypickup.us
@@ -8656,10 +8664,12 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 thebubbleprocess.com
 0.0.0.0 thecatmachine.com
 0.0.0.0 thecoolerzone.com
+0.0.0.0 theeverydaydealfinder.com
 0.0.0.0 thegeneralswas.com
 0.0.0.0 thegeneralswas.top
 0.0.0.0 thegenerouschef.com
 0.0.0.0 theguitareffects.com
+0.0.0.0 thegutrehab.com
 0.0.0.0 thekingofheroes.com
 0.0.0.0 theknot.com
 0.0.0.0 theme.cmcm.com.bsgslb.cn
@@ -8667,10 +8677,16 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 thenewyorkevening.com
 0.0.0.0 thenyherald.com
 0.0.0.0 theorg.com
+0.0.0.0 thequadairdrone.com
+0.0.0.0 therapysession.com
 0.0.0.0 therapysession.de.com
+0.0.0.0 therapysession.de
+0.0.0.0 theruitingjournal.com
 0.0.0.0 thesandyfeet.com
 0.0.0.0 theseoffersforyou.com
 0.0.0.0 theshopontop.com
+0.0.0.0 thesiteendoftheinter.info
+0.0.0.0 thesonicglowbrush.com
 0.0.0.0 thespyguard.com
 0.0.0.0 thespywaredetective.com
 0.0.0.0 thespywarekiller.com
@@ -8681,6 +8697,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 thetrafficstat.net
 0.0.0.0 theultimateclickurl.xyz
 0.0.0.0 theunderheard.com
+0.0.0.0 theurgroundphd.com
 0.0.0.0 theverdictyield.pro
 0.0.0.0 thfoyr.nonprofitnews.com
 0.0.0.0 thfoyr.nonprofitnews.it
@@ -9514,9 +9531,12 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 wadefamilytree.org
 0.0.0.0 waframedia20.com
 0.0.0.0 waiads.com
+0.0.0.0 walla.co
 0.0.0.0 walla.co.il
+0.0.0.0 walla.il
 0.0.0.0 wallpaperup.cmcm.com
 0.0.0.0 waloofficials.com
+0.0.0.0 walpdf3y.hotsalesvideos.com
 0.0.0.0 wangzizhe.com.cn
 0.0.0.0 wappingwasteremoval.co.uk
 0.0.0.0 wapstart.ru
@@ -9544,6 +9564,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 wd.adcolony.xyz
 0.0.0.0 wdig.vo.llnwd.net
 0.0.0.0 wds.weqs.me
+0.0.0.0 wdwpbv5u.organizadelbiencomun.com
 0.0.0.0 wealthyads.com
 0.0.0.0 wealthyaffiliate.com
 0.0.0.0 wealthybug.com
@@ -9581,7 +9602,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 webtrack.chd01.com
 0.0.0.0 webtracker.apicasystem.com
 0.0.0.0 webtube.land
+0.0.0.0 webuusescedarhill.com
 0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 wec-wongs.com
 0.0.0.0 weddings.theknot.com
 0.0.0.0 weedkillerclaim.com
 0.0.0.0 weekenddeals.com
@@ -9595,6 +9618,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 weknow.ac
 0.0.0.0 welcometowink.com
 0.0.0.0 west.bidtellect.com
+0.0.0.0 westclieestates.info
 0.0.0.0 westmente.info
 0.0.0.0 wetouth.bid
 0.0.0.0 weuztuwxue.com
@@ -9616,6 +9640,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 whdzxabhqsdnlc.com
 0.0.0.0 whenu.com
 0.0.0.0 whinoops.net
+0.0.0.0 whitematterlog.com
 0.0.0.0 widespace.com
 0.0.0.0 widget-pixels.outbrain.com
 0.0.0.0 widget.civey.com
@@ -9665,6 +9690,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 wm-reviews.ca
 0.0.0.0 wmmmsbx7.weightlosspell.com
 0.0.0.0 wmniqkqrr.com
+0.0.0.0 wmrp8eb3.souzaiya-yatchan.com
 0.0.0.0 wndyip.discountspree.com
 0.0.0.0 wndyip.discountspree.de
 0.0.0.0 wndyip.discountspree.de.com
@@ -9672,6 +9698,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 wodemind.net
 0.0.0.0 wolf.pairies.in.net
 0.0.0.0 wompanalytics.azurewebsites.net
+0.0.0.0 woodinvestassociates.info
 0.0.0.0 woodpecker.uc.cn
 0.0.0.0 wordego.com
 0.0.0.0 workshop.adamsmethod.com
