@@ -7247,6 +7247,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 quinstreet.net
 0.0.0.0 quit-smoking-today.info
 0.0.0.0 quote.serviceplus.com
+0.0.0.0 quoterover.com
 0.0.0.0 quotewizard.com
 0.0.0.0 qvmnebsl.top
 0.0.0.0 qvmnebsl.top/us
