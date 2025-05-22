@@ -6,7 +6,7 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 10,000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 05/20/25
+# |  •  UPDATED: 05/21/25
 # |  •  TIME: 5:05PM CST, 17:05PM || UTC-6
 # |  •  SIZE: 270KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
@@ -1063,6 +1063,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 adplus.co.id
 0.0.0.0 adplxmd.com
 0.0.0.0 adpopcorn.com
+0.0.0.0 adposttool.com
 0.0.0.0 adpower.com
 0.0.0.0 adprofits.ru
 0.0.0.0 adprotect.net
@@ -2613,6 +2614,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 booliver.com
+0.0.0.0 boostads.com
 0.0.0.0 boostads.net
 0.0.0.0 boostiny.com
 0.0.0.0 boot4free.com
@@ -4606,6 +4608,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalmxcup.icu
 0.0.0.0 globalrescue.com
+0.0.0.0 glowcream.com
+0.0.0.0 glowcream.us.com
+0.0.0.0 glowcream.us
 0.0.0.0 glrwnv.seasonalsales.it.com
 0.0.0.0 gm.cmcm.com
 0.0.0.0 gm.ksmobile.com
@@ -7396,6 +7401,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 repressionist.net
 0.0.0.0 req.startappservice.com
 0.0.0.0 reqde.sooplive.co.kr
+0.0.0.0 requestads.com
 0.0.0.0 requiremely.org
 0.0.0.0 res-smartd.info
 0.0.0.0 res.rbl.ms
@@ -7617,6 +7623,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 salixnebac.club
 0.0.0.0 salus.group
 0.0.0.0 samba.tv
+0.0.0.0 samsuncekgonder.info
 0.0.0.0 samsung-akcja.e-kei.pl
 0.0.0.0 samsung-germany.demdex.net
 0.0.0.0 samsung-klimatyzacja.pl
@@ -7646,12 +7653,14 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 sanctumware.net
 0.0.0.0 sandbox.googleanalytics.com
 0.0.0.0 sanjaagiin.info
+0.0.0.0 sanjuancaanoimplants.info
 0.0.0.0 sarabuysochouses.com
 0.0.0.0 sarahlovenpresets.com
 0.0.0.0 saskya.com.br
 0.0.0.0 saveclip.net
 0.0.0.0 saxonomy.jp
 0.0.0.0 saxonomy.jp.net
+0.0.0.0 sayingttthingbook.info
 0.0.0.0 saymedia.com
 0.0.0.0 sayyac.com
 0.0.0.0 sb.scorecard.research.com
@@ -7673,6 +7682,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 scheme.mobpowertech.com
 0.0.0.0 schuster.decreaterine.com
 0.0.0.0 sciathdedans.shop
+0.0.0.0 sciaticahealthtips.com
 0.0.0.0 sciencefuture.tk
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scottmax.com
@@ -7715,6 +7725,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 sdktm.w.inmobi.com
 0.0.0.0 sdkv2.imaginationunwired.com
 0.0.0.0 sdrive.skoda-auto.com
+0.0.0.0 sdsiicx7.organizadelbiencomun.com
 0.0.0.0 sdspybot.com
 0.0.0.0 sdtagging.azureedge.net
 0.0.0.0 seamazingreward.com
@@ -7732,14 +7743,20 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 secure-ds.serving-sys.com
 0.0.0.0 secure-stats.pingdom.com
 0.0.0.0 secure.adnxs.com
+0.0.0.0 secure.ads.com
 0.0.0.0 secure.merchantadvantage.com
+0.0.0.0 secure.money.com
 0.0.0.0 secure.quantserve.com
+0.0.0.0 secure.totaldrive.com
 0.0.0.0 securebuyhub.su
+0.0.0.0 secured.surviveinsight.com
 0.0.0.0 secureecommerce.su
+0.0.0.0 secureplus.getdermaclearskinnow.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securesearchnow.com
 0.0.0.0 securestudies.com
 0.0.0.0 securetactics.com
+0.0.0.0 security.home-19.35-88-210-91.cprapid.com
 0.0.0.0 securityiguard.com
 0.0.0.0 seg.sharethis.com
 0.0.0.0 segaleinseservices.info
@@ -7826,7 +7843,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 shootspyware.com
 0.0.0.0 shopable.press
 0.0.0.0 shopbravesedge.com
+0.0.0.0 shopdrivebright.com
 0.0.0.0 shopempire.su
+0.0.0.0 shopnowlink.us.com
 0.0.0.0 shopnwinrewards.com
 0.0.0.0 shopper.shop.peuse.typekit.net
 0.0.0.0 shoppingoptimization.com
@@ -7853,6 +7872,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 simplebloodsugarfix.com
 0.0.0.0 simpli.fi
 0.0.0.0 simulmedia.com
+0.0.0.0 sinkeadjusting.com
 0.0.0.0 sinyfqrmiqgd.com
 0.0.0.0 sisterscountrystore.com
 0.0.0.0 site.adform.com
@@ -7876,6 +7896,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 skmssc.icu
 0.0.0.0 sknkwpvrkz.com
 0.0.0.0 skt-asum.com
+0.0.0.0 skw4m5vh.sinkeadjusting.com
 0.0.0.0 skypecracker.xyz
 0.0.0.0 skypegrab.net
 0.0.0.0 slackb.com
@@ -7917,6 +7938,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 smtp.cmcm.com
 0.0.0.0 smtp.out01.ksmobile.net
 0.0.0.0 smtp.out02.ksmobile.net
+0.0.0.0 snabdhava.shop
 0.0.0.0 snap.do
 0.0.0.0 snap.licdn.com
 0.0.0.0 snapads.com
@@ -7926,6 +7948,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 snowplow.swm.digital
 0.0.0.0 snowplowjs.darwin.cx
 0.0.0.0 snwpqybkb.com
+0.0.0.0 so5ccpf2.desinvestigators.com
 0.0.0.0 soc.cmcm.com
 0.0.0.0 socalledthosecare.pro
 0.0.0.0 socdm.com
@@ -7940,6 +7963,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 softwareprofit.com
 0.0.0.0 soicos.com
 0.0.0.0 sojern.com
+0.0.0.0 solarandwindenergysavingssite.info
 0.0.0.0 solarcrestx.com
 0.0.0.0 solidlabs.com
 0.0.0.0 solutions.invocacdn.com
@@ -7951,6 +7975,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 sortrashion.com
 0.0.0.0 soundcloud-pax.pandora.com
 0.0.0.0 sourceknowledge.com
+0.0.0.0 southampermatologist.com
+0.0.0.0 souzaiya-yatchan.com
 0.0.0.0 sovrn.com
 0.0.0.0 sp-wukong-tracker.b-cdn.net
 0.0.0.0 sp.tinymce.com
@@ -7962,7 +7988,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 speedydime.com
 0.0.0.0 speedylearning.com
 0.0.0.0 speee-ad.akamaized.net
+0.0.0.0 spider-tracker.com
 0.0.0.0 spider-tracker.xiaohongshu.com
+0.0.0.0 spinnewsbit.eu.com
 0.0.0.0 spiralsense.jp
 0.0.0.0 spire.aarki.net
 0.0.0.0 spklmis.com
@@ -8134,6 +8162,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 spywarezapper.com
 0.0.0.0 spyxpress.com
 0.0.0.0 sqcqop.discountspree.de.com
+0.0.0.0 squarebuttelandandcattlecompany.info
 0.0.0.0 sq.requestads.com
 0.0.0.0 sqpgncbm.com
 0.0.0.0 src.freshmarketer.in
@@ -8173,6 +8202,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 staging-node.cmcm.com
 0.0.0.0 staging-pt.ispot.tv
 0.0.0.0 stags.bluekai.com
+0.0.0.0 stainlesssteelsculpture.info
 0.0.0.0 stampshire.info
 0.0.0.0 stanateaspos.science
 0.0.0.0 starbucks.bio
@@ -8343,6 +8373,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 stock888.cn
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
+0.0.0.0 stonersclubuniversityllc.info
 0.0.0.0 stonks.boats
 0.0.0.0 stonks.fun
 0.0.0.0 stopguard.com
@@ -8358,6 +8389,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 strackr.com
 0.0.0.0 straticized.club
 0.0.0.0 stratione.info
+0.0.0.0 stratosboost.com
 0.0.0.0 strawpoll.ga
 0.0.0.0 strawpolll.ga
 0.0.0.0 straygenius.com
@@ -8415,6 +8447,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 survey.interquest.com
 0.0.0.0 surveys.hotjar.com
 0.0.0.0 survivecoronavirus.org
+0.0.0.0 surviveinsight.com
 0.0.0.0 sushi-idea.com
 0.0.0.0 svclqyctlijue.com
 0.0.0.0 svcn.cm.ksmobile.net
@@ -9793,6 +9826,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 xhjtggrtkzo.com
 0.0.0.0 xhkuhzqvtcadz.com
 0.0.0.0 xiaobao.cmcm.com
+0.0.0.0 xiaohongshu.com
 0.0.0.0 xictwb0f.weightlosspell.com
 0.0.0.0 xiiraufj.organizadelbiencomun.com
 0.0.0.0 ximad.com
