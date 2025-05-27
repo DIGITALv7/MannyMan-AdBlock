@@ -3662,6 +3662,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 dhansz.xyz
 0.0.0.0 dhenktvqqmbcnj.bid
 0.0.0.0 di2xwvxz1jrvu.cloudfront.net
+0.0.0.0 di4qr.dm4n4le.uic.edu
 0.0.0.0 diagnose.igstatic.com
 0.0.0.0 dianomi.com
 0.0.0.0 dianping.com
@@ -3764,10 +3765,10 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 dlsdk.appsflyer.com
 0.0.0.0 dlsdk.appsflyersdk.com
 0.0.0.0 dlyads.adk2x.com
-0.0.0.0 dlzqjsza.vip
 0.0.0.0 dm.isnssdk.com
 0.0.0.0 dm.pstatp.com
 0.0.0.0 dm.toutiao.com
+0.0.0.0 dm4n4le.uic.edu
 0.0.0.0 dmg.digitaltarget.ru
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
 0.0.0.0 dndbinn1.appspot.com
@@ -5636,6 +5637,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 lifeimpressions.net
 0.0.0.0 lifelinescreening.com
 0.0.0.0 lifergames.website
+0.0.0.0 lifesourcevitamins.com
 0.0.0.0 lift.acquia.com
 0.0.0.0 liftoff-creatives.io
 0.0.0.0 liftoff.io
@@ -6457,6 +6459,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ninjax.io
 0.0.0.0 nirzzfseiwkq.com
 0.0.0.0 nitrous-analytics.s3.amazonaws.com
+0.0.0.0 njvcuxkqumkshbclcvnzbmsz.us
 0.0.0.0 nkis.nikkei.com
 0.0.0.0 nkjssnadxejm.com
 0.0.0.0 nlgistictransport.com
@@ -9263,6 +9266,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ugqdykbxe.com
 0.0.0.0 uhazulriksiwou.com
 0.0.0.0 ui.twinred.com
+0.0.0.0 uic.edu
 0.0.0.0 uid.ksosoft.com
 0.0.0.0 uid.mediacorp.sg
 0.0.0.0 uigruwtql.com
