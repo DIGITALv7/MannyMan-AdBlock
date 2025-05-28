@@ -7775,6 +7775,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 semasio.com
 0.0.0.0 sempcxjajh.com
 0.0.0.0 semrush.com
+0.0.0.0 senatefourtrust.xyz
 0.0.0.0 sendlane.com
 0.0.0.0 seniortimesharerelief.com
 0.0.0.0 sensors.larkplayerapp.com
