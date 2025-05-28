@@ -6,8 +6,8 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 10,000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 05/26/25
-# |  •  TIME: 5:05PM CST, 17:05PM || UTC-6
+# |  •  UPDATED: 05/28/25
+# |  •  TIME: 6:53PM CST, 18:53PM || UTC-6
 # |  •  SIZE: 271KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
@@ -6307,6 +6307,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 my-alts.eu
 0.0.0.0 my-ap-p-applicatio-and-gratis.info
+0.0.0.0 my-senior-perks.com
 0.0.0.0 my.hellobar.com
 0.0.0.0 my.id
 0.0.0.0 my.mobfox.com
@@ -8225,6 +8226,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 startup-mobile.ap.yandex-net.ru
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 startupecomm.net
 0.0.0.0 startupsuriname.com
 0.0.0.0 stas.outbrain.com
 0.0.0.0 stat-in.dc.oppomobile.com
