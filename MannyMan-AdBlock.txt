@@ -6,8 +6,8 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 10,000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 05/28/25
-# |  •  TIME: 6:53PM CST, 18:53PM || UTC-6
+# |  •  UPDATED: 06/05/25
+# |  •  TIME: 1:40PM CST, 13:40PM || UTC-6
 # |  •  SIZE: 271KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
@@ -8409,6 +8409,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 sts.applovin.com
 0.0.0.0 sts.batmobi.net
 0.0.0.0 sts.eccmp.com
+0.0.0.0 studentlearningportal.com
 0.0.0.0 studiolegalecipriano.com
 0.0.0.0 studiolegalelarosabambaci.it
 0.0.0.0 su.addthis.com
@@ -10068,6 +10069,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 znnzwdgu.com
 0.0.0.0 zodertracker.com
 0.0.0.0 zoeysqyx.com
+0.0.0.0 zoherabeauty.com
 0.0.0.0 zonahd.org
 0.0.0.0 zoneoccupee.com
 0.0.0.0 zoneprotect.com
