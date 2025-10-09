@@ -48,6 +48,10 @@
 # https://paileactivist.github.io/toolz/adblock.html
 # https://adblock.turtlecute.org/
 # https://coveryourtracks.eff.org/
+# https://paileactivist.github.io/toolz/adblock.html
+# https://obfusgated.com/tools/ad-block-test
+# https://superadblocktest.com/
+# https://iblockads.net/test
 #
 # _____________________________________________
 # •••🚫•••  [ AD CHOICES OPT-OUT ] •••🚫•••
