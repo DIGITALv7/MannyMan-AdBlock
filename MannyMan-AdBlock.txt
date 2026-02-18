@@ -4232,6 +4232,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 fdufault.com
 0.0.0.0 fdxdjkswppg.com
 0.0.0.0 featured.perfectionholic.com
+0.0.0.0 fedoq.com
 0.0.0.0 feedback.ksmobile.com
 0.0.0.0 feedblitz.com
 0.0.0.0 fehsnwiem.com
@@ -6640,6 +6641,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 openstat.net
 0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 0.0.0.0 openweb.com
+0.0.0.0 openwifipower.bond
 0.0.0.0 openx.com
 0.0.0.0 opexchange.com
 0.0.0.0 opgomarketing.com
@@ -9928,6 +9930,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 yandexadexchange.net
 0.0.0.0 yauatoyuhdb.com
 0.0.0.0 yawltelurgy.shop
+0.0.0.0 yb23b.com
 0.0.0.0 ybhbrm.bestsellers.com
 0.0.0.0 ybhbrm.bestsellers.eu
 0.0.0.0 ybhbrm.bestsellers.eu.com
