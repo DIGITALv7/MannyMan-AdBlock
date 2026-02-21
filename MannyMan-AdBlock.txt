@@ -8688,6 +8688,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 test.takedwn.ws
 0.0.0.0 testdns.cmcm.com
 0.0.0.0 texas-kes.top
+0.0.0.0 texasraisethewage.com
 0.0.0.0 texaswhitetailfever.com
 0.0.0.0 tfjqjhcwlfhicn.com
 0.0.0.0 tfqexqeldxjvet.com
