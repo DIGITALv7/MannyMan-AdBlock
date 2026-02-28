@@ -10152,6 +10152,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 aprilkeith.onmicrosoft.com
 0.0.0.0 articipatients.nl
 0.0.0.0 assets.crosspromo.boombit.com
+0.0.0.0 assurerates.com
+0.0.0.0 athomedaily.com
 0.0.0.0 authorneo.mex.com
 0.0.0.0 auto.provide-insurance.com
 0.0.0.0 auto.provide-insurance.com
@@ -10163,6 +10165,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 bandwidth-market.com
 0.0.0.0 bankitips.com
 0.0.0.0 basketballhell.com
+0.0.0.0 batstringhome.pen
 0.0.0.0 bauch.bostoevsky.com
 0.0.0.0 bauch.bostoevsky.com.de
 0.0.0.0 bauch.bostoevsky.de
@@ -10356,6 +10359,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 mysummerfunds.com
 0.0.0.0 mywosteracademy.com
 0.0.0.0 naame.it.com
+0.0.0.0 namprd04.prod.outlook.com
 0.0.0.0 napiersherbalists.com
 0.0.0.0 napollup.gb.net
 0.0.0.0 natasses.com
@@ -10467,6 +10471,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 trendboardtv.de.com
 0.0.0.0 tryblackwoodtea.com
 0.0.0.0 turkiyeninenbasarilihastanesi.de
+0.0.0.0 twanbieringstransport.nl
 0.0.0.0 twinrdengine.com
 0.0.0.0 uknewsx.com
 0.0.0.0 unovig.escrowpipe.com
