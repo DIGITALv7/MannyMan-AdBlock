@@ -7,7 +7,7 @@
 # |  •  NUMBER OF DOMAINS: 10,000+
 # |  •  AUTHOR: DIGITALv7
 # |  •  UPDATED: 03/14/26
-# |  •  TIME: 1:05PM CST, 13:05PM || UTC-6
+# |  •  TIME: 1:05PM CST, 13:05PM || UTC-5
 # |  •  SIZE: 282KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
