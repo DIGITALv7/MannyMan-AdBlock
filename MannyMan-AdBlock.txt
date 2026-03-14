@@ -796,6 +796,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ad-channel.wikawika.xyz
 0.0.0.0 ad-creative.projectcarmen.com
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
+0.0.0.0 ad-delivery.net
 0.0.0.0 ad-eliminator.com
 0.0.0.0 ad-ettoday.cdn.hinet.net
 0.0.0.0 ad-files.classting.com
@@ -868,8 +869,9 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 ad.tencentmusic.com
 0.0.0.0 ad.trafficshop.com
-0.0.0.0 ad.unity3d.com
+0.0.0.0 ad.turn.com
 0.0.0.0 ad.twinrdengine.com
+0.0.0.0 ad.unity3d.com
 0.0.0.0 ad.us.doubleclick.net
 0.0.0.0 ad.vrvm.com
 0.0.0.0 ad.weibo.com
@@ -3086,6 +3088,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 clxgmlpfkoj.com
 0.0.0.0 cm-browser.cmcm.com
 0.0.0.0 cm.a.mts.ru
+0.0.0.0 cm.adform.net
 0.0.0.0 cm.adkmob.com
 0.0.0.0 cm.adskeeper.com
 0.0.0.0 cm.g.doubleclick.net
@@ -3365,6 +3368,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 csp-reporting.cloudflare.com
 0.0.0.0 csp.secureserver.net
 0.0.0.0 csp.withgoogle.com
+0.0.0.0 csync.loopme.me
 0.0.0.0 csr.onet.pl
 0.0.0.0 ct.capterra.com
 0.0.0.0 ct.corpusapp.com
@@ -5849,6 +5853,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 lookupmanager.com
 0.0.0.0 loopimagination.com
 0.0.0.0 loopme.com
+0.0.0.0 loopme.me
 0.0.0.0 loorotaute.net
 0.0.0.0 loox.io
 0.0.0.0 lop.quantumluxex.com
