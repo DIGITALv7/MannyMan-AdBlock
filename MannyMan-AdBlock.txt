@@ -54,16 +54,24 @@
 # https://iblockads.net/test
 #
 # _____________________________________________
-# •••🚫•••  [ AD CHOICES / PERSONAL DATA OPT-OUT ] •••🚫•••
+# •••🚫•••  [ AD CHOICES & PERSONAL DATA OPT-OUT / VERIFY ONLINE SCANNERS ] •••🚫•••
 # _____________________________________________
 #
-# https://optout.aboutads.info/?c=2&lang=EN
+# https://www.optout.aboutads.info/?c=2&lang=EN
 # https://www.youronlinechoices.com
 # https://www.optery.com
 # https://www.optoutprescreen.com
 # https://www.texasnocall.com
 # https://www.donotcall.gov
 # https://www.scamadviser.com
+# https://www.bitdefender.com/en-us/consumer/link-checker?srsltid=AfmBOooJ0LGcDETQmWYAyM2E-eZX6KU0WKCGSV8MNer_R-fxwQ1WZADr
+# https://www.getsafeonline.org/checkawebsite
+# https://www.urlvoid.com
+# https://www.phonenumbers.org
+# https://www.phonenumbers.org/optout
+# https://www.cape.co
+# https://www.dmachoice.org
+# https://www.incogni.com
 #
 # ___________________________________________
 # •••📈••• [ DNS REQUEST LOGS INFO ] •••📉•••
