@@ -2952,6 +2952,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 check.rayjump.com
 0.0.0.0 checkflow.com
 0.0.0.0 checkforspyware.com/sc/
+0.0.0.0 checkgo.io
+0.0.0.0 checkgo.org
 0.0.0.0 checkip.amazonaws.com
 0.0.0.0 checkspy.com
 0.0.0.0 cheeta-translate-service.ksmobile.com
