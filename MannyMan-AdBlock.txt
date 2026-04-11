@@ -6,7 +6,7 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 10,000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 03/14/26
+# |  •  UPDATED: 04/10/26
 # |  •  TIME: 1:05PM CST, 13:05PM || UTC-5
 # |  •  SIZE: 282KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
@@ -3711,6 +3711,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 dimagesrc.com
 0.0.0.0 dimeprice.com
 0.0.0.0 diopousg.com
+0.0.0.0 diothersip.com
 0.0.0.0 direct-collect.dy-api.com
 0.0.0.0 direct-collect.dy-api.eu
 0.0.0.0 direct-events-collector.spot.im
@@ -3819,6 +3820,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 doubleclick.net
 0.0.0.0 doubledeepclick.com
 0.0.0.0 doubtslutecia.com
+0.0.0.0 dovtrck.com
 0.0.0.0 download-genius.com
 0.0.0.0 download-genius.com/download-k:Software-To-Scan-Website-For-Malware.html?aff.id=5929&aff.subid=2000
 0.0.0.0 download-mobile-app.com
@@ -4765,6 +4767,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 gtrk.s3.amazonaws.com
 0.0.0.0 gts-ads.twistbox.com
 0.0.0.0 guardbar.com
+0.0.0.0 guardnanoai.com
 0.0.0.0 guardwall.com
 0.0.0.0 gudoyi.wirednature.stq
 0.0.0.0 gumblar.cn
@@ -4844,6 +4847,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 hck.lfp.mybluehost.me
 0.0.0.0 hctra-ex.top
 0.0.0.0 hctra-ex.top/us
+0.0.0.0 hd7cop277gk9s73ev6vn0.ckmw-protect.pro
 0.0.0.0 hdblog.tech
 0.0.0.0 hdeslibzcv.com
 0.0.0.0 hdringtones.com
