@@ -13,6 +13,7 @@
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
 # |  •  LICENSE-2: https://creativecommons.org/licenses/by-nc-sa/4.0/
 # |  •  RAW TEXT LINK: https://raw.githubusercontent.com/DIGITALv7/MannyMan-AdBlock/refs/heads/main/MannyMan-AdBlock.txt
+# |  •  NOTE: Some of these links were gathered by me, some were found in various inactive lists without credit. Please contact me for credits.
 #
 #      /............♠︎...................♠︎...........\
 #     /                                               \
@@ -1613,6 +1614,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 advertere.zamunda.net
 0.0.0.0 adverts.unity3d.com
 0.0.0.0 advert.unity3d.com
+0.0.0.0 adverttstr.com
+0.0.0.0 adverttstr.com/click
 0.0.0.0 adverticum.net
 0.0.0.0 advertise.unity3d.com
 0.0.0.0 advertise.com
@@ -5377,6 +5380,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 jhhlhneavuo.com
 0.0.0.0 jikpijfebfflia.com
 0.0.0.0 jill.fc.yahoo.com
+0.0.0.0 jinsecurityu.com
 0.0.0.0 jioads.akamaized.net
 0.0.0.0 jira.cmcm.com
 0.0.0.0 jjfankvlnhhm.com
