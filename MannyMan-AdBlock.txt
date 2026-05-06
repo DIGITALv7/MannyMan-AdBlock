@@ -6,8 +6,8 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 10,000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 04/10/26
-# |  •  TIME: 1:05PM CST, 13:05PM || UTC-5
+# |  •  UPDATED: 05/06/26
+# |  •  TIME: 11:01AM CST, 11:01AM || UTC-5
 # |  •  SIZE: 283KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
@@ -10527,6 +10527,29 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 zenteasupply.shop
 0.0.0.0 zxhavvqrbb.mastermanufacturingintelligence.de
 0.0.0.0 qqkedsoe93rmfuth0xvg5hz5c2cz.s3.us-east-1.amazonaws.com
+0.0.0.0 jinsecurityu.com
+0.0.0.0 marmotsreloan.top
+0.0.0.0 lifeconnectflow.com
+0.0.0.0 oundhertobeconsist.org
+0.0.0.0 device-fast-premium-safe.autos
+0.0.0.0 boardmagic.info
+0.0.0.0 trystorages.com
+0.0.0.0 yearargument.xyz
+0.0.0.0 traveldeals24.net
+0.0.0.0 rel-s.com
+0.0.0.0 lifeconnectflow.com
+0.0.0.0 wheel.golzu.com
+0.0.0.0 golzu.com
+0.0.0.0 tradingarenahq.com
+0.0.0.0 jup9.com
+0.0.0.0 hotsinglesnear.xyz
+0.0.0.0 leaksmart.com
+0.0.0.0 hotgirlsaround.xyz
+0.0.0.0 mh.charmsaddle.com
+0.0.0.0 charmsaddle.com
+0.0.0.0 tds.datingapprove.com
+0.0.0.0 datingapprove.com
+0.0.0.0 girlsnearyou.online
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
