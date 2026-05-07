@@ -8655,6 +8655,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 tccbanner.com
 0.0.0.0 tchmemnasaxpt.com
 0.0.0.0 tcr.tynt.com
+0.0.0.0 tc.vbnmhjlp.com
 0.0.0.0 td.doubleclick.net
 0.0.0.0 tddjcdzra.com
 0.0.0.0 tdeilxkjxgdedb.com
@@ -9456,6 +9457,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 vasfxpribls.com
 0.0.0.0 vastify.io
 0.0.0.0 vbivaia.site
+0.0.0.0 vbnmhjlp.com
 0.0.0.0 vbooter.org
 0.0.0.0 vbskcvjdabdp.com
 0.0.0.0 vcfnspbgztl.com
