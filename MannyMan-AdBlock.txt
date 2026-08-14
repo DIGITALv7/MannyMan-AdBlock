@@ -6,8 +6,8 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 10,000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 07/10/26
-# |  •  TIME: 1:34PM CST, 13:34PM || UTC-5
+# |  •  UPDATED: 08/13/26
+# |  •  TIME: 7:23PM CST, 19:23PM || UTC-5
 # |  •  SIZE: 284KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
@@ -1006,6 +1006,8 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 adhood.com
 0.0.0.0 adimpact.com
 0.0.0.0 adimpression.startappservice.com
+0.0.0.0 adinfo.amazon.com
+0.0.0.0 adinfo.com
 0.0.0.0 adinfo.tango.me
 0.0.0.0 adinfuse.com
 0.0.0.0 adinl.com
