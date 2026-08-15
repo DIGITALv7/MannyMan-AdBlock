@@ -5539,6 +5539,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 kkk.net
 0.0.0.0 kkk.org
 0.0.0.0 kkkjjskrtsjvx.com
+0.0.0.0 kla4.io
 0.0.0.0 klein.verkelet.com
 0.0.0.0 klinikangka.org
 0.0.0.0 klrmgu.freegiftoffers.com
