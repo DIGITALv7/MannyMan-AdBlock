@@ -6,8 +6,8 @@
 # |  •  EXPIRATION: Never
 # |  •  NUMBER OF DOMAINS: 10,000+
 # |  •  AUTHOR: DIGITALv7
-# |  •  UPDATED: 10/31/26
-# |  •  TIME: 7:55PM CST, 19:55PM || UTC-5
+# |  •  UPDATED: 11/09/26
+# |  •  TIME: 5:30PM CST, 17:30PM || UTC-5
 # |  •  SIZE: 284KB
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/MannyMan-AdBlock.txt
 # |  •  LICENSE-1: https://github.com/DIGITALv7/MannyMan-AdBlock/blob/main/LICENSE
@@ -10573,6 +10573,11 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 whatnot.pxf.io
 0.0.0.0 avalancheofnews.com
 0.0.0.0 cdn.adschill.com
+0.0.0.0 aads.com
+0.0.0.0 r.v2i8b.com
+0.0.0.0 v2i8b.com
+0.0.0.0 click.a-ads.com
+0.0.0.0 a-ads.com
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
