@@ -10578,6 +10578,15 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 v2i8b.com
 0.0.0.0 click.a-ads.com
 0.0.0.0 a-ads.com
+0.0.0.0 enduser.adsrvr.org
+0.0.0.0 logs.ads.vungle.com
+0.0.0.0 vg-ali-ad-track-sdk.mtgglobals.com
+0.0.0.0 cdn-f.adsmoloco.com
+0.0.0.0 cached-ad-d.fyber.com
+0.0.0.0 noti-us.adsmoloco.com
+0.0.0.0 vg-ali-ad-mof-sdk.mtgglobals.com
+0.0.0.0 events.ads.vungle.com
+0.0.0.0 s.update.adsrvr.org
 #
 # ______________________________
 # •••◆••• [ < WHITELIST > ] •••◆•••
