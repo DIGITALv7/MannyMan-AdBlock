@@ -10574,6 +10574,7 @@ vaughnlive.tv##.abvsDynamic
 0.0.0.0 avalancheofnews.com
 0.0.0.0 cdn.adschill.com
 0.0.0.0 aads.com
+0.0.0.0 clic.so
 0.0.0.0 r.v2i8b.com
 0.0.0.0 v2i8b.com
 0.0.0.0 click.a-ads.com
